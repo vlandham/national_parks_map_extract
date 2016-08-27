@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import matplotlib.pyplot as plt
 from operator import itemgetter
 from skimage import data, io, filters
 import scipy.ndimage as ndimage
@@ -10,10 +11,29 @@ from skimage.measure import compare_ssim as ssim
 
 import matplotlib
 import matplotlib.pyplot as plt
+import matplotlib.patches as patches
 
 import numpy as np
 
+import warnings
+warnings.filterwarnings("ignore")
+
+def write_json(data, filename):
+    '''
+    Output data dict to json file
+    '''
+    with open(filename, 'w') as outfile:
+        json.dump(data, outfile, indent=2)
+
+# Much of this code comes from:
+# http://stackoverflow.com/questions/4087919/how-can-i-improve-my-paw-detection
 class BBox(object):
+    '''
+    Represents bounding box in image.
+    Can be used to compare bounding boxes
+    and extract image regions using the bounding box.
+
+    '''
     def __init__(self, x1, y1, x2, y2):
         '''
         (x1, y1) is the upper left corner,
@@ -28,18 +48,33 @@ class BBox(object):
         self.y2 = y2
 
     def width(self):
+        '''
+        Return width of bounding box
+        '''
         return self.x2 - self.x1
 
     def height(self):
+        '''
+        Return height of bounding box
+        '''
         return self.y2 - self.y1
 
     def x_extent(self):
+        '''
+        Return furthest x value of bounding box
+        '''
         return self.x1 + self.width()
 
     def y_extent(self):
+        '''
+        Return furthest y value of bounding box
+        '''
         return self.y1 + self.height()
 
     def extract(self, img):
+        '''
+        Extract sub-image from img where bounding box is
+        '''
         return img[(self.y1 - 1):self.y_extent(), (self.x1 - 1):self.x_extent(), :]
 
 
@@ -66,6 +101,9 @@ class BBox(object):
 
 
 def slice_to_bbox(slices):
+    '''
+    Convert skimage slices to BBoxes
+    '''
     for s in slices:
         dy, dx = s[:2]
         yield BBox(dx.start, dy.start, dx.stop+1, dy.stop+1)
@@ -114,42 +152,60 @@ def remove_overlaps(bboxes):
                 bbox.y2 = near_bbox.y2 = max(bbox.y2, near_bbox.y2)
     return set(bbox_map.values())
 
-def write_json(data, filename):
-    with open(filename, 'w') as outfile:
-        json.dump(data, outfile, indent=2)
 
 def remove_dups(bboxes):
+    '''
+    Remove duplicate BBoxes from a list of BBoxes
+    '''
     clean_set = []
     for bbox in bboxes:
         if bbox not in clean_set:
             clean_set.append(bbox)
     return clean_set
 
-def find_squares(bboxes):
-    return [bbox for bbox in bboxes if (bbox.width() > 30) and (bbox.width() < 50) and (bbox.height() > 30) and (bbox.height() < 50)]
+def find_squares(bboxes, size=40, padding=10):
+    '''
+    Return filtered BBoxes list to include
+    only BBoxes that are roughly square of size `size
+    '''
+    min_size = size - padding
+    max_size = size + padding
+    return [bbox for bbox in bboxes if (bbox.width() > min_size) and (bbox.width() < max_size) and (bbox.height() > min_size) and (bbox.height() < max_size)]
 
 def find_img_match(img, imgs):
+    '''
+    Return index of most similar image in imgs to input img
+    Uses: http://scikit-image.org/docs/dev/auto_examples/plot_ssim.html
+    Code inspiration: http://www.pyimagesearch.com/2014/09/15/python-compare-two-images/
+    '''
     ssims = []
     for bimg in imgs:
+        # get images into same shape.
         shape = bimg.shape
         img_shaped = img[0:shape[0], 0:shape[1], :]
-
         shape = img_shaped.shape
-
         bimg_shaped = bimg[0:shape[0], 0:shape[1], :]
-        #print(img_shaped.shape)
-        #print(bimg.shape)
+
         score = ssim(img_shaped, bimg_shaped, multichannel=True)
         ssims.append(score)
 
+    # find max score
+    #max_ssim = max(ssims)
+    (ind, max_ssim) = max(enumerate(ssims), key=itemgetter(1))
 
-    min_ssim = min(ssims)
-    ind = min(enumerate(ssims), key=itemgetter(1))[0]
+    out = {"index":ind, "score":max_ssim}
+
     #return (min_ssim, ind)
-    return ind
+    return out
 
 
 def save_images(images, suffix, output_dir):
+    '''
+    Save a list of images to an output directory.
+    If suffix is provided, it is appended to the end of the filename.
+
+    Images are saved as PNG
+    '''
 
     names = []
     for ind, image in enumerate(images):
@@ -159,8 +215,13 @@ def save_images(images, suffix, output_dir):
     return names
 
 def read_image(filename):
+    '''
+    Read in image from file,
+    convert to pure Black only image
+    '''
 
     img = io.imread(filename, as_grey=False)
+    print(img.shape)
 
 
     fimg = img_as_float(img)
@@ -173,6 +234,9 @@ def read_image(filename):
 
 
 def extract_key(output_dir):
+    '''
+    Extracts key icons and text from symbols image
+    '''
 
     filename = "./data/map_symbols.jpg"
     fimg_bw = read_image(filename)
@@ -208,6 +272,9 @@ def extract_key(output_dir):
     save_images(tlabels, "label", output_dir)
 
 def load_keys(key_dir):
+    '''
+
+    '''
     names = glob.glob(key_dir + "/icon_*_icon.png")
     imgs = []
     for path in names:
@@ -217,12 +284,47 @@ def load_keys(key_dir):
     return imgs
 
 
+def save_match_image(icons, key_imgs, match_inds, output_dir):
+    rows = len(icons)
+    cols = 2
+    fig = plt.figure()
+    plot_index = 1
+    for ind, icon in enumerate(icons):
+        ax = fig.add_subplot(rows, cols, plot_index)
+        plot_index += 1
+        plt.imshow(icon, cmap = plt.cm.gray)
+        plt.axis("off")
+
+        ax = fig.add_subplot(rows, cols, plot_index)
+        plot_index += 1
+
+        match = key_imgs[match_inds[ind]]
+
+        plt.imshow(match, cmap = plt.cm.gray)
+        plt.axis("off")
+    plt.savefig(output_dir + '/matches.png')
+
+def save_loc_image(bboxes, img, output_dir):
+    fig = plt.figure()
+
+    ax = fig.add_subplot(111)
+    plt.axis("off")
+    im = ax.imshow(img)
+    for bbox in bboxes:
+        p = patches.Rectangle((bbox.x1, bbox.y1), bbox.width(), bbox.height(), fc = 'none', ec = 'red')
+        ax.add_patch(p)
+    plt.savefig(output_dir + '/locations.png')
+
 
 def extract_icons(filename, keys):
     print filename
     map_name = filename.split('/')[-1].split('.')[0]
     print map_name
+    # ---
+    #
+    # ---
     fimg_bw = read_image(filename)
+    print(fimg_bw.shape)
 
     fimg_bw_one = fimg_bw[:,:,1]
     fimg_bw_one_invert = 1 - fimg_bw_one
@@ -252,16 +354,20 @@ def extract_icons(filename, keys):
 
     key_imgs = [key['img'] for key in keys]
 
-    matches_ind = [find_img_match(img, key_imgs) for img in icons]
+
+    matches = [find_img_match(img, key_imgs) for img in icons]
+    matches_ind = [m['index'] for m in matches]
+    match_scores = [m['score'] for m in matches]
     match_names = [keys[match_ind]['name'] for match_ind in matches_ind]
     output = []
     for ind, icon in enumerate(icons):
+        bbox = bboxes[ind]
         out = {"icon_name": img_prefixs[ind],
                 "filename": img_names[ind],
-                "match_score": matches_ind[ind],
+                "match_score": match_scores[ind],
                 "match_index": matches_ind[ind],
                 "match_name": match_names[ind],
-                "position": {"x":bboxes[ind].x1 + (bboxes[ind].width() / 2), "y":bboxes[ind].y1 + (bboxes[ind].height() / 2)}
+                "position": {"x":bbox.x1 + (bbox.width() / 2), "y":bbox.y1 + (bbox.height() / 2)}
               }
         output.append(out)
     out_filename = output_dir + "/info.json"
@@ -269,11 +375,14 @@ def extract_icons(filename, keys):
     root = {
             "map":map_name,
             "filename":filename,
-            "icons":output
+            "icons":output,
+            "img_size": {"width": fimg_bw.shape[1], "height": fimg_bw.shape[0]},
             }
 
     write_json(root, out_filename)
 
+    save_match_image(icons, key_imgs, matches_ind, output_dir)
+    save_loc_image(bboxes_filter, fimg_bw, output_dir)
 
 
 key_dir = "./data/icon_key"
@@ -282,5 +391,9 @@ key_dir = "./data/icon_key"
 keys = load_keys(key_dir)
 print(len(keys))
 
-input_filename = './data/npmaps_jpg/death-valley-furnace-creek-map.jpg'
-extract_icons(input_filename, keys)
+#input_filename = './data/npmaps_jpg/death-valley-furnace-creek-map.jpg'
+#extract_icons(input_filename, keys)
+
+input_filenames = glob.glob('./data/npmaps_jpg/*.jpg')
+for input_filename in input_filenames:
+    extract_icons(input_filename, keys)
