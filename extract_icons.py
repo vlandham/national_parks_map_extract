@@ -6,7 +6,7 @@ from skimage import data, io, filters
 import scipy.ndimage as ndimage
 from skimage import color, img_as_float
 
-from skimage.measure import structural_similarity as ssim
+from skimage.measure import compare_ssim as ssim
 
 import matplotlib
 import matplotlib.pyplot as plt
@@ -129,9 +129,23 @@ def find_squares(bboxes):
     return [bbox for bbox in bboxes if (bbox.width() > 30) and (bbox.width() < 50) and (bbox.height() > 30) and (bbox.height() < 50)]
 
 def find_img_match(img, imgs):
-    #ssims = [ssim(img, bimg) for bimg in imgs]
-    #ind = min(enumerate(ssims), key=itemgetter(1))[0]
-    ind = 1
+    ssims = []
+    for bimg in imgs:
+        shape = bimg.shape
+        img_shaped = img[0:shape[0], 0:shape[1], :]
+
+        shape = img_shaped.shape
+
+        bimg_shaped = bimg[0:shape[0], 0:shape[1], :]
+        #print(img_shaped.shape)
+        #print(bimg.shape)
+        score = ssim(img_shaped, bimg_shaped, multichannel=True)
+        ssims.append(score)
+
+
+    min_ssim = min(ssims)
+    ind = min(enumerate(ssims), key=itemgetter(1))[0]
+    #return (min_ssim, ind)
     return ind
 
 
@@ -230,6 +244,8 @@ def extract_icons(filename, keys):
 
     icons = [b.extract(fimg_bw) for b in bboxes_filter]
 
+    # ---
+
     img_names = save_images(icons, 'icon', output_dir)
 
     img_prefixs = [name.split('/')[-1].split('.')[0] for name in img_names]
@@ -242,10 +258,10 @@ def extract_icons(filename, keys):
     for ind, icon in enumerate(icons):
         out = {"icon_name": img_prefixs[ind],
                 "filename": img_names[ind],
+                "match_score": matches_ind[ind],
                 "match_index": matches_ind[ind],
                 "match_name": match_names[ind],
                 "position": {"x":bboxes[ind].x1 + (bboxes[ind].width() / 2), "y":bboxes[ind].y1 + (bboxes[ind].height() / 2)}
-
               }
         output.append(out)
     out_filename = output_dir + "/info.json"
