@@ -1,4 +1,5 @@
 node_modules/*
 data/npmaps/*
 data/npmaps_jpg/*
+data/out/*
 **/.ipynb_checkpoints
