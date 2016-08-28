@@ -14,7 +14,8 @@
       }, 
       "park": "american-samoa", 
       "filename": "./data/npmaps_jpg/american-samoa-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "american-samoa-manua-islands-map", 
@@ -24,7 +25,8 @@
       }, 
       "park": "american-samoa", 
       "filename": "./data/npmaps_jpg/american-samoa-manua-islands-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "american-samoa-regional-map", 
@@ -43,7 +45,10 @@
           "name": "Bottles", 
           "id": "bottles"
         }
-      ]
+      ], 
+      "totals": {
+        "bottles": 1
+      }
     }
   ], 
   "Location": "American Samoa 14\u00b015\u2032S 170\u00b041\u2032W\ufeff / \ufeff14.25\u00b0S 170.68\u00b0W\ufeff / -14.25; -170.68\ufeff (National Park of American Samoa)", 

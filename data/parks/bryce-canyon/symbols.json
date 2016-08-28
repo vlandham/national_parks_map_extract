@@ -215,7 +215,15 @@
           "name": "Picnic area", 
           "id": "picnic-area"
         }
-      ]
+      ], 
+      "totals": {
+        "amphitheater": 1, 
+        "restrooms": 4, 
+        "ranger-station": 2, 
+        "picnic-area": 4, 
+        "bus-stop/shuttle-stop": 10, 
+        "campground": 4
+      }
     }, 
     {
       "map": "bryce-canyon-amphitheater-map", 
@@ -354,7 +362,14 @@
           "name": "Bus stop/Shuttle stop", 
           "id": "bus-stop/shuttle-stop"
         }
-      ]
+      ], 
+      "totals": {
+        "campground": 2, 
+        "picnic-area": 3, 
+        "restrooms": 2, 
+        "amphitheater": 1, 
+        "bus-stop/shuttle-stop": 8
+      }
     }, 
     {
       "map": "bryce-canyon-national-park-detail-map", 
@@ -661,7 +676,17 @@
           "name": "Campground", 
           "id": "campground"
         }
-      ]
+      ], 
+      "totals": {
+        "telephone": 4, 
+        "amphitheater": 1, 
+        "restrooms": 7, 
+        "ranger-station": 2, 
+        "picnic-area": 4, 
+        "bus-stop/shuttle-stop": 8, 
+        "campground": 3, 
+        "drinking-water": 8
+      }
     }, 
     {
       "map": "bryce-canyon-amphitheater-alternate-map", 
@@ -888,7 +913,22 @@
           "name": "Recycling", 
           "id": "recycling"
         }
-      ]
+      ], 
+      "totals": {
+        "safety/caution/alerts": 2, 
+        "shipwreck": 1, 
+        "photography": 1, 
+        "recycling": 4, 
+        "telephone": 6, 
+        "restrooms": 1, 
+        "emergencies": 1, 
+        "maps": 3, 
+        "picnic-area": 2, 
+        "playground": 1, 
+        "parking": 2, 
+        "horseback-riding\n(rental,-guided-tour)": 1, 
+        "calendar/events": 2
+      }
     }, 
     {
       "map": "bryce-canyon-national-park-map", 
@@ -1075,7 +1115,16 @@
           "name": "Picnic area", 
           "id": "picnic-area"
         }
-      ]
+      ], 
+      "totals": {
+        "telephone": 1, 
+        "restrooms": 4, 
+        "ranger-station": 1, 
+        "picnic-area": 3, 
+        "bus-stop/shuttle-stop": 9, 
+        "campground": 3, 
+        "drinking-water": 1
+      }
     }, 
     {
       "map": "bryce-canyon-backcountry-trail-map-1", 
@@ -1110,7 +1159,11 @@
           "name": "Bottles", 
           "id": "bottles"
         }
-      ]
+      ], 
+      "totals": {
+        "sewer-hookup": 1, 
+        "bottles": 2
+      }
     }
   ], 
   "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 

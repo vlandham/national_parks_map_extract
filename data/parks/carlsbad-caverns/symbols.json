@@ -14,7 +14,8 @@
       }, 
       "park": "carlsbad-caverns", 
       "filename": "./data/npmaps_jpg/carlsbad-caverns-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }
   ], 
   "Location": "New Mexico 32\u00b010\u2032N 104\u00b026\u2032W\ufeff / \ufeff32.17\u00b0N 104.44\u00b0W\ufeff / 32.17; -104.44\ufeff (Carlsbad Caverns)", 

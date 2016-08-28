@@ -95,7 +95,13 @@
           "name": "Campground", 
           "id": "campground"
         }
-      ]
+      ], 
+      "totals": {
+        "campground": 4, 
+        "maps": 2, 
+        "picnic-area": 3, 
+        "sewer-hookup": 1
+      }
     }, 
     {
       "map": "badlands-regional-map", 
@@ -105,7 +111,8 @@
       }, 
       "park": "badlands", 
       "filename": "./data/npmaps_jpg/badlands-regional-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "badlands-cedar-pass-detail-map", 
@@ -148,7 +155,13 @@
           "name": "Picnic area", 
           "id": "picnic-area"
         }
-      ]
+      ], 
+      "totals": {
+        "event-facility": 1, 
+        "maps": 1, 
+        "picnic-area": 1, 
+        "campground": 1
+      }
     }
   ], 
   "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 

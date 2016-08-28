@@ -351,7 +351,20 @@
           "name": "Horseback riding\n(rental, guided tour)", 
           "id": "horseback-riding\n(rental,-guided-tour)"
         }
-      ]
+      ], 
+      "totals": {
+        "": 2, 
+        "hiking": 4, 
+        "wheelchair-accessible": 8, 
+        "river-rafting": 2, 
+        "amphitheater": 2, 
+        "restrooms": 6, 
+        "self-guiding-trail": 4, 
+        "ranger-station": 3, 
+        "picnic-area": 5, 
+        "horseback-riding\n(rental,-guided-tour)": 2, 
+        "campground": 4
+      }
     }, 
     {
       "map": "black-canyon-of-the-gunnison-regional-map", 
@@ -361,7 +374,8 @@
       }, 
       "park": "black-canyon-of-the-gunnison", 
       "filename": "./data/npmaps_jpg/black-canyon-of-the-gunnison-regional-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }
   ], 
   "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 

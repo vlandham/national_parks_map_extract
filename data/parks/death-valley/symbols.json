@@ -175,7 +175,22 @@
           "name": "Food service", 
           "id": "food-service"
         }
-      ]
+      ], 
+      "totals": {
+        "food-service": 2, 
+        "sanitary-disposal-station": 4, 
+        "wheelchair-accessible": 1, 
+        "ranger-station": 1, 
+        "restrooms": 1, 
+        "airport": 1, 
+        "picnic-area": 1, 
+        "telephone": 1, 
+        "lodging": 2, 
+        "campground": 3, 
+        "drinking-water": 1, 
+        "store": 1, 
+        "gas-station": 1
+      }
     }, 
     {
       "map": "death-valley-backcountry-roads-map", 
@@ -314,7 +329,12 @@
           "name": "Gas station", 
           "id": "gas-station"
         }
-      ]
+      ], 
+      "totals": {
+        "campground": 7, 
+        "safety/caution/alerts": 2, 
+        "gas-station": 7
+      }
     }, 
     {
       "map": "death-valley-printable-map", 
@@ -637,7 +657,17 @@
           "name": "Airport", 
           "id": "airport"
         }
-      ]
+      ], 
+      "totals": {
+        "safety/caution/alerts": 4, 
+        "restrooms": 10, 
+        "airport": 6, 
+        "picnic-area": 1, 
+        "campground": 7, 
+        "audio-tour": 2, 
+        "lockers/storage": 3, 
+        "gas-station": 6
+      }
     }, 
     {
       "map": "death-valley-map", 
@@ -1320,7 +1350,21 @@
           "name": "Picnic area", 
           "id": "picnic-area"
         }
-      ]
+      ], 
+      "totals": {
+        "airport": 7, 
+        "safety/caution/alerts": 1, 
+        "food-service": 10, 
+        "sanitary-disposal-station": 4, 
+        "wheelchair-accessible": 5, 
+        "telephone": 13, 
+        "ranger-station": 5, 
+        "picnic-area": 4, 
+        "lodging": 11, 
+        "campground": 7, 
+        "store": 8, 
+        "gas-station": 9
+      }
     }, 
     {
       "map": "death-valley-national-park-map", 
@@ -2379,7 +2423,23 @@
           "name": "Airport", 
           "id": "airport"
         }
-      ]
+      ], 
+      "totals": {
+        "airport": 8, 
+        "safety/caution/alerts": 1, 
+        "food-service": 11, 
+        "sanitary-disposal-station": 4, 
+        "wheelchair-accessible": 5, 
+        "telephone": 12, 
+        "restrooms": 27, 
+        "ranger-station": 4, 
+        "picnic-area": 5, 
+        "lodging": 11, 
+        "campground": 11, 
+        "drinking-water": 13, 
+        "store": 8, 
+        "gas-station": 11
+      }
     }, 
     {
       "map": "death-valley-furnace-creek-map", 
@@ -2534,7 +2594,20 @@
           "name": "Food service", 
           "id": "food-service"
         }
-      ]
+      ], 
+      "totals": {
+        "food-service": 2, 
+        "sanitary-disposal-station": 4, 
+        "wheelchair-accessible": 1, 
+        "ranger-station": 1, 
+        "telephone": 1, 
+        "airport": 1, 
+        "picnic-area": 1, 
+        "lodging": 2, 
+        "campground": 3, 
+        "store": 1, 
+        "gas-station": 1
+      }
     }
   ], 
   "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 

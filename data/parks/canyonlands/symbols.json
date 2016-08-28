@@ -191,7 +191,16 @@
           "name": "Campground", 
           "id": "campground"
         }
-      ]
+      ], 
+      "totals": {
+        "sewer-hookup": 6, 
+        "picnic-area": 3, 
+        "entrance-station": 1, 
+        "campground": 2, 
+        "drinking-water": 1, 
+        "laundromat": 7, 
+        "gas-station": 2
+      }
     }, 
     {
       "map": "canyonlands-map", 
@@ -442,7 +451,18 @@
           "name": "Drinking water", 
           "id": "drinking-water"
         }
-      ]
+      ], 
+      "totals": {
+        "safety/caution/alerts": 3, 
+        "trucks": 2, 
+        "sewer-hookup": 3, 
+        "radiator-water": 1, 
+        "boat-trailer-parking": 4, 
+        "picnic-area": 6, 
+        "playground": 2, 
+        "campground": 3, 
+        "drinking-water": 6
+      }
     }, 
     {
       "map": "canyonlands-simple-map", 
@@ -557,7 +577,14 @@
           "name": "Drinking water", 
           "id": "drinking-water"
         }
-      ]
+      ], 
+      "totals": {
+        "campground": 3, 
+        "sewer-hookup": 1, 
+        "drinking-water": 4, 
+        "safety/caution/alerts": 2, 
+        "picnic-area": 3
+      }
     }, 
     {
       "map": "canyonlands-national-park-map", 
@@ -888,7 +915,16 @@
           "name": "Restrooms", 
           "id": "restrooms"
         }
-      ]
+      ], 
+      "totals": {
+        "boat-launch": 3, 
+        "restrooms": 10, 
+        "self-guiding-trail": 5, 
+        "ranger-station": 5, 
+        "picnic-area": 5, 
+        "campground": 6, 
+        "drinking-water": 6
+      }
     }
   ], 
   "Location": "Utah 38\u00b012\u2032N 109\u00b056\u2032W\ufeff / \ufeff38.2\u00b0N 109.93\u00b0W\ufeff / 38.2; -109.93\ufeff (Canyonlands)", 

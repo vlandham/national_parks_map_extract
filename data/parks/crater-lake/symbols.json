@@ -239,7 +239,17 @@
           "name": "Picnic area", 
           "id": "picnic-area"
         }
-      ]
+      ], 
+      "totals": {
+        "food-service": 3, 
+        "ranger-station": 3, 
+        "picnic-area": 10, 
+        "showers": 2, 
+        "lodging": 3, 
+        "campground": 3, 
+        "store": 2, 
+        "gas-station": 2
+      }
     }
   ], 
   "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 

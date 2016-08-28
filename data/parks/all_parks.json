@@ -96,7 +96,10 @@
             "name": "AED - Automated external defibrillator", 
             "id": "aed---automated-external-defibrillator"
           }
-        ]
+        ], 
+        "totals": {
+          "aed---automated-external-defibrillator": 10
+        }
       }, 
       {
         "map": "acadia-isle-au-haut-trail-map", 
@@ -106,7 +109,8 @@
         }, 
         "park": "acadia", 
         "filename": "./data/npmaps_jpg/acadia-isle-au-haut-trail-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "acadia-context-map", 
@@ -116,7 +120,8 @@
         }, 
         "park": "acadia", 
         "filename": "./data/npmaps_jpg/acadia-context-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "acadia-schoodic-trail-map", 
@@ -126,7 +131,8 @@
         }, 
         "park": "acadia", 
         "filename": "./data/npmaps_jpg/acadia-schoodic-trail-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "acadia-west-topo-map", 
@@ -233,7 +239,15 @@
             "name": "Sewer hookup", 
             "id": "sewer-hookup"
           }
-        ]
+        ], 
+        "totals": {
+          "": 1, 
+          "trailhead-information": 1, 
+          "falling-rocks": 5, 
+          "restrooms": 2, 
+          "sewer-hookup": 2, 
+          "monument": 1
+        }
       }, 
       {
         "map": "acadia-map", 
@@ -924,7 +938,19 @@
             "name": "Restrooms", 
             "id": "restrooms"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 2, 
+          "bus-stop/shuttle-stop": 17, 
+          "boat-tour": 5, 
+          "boat-launch": 7, 
+          "restrooms": 21, 
+          "ranger-station": 10, 
+          "picnic-area": 6, 
+          "parking": 11, 
+          "campground": 3, 
+          "swimming": 3
+        }
       }, 
       {
         "map": "acadia-schoodic-map", 
@@ -1031,7 +1057,14 @@
             "name": "Parking", 
             "id": "parking"
           }
-        ]
+        ], 
+        "totals": {
+          "restrooms": 3, 
+          "picnic-area": 1, 
+          "boat-tour": 1, 
+          "parking": 2, 
+          "bus-stop/shuttle-stop": 5
+        }
       }, 
       {
         "map": "acadia-isle-au-haut-map", 
@@ -1082,7 +1115,13 @@
             "name": "Campground", 
             "id": "campground"
           }
-        ]
+        ], 
+        "totals": {
+          "campground": 1, 
+          "ranger-station": 1, 
+          "boat-tour": 1, 
+          "restrooms": 2
+        }
       }, 
       {
         "map": "acadia-ski-map", 
@@ -1117,7 +1156,11 @@
             "name": "Entrance station", 
             "id": "entrance-station"
           }
-        ]
+        ], 
+        "totals": {
+          "fire-extinguisher": 2, 
+          "entrance-station": 1
+        }
       }
     ], 
     "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
@@ -1160,7 +1203,8 @@
         }, 
         "park": "american-samoa", 
         "filename": "./data/npmaps_jpg/american-samoa-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "american-samoa-manua-islands-map", 
@@ -1170,7 +1214,8 @@
         }, 
         "park": "american-samoa", 
         "filename": "./data/npmaps_jpg/american-samoa-manua-islands-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "american-samoa-regional-map", 
@@ -1189,7 +1234,10 @@
             "name": "Bottles", 
             "id": "bottles"
           }
-        ]
+        ], 
+        "totals": {
+          "bottles": 1
+        }
       }
     ], 
     "Location": "American Samoa 14\u00b015\u2032S 170\u00b041\u2032W\ufeff / \ufeff14.25\u00b0S 170.68\u00b0W\ufeff / -14.25; -170.68\ufeff (National Park of American Samoa)", 
@@ -1224,7 +1272,10 @@
             "name": "Parking", 
             "id": "parking"
           }
-        ]
+        ], 
+        "totals": {
+          "parking": 1
+        }
       }, 
       {
         "map": "arches-national-park-map", 
@@ -1395,7 +1446,14 @@
             "name": "Picnic area", 
             "id": "picnic-area"
           }
-        ]
+        ], 
+        "totals": {
+          "self-guiding-trail": 2, 
+          "drinking-water": 3, 
+          "picnic-area": 3, 
+          "sewer-hookup": 2, 
+          "restrooms": 10
+        }
       }, 
       {
         "map": "arches-map", 
@@ -1494,7 +1552,13 @@
             "name": "Drinking water", 
             "id": "drinking-water"
           }
-        ]
+        ], 
+        "totals": {
+          "self-guiding-trail": 2, 
+          "drinking-water": 3, 
+          "picnic-area": 3, 
+          "restrooms": 3
+        }
       }
     ], 
     "Location": "Utah 38\u00b041\u2032N 109\u00b034\u2032W\ufeff / \ufeff38.68\u00b0N 109.57\u00b0W\ufeff / 38.68; -109.57\ufeff (Arches)", 
@@ -1606,7 +1670,13 @@
             "name": "Campground", 
             "id": "campground"
           }
-        ]
+        ], 
+        "totals": {
+          "campground": 4, 
+          "maps": 2, 
+          "picnic-area": 3, 
+          "sewer-hookup": 1
+        }
       }, 
       {
         "map": "badlands-regional-map", 
@@ -1616,7 +1686,8 @@
         }, 
         "park": "badlands", 
         "filename": "./data/npmaps_jpg/badlands-regional-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "badlands-cedar-pass-detail-map", 
@@ -1659,7 +1730,13 @@
             "name": "Picnic area", 
             "id": "picnic-area"
           }
-        ]
+        ], 
+        "totals": {
+          "event-facility": 1, 
+          "maps": 1, 
+          "picnic-area": 1, 
+          "campground": 1
+        }
       }
     ], 
     "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 
@@ -1914,7 +1991,21 @@
             "name": "Store", 
             "id": "store"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 2, 
+          "sanitary-disposal-station": 4, 
+          "wheelchair-accessible": 1, 
+          "amphitheater": 2, 
+          "self-guiding-trail": 3, 
+          "picnic-area": 1, 
+          "lodging": 1, 
+          "campground": 5, 
+          "laundromat": 2, 
+          "rv-campground": 1, 
+          "store": 4, 
+          "gas-station": 2
+        }
       }, 
       {
         "map": "big-bend-simple-map", 
@@ -2029,7 +2120,13 @@
             "name": "Campground", 
             "id": "campground"
           }
-        ]
+        ], 
+        "totals": {
+          "campground": 4, 
+          "gas-station": 2, 
+          "picnic-area": 4, 
+          "restrooms": 3
+        }
       }, 
       {
         "map": "big-bend-national-park-map", 
@@ -2512,7 +2609,20 @@
             "name": "Ranger station", 
             "id": "ranger-station"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 5, 
+          "sewer-hookup": 2, 
+          "rv-campground": 5, 
+          "self-guiding-trail": 6, 
+          "ranger-station": 6, 
+          "picnic-area": 7, 
+          "lodging": 5, 
+          "campground": 7, 
+          "wi-fi": 3, 
+          "store": 8, 
+          "gas-station": 5
+        }
       }
     ], 
     "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 
@@ -2553,7 +2663,8 @@
         }, 
         "park": "biscayne", 
         "filename": "./data/npmaps_jpg/biscayne-regional-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "biscayne-map", 
@@ -2868,7 +2979,17 @@
             "name": "Self-guiding trail", 
             "id": "self-guiding-trail"
           }
-        ]
+        ], 
+        "totals": {
+          "dam": 1, 
+          "boat-launch": 4, 
+          "restrooms": 9, 
+          "self-guiding-trail": 4, 
+          "ranger-station": 3, 
+          "picnic-area": 9, 
+          "marina": 4, 
+          "gas-station": 4
+        }
       }
     ], 
     "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 
@@ -3238,7 +3359,20 @@
             "name": "Horseback riding\n(rental, guided tour)", 
             "id": "horseback-riding\n(rental,-guided-tour)"
           }
-        ]
+        ], 
+        "totals": {
+          "": 2, 
+          "hiking": 4, 
+          "wheelchair-accessible": 8, 
+          "river-rafting": 2, 
+          "amphitheater": 2, 
+          "restrooms": 6, 
+          "self-guiding-trail": 4, 
+          "ranger-station": 3, 
+          "picnic-area": 5, 
+          "horseback-riding\n(rental,-guided-tour)": 2, 
+          "campground": 4
+        }
       }, 
       {
         "map": "black-canyon-of-the-gunnison-regional-map", 
@@ -3248,7 +3382,8 @@
         }, 
         "park": "black-canyon-of-the-gunnison", 
         "filename": "./data/npmaps_jpg/black-canyon-of-the-gunnison-regional-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }
     ], 
     "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 
@@ -3485,7 +3620,15 @@
             "name": "Picnic area", 
             "id": "picnic-area"
           }
-        ]
+        ], 
+        "totals": {
+          "amphitheater": 1, 
+          "restrooms": 4, 
+          "ranger-station": 2, 
+          "picnic-area": 4, 
+          "bus-stop/shuttle-stop": 10, 
+          "campground": 4
+        }
       }, 
       {
         "map": "bryce-canyon-amphitheater-map", 
@@ -3624,7 +3767,14 @@
             "name": "Bus stop/Shuttle stop", 
             "id": "bus-stop/shuttle-stop"
           }
-        ]
+        ], 
+        "totals": {
+          "campground": 2, 
+          "picnic-area": 3, 
+          "restrooms": 2, 
+          "amphitheater": 1, 
+          "bus-stop/shuttle-stop": 8
+        }
       }, 
       {
         "map": "bryce-canyon-national-park-detail-map", 
@@ -3931,7 +4081,17 @@
             "name": "Campground", 
             "id": "campground"
           }
-        ]
+        ], 
+        "totals": {
+          "telephone": 4, 
+          "amphitheater": 1, 
+          "restrooms": 7, 
+          "ranger-station": 2, 
+          "picnic-area": 4, 
+          "bus-stop/shuttle-stop": 8, 
+          "campground": 3, 
+          "drinking-water": 8
+        }
       }, 
       {
         "map": "bryce-canyon-amphitheater-alternate-map", 
@@ -4158,7 +4318,22 @@
             "name": "Recycling", 
             "id": "recycling"
           }
-        ]
+        ], 
+        "totals": {
+          "safety/caution/alerts": 2, 
+          "shipwreck": 1, 
+          "photography": 1, 
+          "recycling": 4, 
+          "telephone": 6, 
+          "restrooms": 1, 
+          "emergencies": 1, 
+          "maps": 3, 
+          "picnic-area": 2, 
+          "playground": 1, 
+          "parking": 2, 
+          "horseback-riding\n(rental,-guided-tour)": 1, 
+          "calendar/events": 2
+        }
       }, 
       {
         "map": "bryce-canyon-national-park-map", 
@@ -4345,7 +4520,16 @@
             "name": "Picnic area", 
             "id": "picnic-area"
           }
-        ]
+        ], 
+        "totals": {
+          "telephone": 1, 
+          "restrooms": 4, 
+          "ranger-station": 1, 
+          "picnic-area": 3, 
+          "bus-stop/shuttle-stop": 9, 
+          "campground": 3, 
+          "drinking-water": 1
+        }
       }, 
       {
         "map": "bryce-canyon-backcountry-trail-map-1", 
@@ -4380,7 +4564,11 @@
             "name": "Bottles", 
             "id": "bottles"
           }
-        ]
+        ], 
+        "totals": {
+          "sewer-hookup": 1, 
+          "bottles": 2
+        }
       }
     ], 
     "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
@@ -4602,7 +4790,16 @@
             "name": "Campground", 
             "id": "campground"
           }
-        ]
+        ], 
+        "totals": {
+          "sewer-hookup": 6, 
+          "picnic-area": 3, 
+          "entrance-station": 1, 
+          "campground": 2, 
+          "drinking-water": 1, 
+          "laundromat": 7, 
+          "gas-station": 2
+        }
       }, 
       {
         "map": "canyonlands-map", 
@@ -4853,7 +5050,18 @@
             "name": "Drinking water", 
             "id": "drinking-water"
           }
-        ]
+        ], 
+        "totals": {
+          "safety/caution/alerts": 3, 
+          "trucks": 2, 
+          "sewer-hookup": 3, 
+          "radiator-water": 1, 
+          "boat-trailer-parking": 4, 
+          "picnic-area": 6, 
+          "playground": 2, 
+          "campground": 3, 
+          "drinking-water": 6
+        }
       }, 
       {
         "map": "canyonlands-simple-map", 
@@ -4968,7 +5176,14 @@
             "name": "Drinking water", 
             "id": "drinking-water"
           }
-        ]
+        ], 
+        "totals": {
+          "campground": 3, 
+          "sewer-hookup": 1, 
+          "drinking-water": 4, 
+          "safety/caution/alerts": 2, 
+          "picnic-area": 3
+        }
       }, 
       {
         "map": "canyonlands-national-park-map", 
@@ -5299,7 +5514,16 @@
             "name": "Restrooms", 
             "id": "restrooms"
           }
-        ]
+        ], 
+        "totals": {
+          "boat-launch": 3, 
+          "restrooms": 10, 
+          "self-guiding-trail": 5, 
+          "ranger-station": 5, 
+          "picnic-area": 5, 
+          "campground": 6, 
+          "drinking-water": 6
+        }
       }
     ], 
     "Location": "Utah 38\u00b012\u2032N 109\u00b056\u2032W\ufeff / \ufeff38.2\u00b0N 109.93\u00b0W\ufeff / 38.2; -109.93\ufeff (Canyonlands)", 
@@ -5421,7 +5645,12 @@
             "name": "Campground", 
             "id": "campground"
           }
-        ]
+        ], 
+        "totals": {
+          "campground": 4, 
+          "ranger-station": 2, 
+          "picnic-area": 4
+        }
       }
     ], 
     "Location": "Utah 38\u00b012\u2032N 111\u00b010\u2032W\ufeff / \ufeff38.20\u00b0N 111.17\u00b0W\ufeff / 38.20; -111.17\ufeff (Capitol Reef)", 
@@ -5449,7 +5678,8 @@
         }, 
         "park": "carlsbad-caverns", 
         "filename": "./data/npmaps_jpg/carlsbad-caverns-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }
     ], 
     "Location": "New Mexico 32\u00b010\u2032N 104\u00b026\u2032W\ufeff / \ufeff32.17\u00b0N 104.44\u00b0W\ufeff / 32.17; -104.44\ufeff (Carlsbad Caverns)", 
@@ -5594,7 +5824,11 @@
             "name": "Restrooms", 
             "id": "restrooms"
           }
-        ]
+        ], 
+        "totals": {
+          "ranger-station": 7, 
+          "restrooms": 8
+        }
       }
     ], 
     "Location": "California 34\u00b001\u2032N 119\u00b025\u2032W\ufeff / \ufeff34.01\u00b0N 119.42\u00b0W\ufeff / 34.01; -119.42\ufeff (Channel Islands)", 
@@ -5654,7 +5888,10 @@
             "name": "Canoe access", 
             "id": "canoe-access"
           }
-        ]
+        ], 
+        "totals": {
+          "canoe-access": 4
+        }
       }
     ], 
     "Location": "South Carolina 33\u00b047\u2032N 80\u00b047\u2032W\ufeff / \ufeff33.78\u00b0N 80.78\u00b0W\ufeff / 33.78; -80.78\ufeff (Congaree)", 
@@ -5905,7 +6142,17 @@
             "name": "Picnic area", 
             "id": "picnic-area"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 3, 
+          "ranger-station": 3, 
+          "picnic-area": 10, 
+          "showers": 2, 
+          "lodging": 3, 
+          "campground": 3, 
+          "store": 2, 
+          "gas-station": 2
+        }
       }
     ], 
     "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 
@@ -5947,7 +6194,10 @@
             "name": "Wood gathering", 
             "id": "wood-gathering"
           }
-        ]
+        ], 
+        "totals": {
+          "wood-gathering": 1
+        }
       }, 
       {
         "map": "cuyahoga-valley-oak-hill-trail-map", 
@@ -5974,7 +6224,11 @@
             "name": "Entrance station", 
             "id": "entrance-station"
           }
-        ]
+        ], 
+        "totals": {
+          "sewer-hookup": 1, 
+          "entrance-station": 1
+        }
       }, 
       {
         "map": "cuyahoga-valley-station-road-bridge-trail-map", 
@@ -6001,7 +6255,11 @@
             "name": "Sewer hookup", 
             "id": "sewer-hookup"
           }
-        ]
+        ], 
+        "totals": {
+          "aed---automated-external-defibrillator": 1, 
+          "sewer-hookup": 1
+        }
       }, 
       {
         "map": "cuyahoga-valley-boston-run-trail-map-1", 
@@ -6140,7 +6398,14 @@
             "name": "Restrooms", 
             "id": "restrooms"
           }
-        ]
+        ], 
+        "totals": {
+          "picnic-area": 2, 
+          "parking": 5, 
+          "crosscountry-ski-trail": 1, 
+          "kennel": 3, 
+          "restrooms": 5
+        }
       }, 
       {
         "map": "cuyahoga-valley-salt-run-trail-map", 
@@ -6159,7 +6424,10 @@
             "name": "Wood gathering", 
             "id": "wood-gathering"
           }
-        ]
+        ], 
+        "totals": {
+          "wood-gathering": 1
+        }
       }, 
       {
         "map": "cuyahoga-valley-virginia-kendall-area-map", 
@@ -6306,7 +6574,15 @@
             "name": "Restrooms", 
             "id": "restrooms"
           }
-        ]
+        ], 
+        "totals": {
+          "parking": 5, 
+          "restrooms": 5, 
+          "picnic-area": 2, 
+          "monument": 1, 
+          "crosscountry-ski-trail": 1, 
+          "kennel": 3
+        }
       }, 
       {
         "map": "cuyahoga-valley-ledges-trail-map", 
@@ -6316,7 +6592,8 @@
         }, 
         "park": "cuyahoga-valley", 
         "filename": "./data/npmaps_jpg/cuyahoga-valley-ledges-trail-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "cuyahoga-valley-hunt-farm-trail-map", 
@@ -6495,7 +6772,16 @@
             "name": "Parking", 
             "id": "parking"
           }
-        ]
+        ], 
+        "totals": {
+          "hiking": 2, 
+          "parking": 8, 
+          "restrooms": 5, 
+          "ranger-station": 1, 
+          "picnic-area": 3, 
+          "fishing": 1, 
+          "horseback-riding\n(rental,-guided-tour)": 1
+        }
       }, 
       {
         "map": "cuyahoga-valley-north-buckeye-trail-map", 
@@ -6666,7 +6952,16 @@
             "name": "Parking", 
             "id": "parking"
           }
-        ]
+        ], 
+        "totals": {
+          "parking": 10, 
+          "restrooms": 3, 
+          "ranger-station": 1, 
+          "picnic-area": 2, 
+          "horseback-riding\n(rental,-guided-tour)": 2, 
+          "campground": 1, 
+          "deer-viewing": 1
+        }
       }, 
       {
         "map": "cuyahoga-valley-brandywine-falls-map", 
@@ -6676,7 +6971,8 @@
         }, 
         "park": "cuyahoga-valley", 
         "filename": "./data/npmaps_jpg/cuyahoga-valley-brandywine-falls-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "cuyahoga-valley-south-buckeye-trail-map", 
@@ -6879,7 +7175,16 @@
             "name": "Restrooms", 
             "id": "restrooms"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 1, 
+          "shelter": 1, 
+          "parking": 10, 
+          "restrooms": 7, 
+          "ranger-station": 1, 
+          "picnic-area": 3, 
+          "horseback-riding\n(rental,-guided-tour)": 1
+        }
       }, 
       {
         "map": "cuyahoga-valley-boston-run-trail-map-0", 
@@ -6889,7 +7194,8 @@
         }, 
         "park": "cuyahoga-valley", 
         "filename": "./data/npmaps_jpg/cuyahoga-valley-boston-run-trail-map-0.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "cuyahoga-valley-wetmore-trail-map", 
@@ -6899,7 +7205,8 @@
         }, 
         "park": "cuyahoga-valley", 
         "filename": "./data/npmaps_jpg/cuyahoga-valley-wetmore-trail-map.jpg", 
-        "symbols": []
+        "symbols": [], 
+        "totals": {}
       }, 
       {
         "map": "cuyahoga-valley-map", 
@@ -7686,7 +7993,20 @@
             "name": "Kennel", 
             "id": "kennel"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 1, 
+          "restrooms": 22, 
+          "self-guiding-trail": 3, 
+          "ranger-station": 5, 
+          "picnic-area": 32, 
+          "fishing": 9, 
+          "deer-viewing": 1, 
+          "horseback-riding\n(rental,-guided-tour)": 6, 
+          "crosscountry-ski-trail": 5, 
+          "kennel": 8, 
+          "sledding": 5
+        }
       }, 
       {
         "map": "cuyahoga-valley-everett-area-trail-map", 
@@ -7705,7 +8025,10 @@
             "name": "Sewer hookup", 
             "id": "sewer-hookup"
           }
-        ]
+        ], 
+        "totals": {
+          "sewer-hookup": 1
+        }
       }
     ], 
     "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
@@ -7911,7 +8234,22 @@
             "name": "Food service", 
             "id": "food-service"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 2, 
+          "sanitary-disposal-station": 4, 
+          "wheelchair-accessible": 1, 
+          "ranger-station": 1, 
+          "restrooms": 1, 
+          "airport": 1, 
+          "picnic-area": 1, 
+          "telephone": 1, 
+          "lodging": 2, 
+          "campground": 3, 
+          "drinking-water": 1, 
+          "store": 1, 
+          "gas-station": 1
+        }
       }, 
       {
         "map": "death-valley-backcountry-roads-map", 
@@ -8050,7 +8388,12 @@
             "name": "Gas station", 
             "id": "gas-station"
           }
-        ]
+        ], 
+        "totals": {
+          "campground": 7, 
+          "safety/caution/alerts": 2, 
+          "gas-station": 7
+        }
       }, 
       {
         "map": "death-valley-printable-map", 
@@ -8373,7 +8716,17 @@
             "name": "Airport", 
             "id": "airport"
           }
-        ]
+        ], 
+        "totals": {
+          "safety/caution/alerts": 4, 
+          "restrooms": 10, 
+          "airport": 6, 
+          "picnic-area": 1, 
+          "campground": 7, 
+          "audio-tour": 2, 
+          "lockers/storage": 3, 
+          "gas-station": 6
+        }
       }, 
       {
         "map": "death-valley-map", 
@@ -9056,7 +9409,21 @@
             "name": "Picnic area", 
             "id": "picnic-area"
           }
-        ]
+        ], 
+        "totals": {
+          "airport": 7, 
+          "safety/caution/alerts": 1, 
+          "food-service": 10, 
+          "sanitary-disposal-station": 4, 
+          "wheelchair-accessible": 5, 
+          "telephone": 13, 
+          "ranger-station": 5, 
+          "picnic-area": 4, 
+          "lodging": 11, 
+          "campground": 7, 
+          "store": 8, 
+          "gas-station": 9
+        }
       }, 
       {
         "map": "death-valley-national-park-map", 
@@ -10115,7 +10482,23 @@
             "name": "Airport", 
             "id": "airport"
           }
-        ]
+        ], 
+        "totals": {
+          "airport": 8, 
+          "safety/caution/alerts": 1, 
+          "food-service": 11, 
+          "sanitary-disposal-station": 4, 
+          "wheelchair-accessible": 5, 
+          "telephone": 12, 
+          "restrooms": 27, 
+          "ranger-station": 4, 
+          "picnic-area": 5, 
+          "lodging": 11, 
+          "campground": 11, 
+          "drinking-water": 13, 
+          "store": 8, 
+          "gas-station": 11
+        }
       }, 
       {
         "map": "death-valley-furnace-creek-map", 
@@ -10270,7 +10653,20 @@
             "name": "Food service", 
             "id": "food-service"
           }
-        ]
+        ], 
+        "totals": {
+          "food-service": 2, 
+          "sanitary-disposal-station": 4, 
+          "wheelchair-accessible": 1, 
+          "ranger-station": 1, 
+          "telephone": 1, 
+          "airport": 1, 
+          "picnic-area": 1, 
+          "lodging": 2, 
+          "campground": 3, 
+          "store": 1, 
+          "gas-station": 1
+        }
       }
     ], 
     "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 

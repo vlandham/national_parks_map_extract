@@ -23,7 +23,10 @@
           "name": "Wood gathering", 
           "id": "wood-gathering"
         }
-      ]
+      ], 
+      "totals": {
+        "wood-gathering": 1
+      }
     }, 
     {
       "map": "cuyahoga-valley-oak-hill-trail-map", 
@@ -50,7 +53,11 @@
           "name": "Entrance station", 
           "id": "entrance-station"
         }
-      ]
+      ], 
+      "totals": {
+        "sewer-hookup": 1, 
+        "entrance-station": 1
+      }
     }, 
     {
       "map": "cuyahoga-valley-station-road-bridge-trail-map", 
@@ -77,7 +84,11 @@
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }
-      ]
+      ], 
+      "totals": {
+        "aed---automated-external-defibrillator": 1, 
+        "sewer-hookup": 1
+      }
     }, 
     {
       "map": "cuyahoga-valley-boston-run-trail-map-1", 
@@ -216,7 +227,14 @@
           "name": "Restrooms", 
           "id": "restrooms"
         }
-      ]
+      ], 
+      "totals": {
+        "picnic-area": 2, 
+        "parking": 5, 
+        "crosscountry-ski-trail": 1, 
+        "kennel": 3, 
+        "restrooms": 5
+      }
     }, 
     {
       "map": "cuyahoga-valley-salt-run-trail-map", 
@@ -235,7 +253,10 @@
           "name": "Wood gathering", 
           "id": "wood-gathering"
         }
-      ]
+      ], 
+      "totals": {
+        "wood-gathering": 1
+      }
     }, 
     {
       "map": "cuyahoga-valley-virginia-kendall-area-map", 
@@ -382,7 +403,15 @@
           "name": "Restrooms", 
           "id": "restrooms"
         }
-      ]
+      ], 
+      "totals": {
+        "parking": 5, 
+        "restrooms": 5, 
+        "picnic-area": 2, 
+        "monument": 1, 
+        "crosscountry-ski-trail": 1, 
+        "kennel": 3
+      }
     }, 
     {
       "map": "cuyahoga-valley-ledges-trail-map", 
@@ -392,7 +421,8 @@
       }, 
       "park": "cuyahoga-valley", 
       "filename": "./data/npmaps_jpg/cuyahoga-valley-ledges-trail-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "cuyahoga-valley-hunt-farm-trail-map", 
@@ -571,7 +601,16 @@
           "name": "Parking", 
           "id": "parking"
         }
-      ]
+      ], 
+      "totals": {
+        "hiking": 2, 
+        "parking": 8, 
+        "restrooms": 5, 
+        "ranger-station": 1, 
+        "picnic-area": 3, 
+        "fishing": 1, 
+        "horseback-riding\n(rental,-guided-tour)": 1
+      }
     }, 
     {
       "map": "cuyahoga-valley-north-buckeye-trail-map", 
@@ -742,7 +781,16 @@
           "name": "Parking", 
           "id": "parking"
         }
-      ]
+      ], 
+      "totals": {
+        "parking": 10, 
+        "restrooms": 3, 
+        "ranger-station": 1, 
+        "picnic-area": 2, 
+        "horseback-riding\n(rental,-guided-tour)": 2, 
+        "campground": 1, 
+        "deer-viewing": 1
+      }
     }, 
     {
       "map": "cuyahoga-valley-brandywine-falls-map", 
@@ -752,7 +800,8 @@
       }, 
       "park": "cuyahoga-valley", 
       "filename": "./data/npmaps_jpg/cuyahoga-valley-brandywine-falls-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "cuyahoga-valley-south-buckeye-trail-map", 
@@ -955,7 +1004,16 @@
           "name": "Restrooms", 
           "id": "restrooms"
         }
-      ]
+      ], 
+      "totals": {
+        "food-service": 1, 
+        "shelter": 1, 
+        "parking": 10, 
+        "restrooms": 7, 
+        "ranger-station": 1, 
+        "picnic-area": 3, 
+        "horseback-riding\n(rental,-guided-tour)": 1
+      }
     }, 
     {
       "map": "cuyahoga-valley-boston-run-trail-map-0", 
@@ -965,7 +1023,8 @@
       }, 
       "park": "cuyahoga-valley", 
       "filename": "./data/npmaps_jpg/cuyahoga-valley-boston-run-trail-map-0.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "cuyahoga-valley-wetmore-trail-map", 
@@ -975,7 +1034,8 @@
       }, 
       "park": "cuyahoga-valley", 
       "filename": "./data/npmaps_jpg/cuyahoga-valley-wetmore-trail-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "cuyahoga-valley-map", 
@@ -1762,7 +1822,20 @@
           "name": "Kennel", 
           "id": "kennel"
         }
-      ]
+      ], 
+      "totals": {
+        "food-service": 1, 
+        "restrooms": 22, 
+        "self-guiding-trail": 3, 
+        "ranger-station": 5, 
+        "picnic-area": 32, 
+        "fishing": 9, 
+        "deer-viewing": 1, 
+        "horseback-riding\n(rental,-guided-tour)": 6, 
+        "crosscountry-ski-trail": 5, 
+        "kennel": 8, 
+        "sledding": 5
+      }
     }, 
     {
       "map": "cuyahoga-valley-everett-area-trail-map", 
@@ -1781,7 +1854,10 @@
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }
-      ]
+      ], 
+      "totals": {
+        "sewer-hookup": 1
+      }
     }
   ], 
   "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 

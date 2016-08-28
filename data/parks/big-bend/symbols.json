@@ -239,7 +239,21 @@
           "name": "Store", 
           "id": "store"
         }
-      ]
+      ], 
+      "totals": {
+        "food-service": 2, 
+        "sanitary-disposal-station": 4, 
+        "wheelchair-accessible": 1, 
+        "amphitheater": 2, 
+        "self-guiding-trail": 3, 
+        "picnic-area": 1, 
+        "lodging": 1, 
+        "campground": 5, 
+        "laundromat": 2, 
+        "rv-campground": 1, 
+        "store": 4, 
+        "gas-station": 2
+      }
     }, 
     {
       "map": "big-bend-simple-map", 
@@ -354,7 +368,13 @@
           "name": "Campground", 
           "id": "campground"
         }
-      ]
+      ], 
+      "totals": {
+        "campground": 4, 
+        "gas-station": 2, 
+        "picnic-area": 4, 
+        "restrooms": 3
+      }
     }, 
     {
       "map": "big-bend-national-park-map", 
@@ -837,7 +857,20 @@
           "name": "Ranger station", 
           "id": "ranger-station"
         }
-      ]
+      ], 
+      "totals": {
+        "food-service": 5, 
+        "sewer-hookup": 2, 
+        "rv-campground": 5, 
+        "self-guiding-trail": 6, 
+        "ranger-station": 6, 
+        "picnic-area": 7, 
+        "lodging": 5, 
+        "campground": 7, 
+        "wi-fi": 3, 
+        "store": 8, 
+        "gas-station": 5
+      }
     }
   ], 
   "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 

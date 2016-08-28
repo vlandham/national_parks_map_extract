@@ -14,7 +14,8 @@
       }, 
       "park": "biscayne", 
       "filename": "./data/npmaps_jpg/biscayne-regional-map.jpg", 
-      "symbols": []
+      "symbols": [], 
+      "totals": {}
     }, 
     {
       "map": "biscayne-map", 
@@ -329,7 +330,17 @@
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }
-      ]
+      ], 
+      "totals": {
+        "dam": 1, 
+        "boat-launch": 4, 
+        "restrooms": 9, 
+        "self-guiding-trail": 4, 
+        "ranger-station": 3, 
+        "picnic-area": 9, 
+        "marina": 4, 
+        "gas-station": 4
+      }
     }
   ], 
   "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 

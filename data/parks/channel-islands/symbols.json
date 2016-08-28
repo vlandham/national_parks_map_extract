@@ -135,7 +135,11 @@
           "name": "Restrooms", 
           "id": "restrooms"
         }
-      ]
+      ], 
+      "totals": {
+        "ranger-station": 7, 
+        "restrooms": 8
+      }
     }
   ], 
   "Location": "California 34\u00b001\u2032N 119\u00b025\u2032W\ufeff / \ufeff34.01\u00b0N 119.42\u00b0W\ufeff / 34.01; -119.42\ufeff (Channel Islands)", 

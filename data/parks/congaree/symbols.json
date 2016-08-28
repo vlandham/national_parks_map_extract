@@ -47,7 +47,10 @@
           "name": "Canoe access", 
           "id": "canoe-access"
         }
-      ]
+      ], 
+      "totals": {
+        "canoe-access": 4
+      }
     }
   ], 
   "Location": "South Carolina 33\u00b047\u2032N 80\u00b047\u2032W\ufeff / \ufeff33.78\u00b0N 80.78\u00b0W\ufeff / 33.78; -80.78\ufeff (Congaree)", 
