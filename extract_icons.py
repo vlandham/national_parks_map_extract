@@ -25,6 +25,15 @@ def write_json(data, filename):
     with open(filename, 'w') as outfile:
         json.dump(data, outfile, indent=2)
 
+def read_json(filename):
+    '''
+    '''
+    data = {}
+    with open(filename, 'r') as infile:
+        data = json.load(infile)
+    return data
+
+
 # Much of this code comes from:
 # http://stackoverflow.com/questions/4087919/how-can-i-improve-my-paw-detection
 class BBox(object):

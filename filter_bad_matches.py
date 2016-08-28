@@ -29,12 +29,13 @@ def main(input_dir, min_score):
         info = read_json(info_file)
         org_count = len(info['icons'])
         info['icons'] = [i for i in info['icons'] if i['match_score'] > min_score]
+        print(info['map'])
         print( "{0} > {1}".format(str(org_count), str(len(info['icons']))))
-        break
+        print('\n')
         write_json(info, output_filename)
 
 
-main('./data/out', 3.0)
+main('./data/out', 0.3)
 
 
 
