@@ -2,7 +2,7 @@
 import json
 import glob
 import os
-from collections import Counter
+from collections import Counter, defaultdict
 
 INPUT_DIR = './data/out'
 KEY_CONFIG = './data/icon_key/key.json'
@@ -88,11 +88,15 @@ def add_symbols(parks):
     keys = get_key()
 
     symbol_totals = Counter()
+    symbol_parks = defaultdict(list)
+    symbol_maps = defaultdict(list)
+
 
     for park in parks:
         park_totals = Counter()
         for pmap in park['maps']:
             pmap['symbols'] = []
+            map_totals = Counter()
             for icon in pmap['icons']:
                 if icon['match_name'] in keys:
                     key = keys[icon['match_name']]
@@ -101,13 +105,33 @@ def add_symbols(parks):
                     symbol['id'] = key['id']
                     symbol['name'] = key['name']
                     pmap['symbols'].append(symbol)
+                    map_totals[symbol['id']] += 1
                     park_totals[symbol['id']] += 1
                     symbol_totals[symbol['id']] += 1
+
+                    #if park['id'] not in symbol_parks[symbol['id']]:
+                    #    symbol_parks[symbol['id']].append(park['id'])
+                    #if pmap['map'] not in symbol_maps[symbol['id']]:
+                    #    symbol_maps[symbol['id']].append(pmap['map'])
                 else:
                     print('WARNING: ' + icon['match_name'] + ' not valid symbol')
+
+            for key, count in map_totals.iteritems():
+                symbol_maps[key].append({'id':pmap['map'], 'count':count})
             del(pmap['icons'])
+            pmap['totals'] = map_totals
+            # end map loop
+
+        for key, count in park_totals.iteritems():
+            symbol_parks[key].append({'id':park['id'], 'count':count})
+
         park['totals'] = park_totals
-    return {'totals': symbol_totals, 'parks':parks}
+        # end park loop
+    symbols = {}
+    symbols['totals'] = symbol_totals
+    symbols['parks'] = symbol_parks
+    symbols['maps'] = symbol_maps
+    return {'symbols': symbols, 'parks':parks}
 
 
 def output_parks(parks, output_dir):
@@ -137,7 +161,7 @@ def main():
     write_json(parks['parks'], output_filename)
 
     output_filename = os.path.join(OUTPUT_DIR, 'all_symbols.json')
-    write_json(parks['totals'], output_filename)
+    write_json(parks['symbols'], output_filename)
 
     output_parks(parks['parks'], OUTPUT_DIR)
 

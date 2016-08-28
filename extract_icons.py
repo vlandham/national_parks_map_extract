@@ -382,7 +382,7 @@ def extract_icons(filename, keys):
                 "match_score": match_scores[ind],
                 "match_index": matches_ind[ind],
                 "match_name": match_names[ind],
-                "position": {"x":bbox.x1 + (bbox.width() / 2), "y":bbox.y1 + (bbox.height() / 2)}
+                "position": {"x":bbox.x1, "y":bbox.y1, "width":bbox.width(), "height":bbox.height() }
               }
         output.append(out)
     out_filename = output_dir + "/info.json"
