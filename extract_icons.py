@@ -214,14 +214,14 @@ def save_images(images, suffix, output_dir):
         names.append(filename)
     return names
 
-def read_image(filename):
+def convert_to_bw(img):
     '''
     Read in image from file,
     convert to pure Black only image
     '''
 
-    img = io.imread(filename, as_grey=False)
-    print(img.shape)
+    #img = io.imread(filename, as_grey=False)
+    #print(img.shape)
 
 
     fimg = img_as_float(img)
@@ -239,7 +239,8 @@ def extract_key(output_dir):
     '''
 
     filename = "./data/map_symbols.jpg"
-    fimg_bw = read_image(filename)
+    img = io.imread(filename, as_grey=False)
+    fimg_bw = convert_to_bw(img)
 
     fimg_bw_one = fimg_bw[:,:,1]
     fimg_bw_one_invert = 1 - fimg_bw_one
@@ -265,7 +266,7 @@ def extract_key(output_dir):
     tlabels = []
     for bbox in bboxes_filter:
         label_box = BBox(bbox.x2, bbox.y1, bbox.x2 + label_width, bbox.y1 + label_height)
-        tlabels.append(label_box.extract(fimg_bw))
+        tlabels.append(label_box.extract(img))
     print(len(tlabels))
 
     save_images(icons, "icon", output_dir)
@@ -327,7 +328,9 @@ def extract_icons(filename, keys):
     # ---
     #
     # ---
-    fimg_bw = read_image(filename)
+    img = io.imread(filename, as_grey=False)
+
+    fimg_bw = convert_to_bw(img)
     print(fimg_bw.shape)
 
     fimg_bw_one = fimg_bw[:,:,1]

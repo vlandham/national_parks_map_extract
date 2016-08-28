@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 try:
     import Image
 except ImportError:
@@ -28,6 +28,8 @@ def main(input_dir):
         label_name = filename.replace('_icon.png', '_label.png')
         #label_name =  os.path.splitext(filename)[0]
         label_text = pytesseract.image_to_string(Image.open(label_name))
+        label_text = label_text.replace("‘", '')
+        label_text = label_text.strip()
         print(label_text)
         entry["label"] = label_text
         data.append(entry)
