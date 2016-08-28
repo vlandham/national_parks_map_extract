@@ -319,6 +319,10 @@ def save_loc_image(bboxes, img, output_dir):
 def extract_icons(filename, keys):
     print filename
     map_name = filename.split('/')[-1].split('.')[0]
+    output_dir = './data/out/' + map_name
+    if os.path.isdir(output_dir):
+        print "skipping: " + map_name
+        return
     print map_name
     # ---
     #
@@ -339,7 +343,6 @@ def extract_icons(filename, keys):
     bboxes_filter = find_squares(bboxes)
     print(len(bboxes_filter))
 
-    output_dir = './data/out/' + map_name
 
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir)
