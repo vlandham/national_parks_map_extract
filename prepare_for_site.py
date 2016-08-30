@@ -29,7 +29,7 @@ def read_json(filename):
     return data
 
 def to_key(string):
-    return string.strip().lower().replace(' ', '-').replace('\n', '-').replace('/', '-')
+    return string.strip().lower().replace(' ', '-').replace('\n', '-').replace('/', '-').replace('(', '').replace(')','')
 
 def get_parks_info():
     parks_info = read_json(PARK_INFO)
