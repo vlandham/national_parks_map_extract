@@ -267,7 +267,7 @@ def extract_key(output_dir):
     len(bboxes_filter)
 
     # extract icon images
-    icons = [b.extract(fimg_bw) for b in bboxes_filter]
+    icons = [b.extract(img) for b in bboxes_filter]
 
     # extract labels of icons
     label_width = 400
@@ -400,8 +400,8 @@ def extract_icons(filename, keys):
     save_loc_image(bboxes_filter, fimg_bw, output_dir)
 
 
-key_dir = "./data/icon_key"
-#extract_key(key_dir)
+key_dir = "./data/icon_key_good"
+extract_key(key_dir)
 
 keys = load_keys(key_dir)
 print(len(keys))
@@ -409,6 +409,6 @@ print(len(keys))
 #input_filename = './data/npmaps_jpg/death-valley-furnace-creek-map.jpg'
 #extract_icons(input_filename, keys)
 
-input_filenames = glob.glob('./data/npmaps_jpg/*.jpg')
-for input_filename in input_filenames:
-    extract_icons(input_filename, keys)
+#input_filenames = glob.glob('./data/npmaps_jpg/*.jpg')
+#for input_filename in input_filenames:
+#    extract_icons(input_filename, keys)

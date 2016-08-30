@@ -8,7 +8,7 @@ import os
 from collections import Counter, defaultdict
 from shutil import copyfile
 
-INPUT_DIR = './data/icon_key'
+INPUT_DIR = './data/icon_key_good'
 INPUT_JSON = './data/icon_key/key.json'
 OUTPUT_DIR = './data/symbol_keys'
 
