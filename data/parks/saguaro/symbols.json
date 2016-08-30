@@ -5,9 +5,167 @@
   "Date established as park": "October 14, 1994", 
   "Area": "91,439.71 acres (370.0\u00a0km2)", 
   "name": "Saguaro", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "saguaro-east-map", 
+      "img_size": {
+        "width": 3992, 
+        "height": 2325
+      }, 
+      "park": "saguaro", 
+      "filename": "./data/npmaps_jpg/saguaro-east-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 0, 
+            "x": 0, 
+            "height": 23, 
+            "width": 8
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 0, 
+            "x": 3984, 
+            "height": 19, 
+            "width": 9
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 134, 
+            "x": 2875, 
+            "height": 2, 
+            "width": 4
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 137, 
+            "x": 119, 
+            "height": 1926, 
+            "width": 3697
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": {
+        "ranger-station": 2, 
+        "picnic-area": 2
+      }
+    }, 
+    {
+      "map": "saguaro-map-west", 
+      "img_size": {
+        "width": 2382, 
+        "height": 2210
+      }, 
+      "park": "saguaro", 
+      "filename": "./data/npmaps_jpg/saguaro-map-west.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 140, 
+            "x": 1672, 
+            "height": 295, 
+            "width": 321
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 199, 
+            "x": 292, 
+            "height": 18, 
+            "width": 7
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 199, 
+            "x": 409, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 199, 
+            "x": 431, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 200, 
+            "x": 512, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 202, 
+            "x": 1946, 
+            "height": 15, 
+            "width": 15
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 203, 
+            "x": 448, 
+            "height": 14, 
+            "width": 3
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 203, 
+            "x": 478, 
+            "height": 14, 
+            "width": 19
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": {
+        "campground": 1, 
+        "self-guiding-trail": 2, 
+        "ranger-station": 1, 
+        "picnic-area": 4
+      }
+    }
+  ], 
   "Location": "Arizona 32\u00b015\u2032N 110\u00b030\u2032W\ufeff / \ufeff32.25\u00b0N 110.50\u00b0W\ufeff / 32.25; -110.50\ufeff (Saguaro)", 
-  "totals": {}, 
+  "totals": {
+    "campground": 1, 
+    "self-guiding-trail": 2, 
+    "ranger-station": 3, 
+    "picnic-area": 6
+  }, 
   "id": "saguaro", 
   "Description": "Split into the separate Rincon Mountain and Tucson Mountain districts, this park is evidence that the dry Sonoran Desert is still home to a great variety of life spanning six biotic communities. Beyond the namesake giant saguaro cacti, there are barrel cacti, chollas, and prickly pears, as well as lesser long-nosed bats, spotted owls, and javelinas."
 }

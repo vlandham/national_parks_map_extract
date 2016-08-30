@@ -5,7 +5,19 @@
   "Date established as park": "January 9, 1903", 
   "Area": "28,295.03 acres (114.5\u00a0km2)", 
   "name": "Wind Cave", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "wind-cave-map", 
+      "img_size": {
+        "width": 2573, 
+        "height": 2333
+      }, 
+      "park": "wind-cave", 
+      "filename": "./data/npmaps_jpg/wind-cave-map.jpg", 
+      "symbols": [], 
+      "totals": {}
+    }
+  ], 
   "Location": "South Dakota 43\u00b034\u2032N 103\u00b029\u2032W\ufeff / \ufeff43.57\u00b0N 103.48\u00b0W\ufeff / 43.57; -103.48\ufeff (Wind Cave)", 
   "totals": {}, 
   "id": "wind-cave", 
