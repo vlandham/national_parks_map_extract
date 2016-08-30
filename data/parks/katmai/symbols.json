@@ -1,4 +1,5 @@
 {
+  "symbol_count": 50, 
   "Name": "Katmai", 
   "Recreation Visitors (2014)": "30,896", 
   "Photo": "", 
@@ -386,18 +387,58 @@
           "id": "restrooms"
         }
       ], 
-      "totals": {
-        "food-service": 3, 
-        "bus-stop-shuttle-stop": 2, 
-        "boat-launch": 2, 
-        "restrooms": 5, 
-        "bear-viewing": 4, 
-        "ranger-station": 3, 
-        "picnic-area": 3, 
-        "showers": 2, 
-        "lodging": 10, 
-        "campground": 3
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 4, 
+          "id": "bear-viewing", 
+          "name": "Bear Viewing"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 2, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 2, 
+          "id": "showers", 
+          "name": "Showers"
+        }
+      ]
     }, 
     {
       "map": "katmai-brooks-camp-map", 
@@ -539,32 +580,109 @@
           "id": "restrooms"
         }
       ], 
-      "totals": {
-        "food-service": 1, 
-        "bus-stop-shuttle-stop": 1, 
-        "restrooms": 3, 
-        "bear-viewing": 3, 
-        "ranger-station": 1, 
-        "picnic-area": 1, 
-        "showers": 1, 
-        "lodging": 1, 
-        "campground": 1
-      }
+      "totals": [
+        {
+          "count": 3, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "bear-viewing", 
+          "name": "Bear Viewing"
+        }, 
+        {
+          "count": 1, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "showers", 
+          "name": "Showers"
+        }, 
+        {
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
     }
   ], 
   "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
-  "totals": {
-    "food-service": 4, 
-    "bus-stop-shuttle-stop": 3, 
-    "boat-launch": 2, 
-    "restrooms": 8, 
-    "bear-viewing": 7, 
-    "ranger-station": 4, 
-    "picnic-area": 4, 
-    "showers": 3, 
-    "lodging": 11, 
-    "campground": 4
-  }, 
+  "totals": [
+    {
+      "count": 11, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 8, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 7, 
+      "id": "bear-viewing", 
+      "name": "Bear Viewing"
+    }, 
+    {
+      "count": 4, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 3, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 3, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 2, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }
+  ], 
+  "map_count": 2, 
   "id": "katmai", 
   "Description": "This park on the Alaska Peninsula protects the Valley of Ten Thousand Smokes, an ash flow formed by the 1912 eruption of Novarupta, as well as Mount Katmai. Over 2,000 grizzly bears come here each year to catch spawning salmon. Other wildlife includes caribou, wolves, moose, and wolverines."
 }

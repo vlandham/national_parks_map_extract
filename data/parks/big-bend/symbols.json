@@ -1,4 +1,5 @@
 {
+  "symbol_count": 88, 
   "Name": "Big Bend", 
   "Recreation Visitors (2014)": "314,102", 
   "Photo": "", 
@@ -296,20 +297,68 @@
           "id": "store"
         }
       ], 
-      "totals": {
-        "food-service": 2, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 1, 
-        "amphitheater": 2, 
-        "self-guiding-trail": 3, 
-        "picnic-area": 1, 
-        "lodging": 1, 
-        "campground": 5, 
-        "laundromat": 2, 
-        "rv-campground": 1, 
-        "store": 4, 
-        "gas-station": 2
-      }
+      "totals": [
+        {
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 4, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 3, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
+        }, 
+        {
+          "count": 2, 
+          "id": "laundromat", 
+          "name": "Laundromat"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 1, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "rv-campground", 
+          "name": "RV campground"
+        }
+      ]
     }, 
     {
       "map": "big-bend-national-park-map", 
@@ -921,41 +970,154 @@
           "id": "ranger-station"
         }
       ], 
-      "totals": {
-        "": 1, 
-        "food-service": 5, 
-        "sewer-hookup": 2, 
-        "rv-campground": 5, 
-        "self-guiding-trail": 6, 
-        "ranger-station": 6, 
-        "picnic-area": 7, 
-        "lodging": 5, 
-        "campground": 7, 
-        "wi-fi": 3, 
-        "store": 8, 
-        "gas-station": 5
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 7, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 7, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 6, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 6, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 5, 
+          "id": "rv-campground", 
+          "name": "RV campground"
+        }, 
+        {
+          "count": 5, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 5, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 3, 
+          "id": "wi-fi", 
+          "name": "Wi-Fi"
+        }, 
+        {
+          "count": 2, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 1, 
+          "id": "", 
+          "name": ""
+        }
+      ]
     }
   ], 
   "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 
-  "totals": {
-    "": 1, 
-    "wi-fi": 3, 
-    "food-service": 7, 
-    "sanitary-disposal-station": 4, 
-    "wheelchair-accessible": 1, 
-    "amphitheater": 2, 
-    "self-guiding-trail": 9, 
-    "ranger-station": 6, 
-    "picnic-area": 8, 
-    "sewer-hookup": 2, 
-    "lodging": 6, 
-    "campground": 12, 
-    "laundromat": 2, 
-    "rv-campground": 6, 
-    "store": 12, 
-    "gas-station": 7
-  }, 
+  "totals": [
+    {
+      "count": 12, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 12, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 9, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 7, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 6, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 6, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 6, 
+      "id": "rv-campground", 
+      "name": "RV campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 3, 
+      "id": "wi-fi", 
+      "name": "Wi-Fi"
+    }, 
+    {
+      "count": 2, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }, 
+    {
+      "count": 2, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 2, 
+      "id": "laundromat", 
+      "name": "Laundromat"
+    }, 
+    {
+      "count": 1, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 1, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }
+  ], 
+  "map_count": 2, 
   "id": "big-bend", 
   "Description": "Named for the prominent bend in the Rio Grande along the US\u2013Mexico border, this park encompasses a large and remote part of the Chihuahuan Desert. Its main attraction is backcountry recreation in the arid Chisos Mountains and in canyons along the river. A wide variety of Cretaceous and Tertiary fossils as well as cultural artifacts of Native Americans also exist within its borders."
 }

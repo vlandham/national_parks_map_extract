@@ -1,4 +1,5 @@
 {
+  "symbol_count": 29, 
   "Name": "Guadalupe Mountains", 
   "Recreation Visitors (2014)": "166,868", 
   "Photo": "", 
@@ -236,15 +237,43 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "mens-restroom": 3, 
-        "ranger-station": 2, 
-        "picnic-area": 9, 
-        "parking": 1, 
-        "campground": 3, 
-        "bookstore": 3, 
-        "gas-station": 1
-      }
+      "totals": [
+        {
+          "count": 9, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "mens-restroom", 
+          "name": "Mens restroom"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "bookstore", 
+          "name": "Bookstore"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }, 
     {
       "map": "guadalupe-mountains-regional-map", 
@@ -326,22 +355,59 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "campground": 4, 
-        "gas-station": 3
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }
   ], 
   "Location": "Texas 31\u00b055\u2032N 104\u00b052\u2032W\ufeff / \ufeff31.92\u00b0N 104.87\u00b0W\ufeff / 31.92; -104.87\ufeff (Guadalupe Mountains)", 
-  "totals": {
-    "mens-restroom": 3, 
-    "ranger-station": 2, 
-    "picnic-area": 9, 
-    "parking": 1, 
-    "campground": 7, 
-    "bookstore": 3, 
-    "gas-station": 4
-  }, 
+  "totals": [
+    {
+      "count": 9, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 3, 
+      "id": "mens-restroom", 
+      "name": "Mens restroom"
+    }, 
+    {
+      "count": 3, 
+      "id": "bookstore", 
+      "name": "Bookstore"
+    }, 
+    {
+      "count": 2, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 1, 
+      "id": "parking", 
+      "name": "Parking"
+    }
+  ], 
+  "map_count": 2, 
   "id": "guadalupe-mountains", 
   "Description": "This park boasts Guadalupe Peak, the highest point in Texas; the scenic McKittrick Canyon filled with bigtooth maples; a corner of the arid Chihuahuan Desert; and a fossilized coral reef from the Permian era."
 }

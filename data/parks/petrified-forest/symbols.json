@@ -1,4 +1,5 @@
 {
+  "symbol_count": 56, 
   "Name": "Petrified Forest", 
   "Recreation Visitors (2014)": "836,799", 
   "Photo": "", 
@@ -346,17 +347,53 @@
           "id": "drinking-water"
         }
       ], 
-      "totals": {
-        "information": 3, 
-        "food-service": 2, 
-        "souvenir-shop": 3, 
-        "telephone": 3, 
-        "restrooms": 6, 
-        "self-guiding-trail": 6, 
-        "picnic-area": 5, 
-        "drinking-water": 3, 
-        "gas-station": 2
-      }
+      "totals": [
+        {
+          "count": 6, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 6, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 3, 
+          "id": "souvenir-shop", 
+          "name": "Souvenir shop"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }, 
     {
       "map": "petrified-forest-map", 
@@ -598,28 +635,89 @@
           "id": "telephone"
         }
       ], 
-      "totals": {
-        "food-service": 2, 
-        "telephone": 3, 
-        "restrooms": 7, 
-        "self-guiding-trail": 6, 
-        "picnic-area": 3, 
-        "gas-station": 2
-      }
+      "totals": [
+        {
+          "count": 7, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 6, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }
   ], 
   "Location": "Arizona 35\u00b004\u2032N 109\u00b047\u2032W\ufeff / \ufeff35.07\u00b0N 109.78\u00b0W\ufeff / 35.07; -109.78\ufeff (Petrified Forest)", 
-  "totals": {
-    "information": 3, 
-    "food-service": 4, 
-    "souvenir-shop": 3, 
-    "telephone": 6, 
-    "restrooms": 13, 
-    "self-guiding-trail": 12, 
-    "picnic-area": 8, 
-    "drinking-water": 3, 
-    "gas-station": 4
-  }, 
+  "totals": [
+    {
+      "count": 13, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 12, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 6, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 4, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 3, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 3, 
+      "id": "souvenir-shop", 
+      "name": "Souvenir shop"
+    }, 
+    {
+      "count": 3, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }
+  ], 
+  "map_count": 2, 
   "id": "petrified-forest", 
   "Description": "This portion of the Chinle Formation has a great concentration of 225-million-year-old petrified wood. The surrounding Painted Desert features eroded cliffs of wonderfully red-hued volcanic rock called bentonite. There are also dinosaur fossils and over 350 Native American sites."
 }

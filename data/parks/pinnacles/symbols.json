@@ -1,4 +1,5 @@
 {
+  "symbol_count": 31, 
   "Name": "Pinnacles", 
   "Recreation Visitors (2014)": "196,635", 
   "Photo": "", 
@@ -206,14 +207,38 @@
           "id": "drinking-water"
         }
       ], 
-      "totals": {
-        "wheelchair-accessible": 3, 
-        "restrooms": 5, 
-        "ranger-station": 3, 
-        "picnic-area": 3, 
-        "campground": 2, 
-        "drinking-water": 3
-      }
+      "totals": [
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
     }, 
     {
       "map": "pinnacles-detail-map", 
@@ -345,24 +370,69 @@
           "id": "drinking-water"
         }
       ], 
-      "totals": {
-        "wheelchair-accessible": 2, 
-        "picnic-area": 2, 
-        "ranger-station": 1, 
-        "drinking-water": 3, 
-        "restrooms": 4
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
     }
   ], 
   "Location": "California 36\u00b029\u2032N 121\u00b010\u2032W\ufeff / \ufeff36.48\u00b0N 121.16\u00b0W\ufeff / 36.48; -121.16\ufeff (Pinnacles)", 
-  "totals": {
-    "wheelchair-accessible": 5, 
-    "restrooms": 9, 
-    "ranger-station": 4, 
-    "picnic-area": 5, 
-    "campground": 2, 
-    "drinking-water": 6
-  }, 
+  "totals": [
+    {
+      "count": 9, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 6, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 5, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "map_count": 2, 
   "id": "pinnacles", 
   "Description": "Named for the eroded leftovers of a portion of an extinct volcano, the park is famous for its massive black and gold monoliths of andesite and rhyolite, which are popular with rock climbers, and a hiker's paradise of quiet trails crossing scenic Coast Range wilderness. The park is home to the endangered California condor (Gymnogyps californianus) and one of the few locations in the world where these extremely rare birds can be seen in the wild. Pinnacles also supports a dense population of prairie falcons, and more than 13 species of bat which populate its talus caves."
 }

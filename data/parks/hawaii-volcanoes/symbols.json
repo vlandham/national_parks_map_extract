@@ -1,4 +1,5 @@
 {
+  "symbol_count": 86, 
   "Name": "Hawaii Volcanoes", 
   "Recreation Visitors (2014)": "1,693,005", 
   "Photo": "", 
@@ -36,10 +37,18 @@
           "id": "sewer-hookup"
         }
       ], 
-      "totals": {
-        "sewer-hookup": 1, 
-        "trucks": 1
-      }
+      "totals": [
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 1, 
+          "id": "trucks", 
+          "name": "Trucks"
+        }
+      ]
     }, 
     {
       "map": "hawaii-volcanoes-map", 
@@ -611,22 +620,78 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "trucks": 2, 
-        "sewer-hookup": 7, 
-        "wheelchair-accessible": 5, 
-        "telephone": 7, 
-        "restrooms": 9, 
-        "self-guiding-trail": 4, 
-        "picnic-area": 8, 
-        "entrance-station": 4, 
-        "lodging": 1, 
-        "campground": 3, 
-        "drinking-water": 3, 
-        "lookout-tower": 1, 
-        "store": 1, 
-        "gas-station": 1
-      }
+      "totals": [
+        {
+          "count": 9, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 8, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 7, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 7, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 5, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 4, 
+          "id": "entrance-station", 
+          "name": "Entrance station"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "trucks", 
+          "name": "Trucks"
+        }, 
+        {
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "lookout-tower", 
+          "name": "Lookout tower"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }, 
     {
       "map": "hawaii-volcanoes-kilauea-map", 
@@ -918,40 +983,149 @@
           "id": "restrooms"
         }
       ], 
-      "totals": {
-        "wilderness": 1, 
-        "food-service": 3, 
-        "wheelchair-accessible": 3, 
-        "telephone": 3, 
-        "restrooms": 5, 
-        "self-guiding-trail": 2, 
-        "picnic-area": 4, 
-        "lodging": 2, 
-        "campground": 1, 
-        "drinking-water": 3, 
-        "gas-station": 1
-      }
+      "totals": [
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 3, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "wilderness", 
+          "name": "Wilderness"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }
   ], 
   "Location": "Hawaii 19\u00b023\u2032N 155\u00b012\u2032W\ufeff / \ufeff19.38\u00b0N 155.20\u00b0W\ufeff / 19.38; -155.20\ufeff (Hawaii Volcanoes)", 
-  "totals": {
-    "food-service": 3, 
-    "trucks": 3, 
-    "sewer-hookup": 8, 
-    "wheelchair-accessible": 8, 
-    "telephone": 10, 
-    "restrooms": 14, 
-    "self-guiding-trail": 6, 
-    "wilderness": 1, 
-    "picnic-area": 12, 
-    "entrance-station": 4, 
-    "lodging": 3, 
-    "campground": 4, 
-    "drinking-water": 6, 
-    "lookout-tower": 1, 
-    "store": 1, 
-    "gas-station": 2
-  }, 
+  "totals": [
+    {
+      "count": 14, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 12, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 10, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 8, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 8, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 6, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 6, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 4, 
+      "id": "entrance-station", 
+      "name": "Entrance station"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 3, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 3, 
+      "id": "trucks", 
+      "name": "Trucks"
+    }, 
+    {
+      "count": 3, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 1, 
+      "id": "wilderness", 
+      "name": "Wilderness"
+    }, 
+    {
+      "count": 1, 
+      "id": "lookout-tower", 
+      "name": "Lookout tower"
+    }, 
+    {
+      "count": 1, 
+      "id": "store", 
+      "name": "Store"
+    }
+  ], 
+  "map_count": 3, 
   "id": "hawaii-volcanoes", 
   "Description": "This park on the Big Island protects the famous K\u012blauea and Mauna Loa volcanoes, two of the world's most active geological features. Diverse ecosystems range from tropical forests at sea level to barren lava beds at more than 13,000 feet (4,000\u00a0m).[37] (WHS)"
 }

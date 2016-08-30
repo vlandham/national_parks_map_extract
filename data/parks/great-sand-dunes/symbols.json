@@ -1,4 +1,5 @@
 {
+  "symbol_count": 23, 
   "Name": "Great Sand Dunes", 
   "Recreation Visitors (2014)": "271,774", 
   "Photo": "", 
@@ -93,7 +94,7 @@
             "width": 5
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -243,36 +244,117 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }
       ], 
-      "totals": {
-        "": 1, 
-        "food-service": 2, 
-        "sewer-hookup": 1, 
-        "parking": 4, 
-        "picnic-area": 5, 
-        "horseback-riding\n(rental,-guided-tour)": 2, 
-        "campground": 2, 
-        "gas-station": 2, 
-        "store": 2, 
-        "lodging": 2
-      }
+      "totals": [
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 1, 
+          "id": "", 
+          "name": ""
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
     }
   ], 
   "Location": "Colorado 37\u00b044\u2032N 105\u00b031\u2032W\ufeff / \ufeff37.73\u00b0N 105.51\u00b0W\ufeff / 37.73; -105.51\ufeff (Great Sand Dunes)", 
-  "totals": {
-    "": 1, 
-    "food-service": 2, 
-    "sewer-hookup": 1, 
-    "parking": 4, 
-    "picnic-area": 5, 
-    "horseback-riding\n(rental,-guided-tour)": 2, 
-    "campground": 2, 
-    "gas-station": 2, 
-    "store": 2, 
-    "lodging": 2
-  }, 
+  "totals": [
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 2, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 2, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 1, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "map_count": 1, 
   "id": "great-sand-dunes", 
   "Description": "The tallest sand dunes in North America, up to 750 feet (230\u00a0m) tall, were formed by deposits of the ancient Rio Grande in the San Luis Valley. Abutting a variety of grasslands, shrublands, and wetlands, the park also has alpine lakes, six 13,000-foot mountains, and old-growth forests."
 }

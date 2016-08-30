@@ -1,4 +1,5 @@
 {
+  "symbol_count": 68, 
   "Name": "Shenandoah", 
   "Recreation Visitors (2014)": "1,255,321", 
   "Photo": "", 
@@ -126,13 +127,33 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "recycling": 3, 
-        "campground": 2, 
-        "picnic-area": 3, 
-        "safety-caution-alerts": 1, 
-        "restrooms": 2
-      }
+      "totals": [
+        {
+          "count": 3, 
+          "id": "recycling", 
+          "name": "Recycling"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }, 
     {
       "map": "shenandoah-map", 
@@ -714,30 +735,99 @@
           "id": "ranger-station"
         }
       ], 
-      "totals": {
-        "food-service": 5, 
-        "recycling": 10, 
-        "restrooms": 12, 
-        "ranger-station": 11, 
-        "picnic-area": 8, 
-        "lodging": 4, 
-        "campground": 5, 
-        "gas-station": 2
-      }
+      "totals": [
+        {
+          "count": 12, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 11, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 10, 
+          "id": "recycling", 
+          "name": "Recycling"
+        }, 
+        {
+          "count": 8, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 5, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 4, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }
   ], 
   "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
-  "totals": {
-    "food-service": 5, 
-    "recycling": 13, 
-    "restrooms": 14, 
-    "ranger-station": 11, 
-    "picnic-area": 11, 
-    "lodging": 4, 
-    "campground": 7, 
-    "gas-station": 2, 
-    "safety-caution-alerts": 1
-  }, 
+  "totals": [
+    {
+      "count": 14, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 13, 
+      "id": "recycling", 
+      "name": "Recycling"
+    }, 
+    {
+      "count": 11, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 11, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 5, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 1, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 2, 
   "id": "shenandoah", 
   "Description": "Shenandoah's Blue Ridge Mountains are covered by sprawling hardwood forests that teem with tens of thousands of animals. The Skyline Drive and Appalachian Trail run the entire length of this narrow park, along with more than 500 miles (800\u00a0km) of hiking trails passing scenic overlooks and cataracts of the Shenandoah River."
 }

@@ -1,4 +1,5 @@
 {
+  "symbol_count": 28, 
   "Name": "Crater Lake", 
   "Recreation Visitors (2014)": "535,508", 
   "Photo": "", 
@@ -296,29 +297,94 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "food-service": 3, 
-        "ranger-station": 3, 
-        "picnic-area": 10, 
-        "showers": 2, 
-        "lodging": 3, 
-        "campground": 3, 
-        "store": 2, 
-        "gas-station": 2
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "showers", 
+          "name": "Showers"
+        }, 
+        {
+          "count": 2, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }
   ], 
   "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 
-  "totals": {
-    "food-service": 3, 
-    "ranger-station": 3, 
-    "picnic-area": 10, 
-    "showers": 2, 
-    "lodging": 3, 
-    "campground": 3, 
-    "store": 2, 
-    "gas-station": 2
-  }, 
+  "totals": [
+    {
+      "count": 10, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 3, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 2, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }
+  ], 
+  "map_count": 1, 
   "id": "crater-lake", 
   "Description": "Crater Lake lies in the caldera of an ancient volcano called Mount Mazama that collapsed 7,700 years ago. It is the deepest lake in the United States and is famous for its vivid blue color and water clarity. There are two more recent volcanic islands in the lake, and, with no inlets or outlets, all water comes through precipitation."
 }

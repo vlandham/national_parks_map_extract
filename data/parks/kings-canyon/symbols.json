@@ -1,4 +1,5 @@
 {
+  "symbol_count": 79, 
   "Name": "Kings Canyon", 
   "Recreation Visitors (2014)": "502,268", 
   "Photo": "", 
@@ -106,10 +107,18 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "campground": 8, 
-        "safety-caution-alerts": 1
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }, 
     {
       "map": "sequoia-kings-canyon-detail-map", 
@@ -148,7 +157,7 @@
             "width": 41
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -288,7 +297,7 @@
             "width": 9
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -408,7 +417,7 @@
             "width": 11
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -428,7 +437,7 @@
             "width": 13
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -821,29 +830,94 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "horseback-riding\n(rental,-guided-tour)": 4, 
-        "telephone": 14, 
-        "ranger-station": 4, 
-        "picnic-area": 13, 
-        "lodging": 8, 
-        "campground": 22, 
-        "safety-caution-alerts": 1, 
-        "gas-station": 4
-      }
+      "totals": [
+        {
+          "count": 22, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 14, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 13, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 8, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 4, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 4, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 4, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }
   ], 
   "Location": "California 36\u00b048\u2032N 118\u00b033\u2032W\ufeff / \ufeff36.80\u00b0N 118.55\u00b0W\ufeff / 36.80; -118.55\ufeff (Kings Canyon)", 
-  "totals": {
-    "lodging": 8, 
-    "telephone": 14, 
-    "ranger-station": 4, 
-    "picnic-area": 13, 
-    "horseback-riding\n(rental,-guided-tour)": 4, 
-    "campground": 30, 
-    "safety-caution-alerts": 2, 
-    "gas-station": 4
-  }, 
+  "totals": [
+    {
+      "count": 30, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 14, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 13, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 8, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 4, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 4, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 4, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 2, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 2, 
   "id": "kings-canyon", 
   "Description": "Home to several giant sequoia groves and the General Grant Tree, the world's second largest, this park also features part of the Kings River, sculptor of the dramatic granite canyon that is its namesake, and the San Joaquin River, as well as Boyden Cave."
 }

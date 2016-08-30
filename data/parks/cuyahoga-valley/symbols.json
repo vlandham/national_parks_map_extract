@@ -1,4 +1,5 @@
 {
+  "symbol_count": 162, 
   "Name": "Cuyahoga Valley", 
   "Recreation Visitors (2014)": "2,189,849", 
   "Photo": "", 
@@ -93,7 +94,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -213,7 +214,7 @@
             "width": 20
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -263,7 +264,7 @@
             "width": 4
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -343,7 +344,7 @@
             "width": 12
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -773,7 +774,7 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -943,7 +944,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -986,19 +987,63 @@
           "id": "kennel"
         }
       ], 
-      "totals": {
-        "food-service": 1, 
-        "restrooms": 22, 
-        "self-guiding-trail": 3, 
-        "ranger-station": 5, 
-        "picnic-area": 32, 
-        "fishing": 9, 
-        "deer-viewing": 1, 
-        "horseback-riding\n(rental,-guided-tour)": 6, 
-        "crosscountry-ski-trail": 5, 
-        "kennel": 8, 
-        "sledding": 5
-      }
+      "totals": [
+        {
+          "count": 32, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 22, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 9, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }, 
+        {
+          "count": 8, 
+          "id": "kennel", 
+          "name": "Kennel"
+        }, 
+        {
+          "count": 6, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "crosscountry-ski-trail", 
+          "name": "Crosscountry ski trail"
+        }, 
+        {
+          "count": 5, 
+          "id": "sledding", 
+          "name": "Sledding"
+        }, 
+        {
+          "count": 3, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 1, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "deer-viewing", 
+          "name": "Deer Viewing"
+        }
+      ]
     }, 
     {
       "map": "cuyahoga-valley-south-buckeye-trail-map", 
@@ -1177,7 +1222,7 @@
             "width": 27
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -1250,15 +1295,43 @@
           "id": "restrooms"
         }
       ], 
-      "totals": {
-        "food-service": 1, 
-        "shelter": 1, 
-        "parking": 10, 
-        "restrooms": 7, 
-        "ranger-station": 1, 
-        "picnic-area": 3, 
-        "horseback-riding\n(rental,-guided-tour)": 1
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 7, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "shelter", 
+          "name": "Shelter"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }
+      ]
     }, 
     {
       "map": "cuyahoga-valley-hunt-farm-trail-map", 
@@ -1287,7 +1360,7 @@
             "width": 15
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -1480,15 +1553,43 @@
           "id": "parking"
         }
       ], 
-      "totals": {
-        "hiking": 2, 
-        "parking": 8, 
-        "restrooms": 5, 
-        "ranger-station": 1, 
-        "picnic-area": 3, 
-        "fishing": 1, 
-        "horseback-riding\n(rental,-guided-tour)": 1
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "hiking", 
+          "name": "Hiking"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }
+      ]
     }, 
     {
       "map": "cuyahoga-valley-north-buckeye-trail-map", 
@@ -1617,7 +1718,7 @@
             "width": 11
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -1687,7 +1788,7 @@
             "width": 26
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -1700,35 +1801,124 @@
           "id": "parking"
         }
       ], 
-      "totals": {
-        "parking": 10, 
-        "restrooms": 3, 
-        "ranger-station": 1, 
-        "picnic-area": 2, 
-        "horseback-riding\n(rental,-guided-tour)": 2, 
-        "campground": 1, 
-        "deer-viewing": 1
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 3, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 2, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "deer-viewing", 
+          "name": "Deer Viewing"
+        }
+      ]
     }
   ], 
   "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
-  "totals": {
-    "hiking": 2, 
-    "food-service": 2, 
-    "shelter": 1, 
-    "parking": 28, 
-    "restrooms": 37, 
-    "self-guiding-trail": 3, 
-    "ranger-station": 8, 
-    "picnic-area": 40, 
-    "fishing": 10, 
-    "deer-viewing": 2, 
-    "horseback-riding\n(rental,-guided-tour)": 10, 
-    "campground": 1, 
-    "crosscountry-ski-trail": 5, 
-    "kennel": 8, 
-    "sledding": 5
-  }, 
+  "totals": [
+    {
+      "count": 40, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 37, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 28, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 10, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 10, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 8, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 8, 
+      "id": "kennel", 
+      "name": "Kennel"
+    }, 
+    {
+      "count": 5, 
+      "id": "crosscountry-ski-trail", 
+      "name": "Crosscountry ski trail"
+    }, 
+    {
+      "count": 5, 
+      "id": "sledding", 
+      "name": "Sledding"
+    }, 
+    {
+      "count": 3, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 2, 
+      "id": "hiking", 
+      "name": "Hiking"
+    }, 
+    {
+      "count": 2, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "deer-viewing", 
+      "name": "Deer Viewing"
+    }, 
+    {
+      "count": 1, 
+      "id": "shelter", 
+      "name": "Shelter"
+    }, 
+    {
+      "count": 1, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "map_count": 4, 
   "id": "cuyahoga-valley", 
   "Description": "This park along the Cuyahoga River has waterfalls, hills, trails, and exhibits on early rural living. The Ohio and Erie Canal Towpath Trail follows the Ohio and Erie Canal, where mules towed canal boats. The park has numerous historic homes, bridges, and structures,[21] and also offers a scenic train ride."
 }

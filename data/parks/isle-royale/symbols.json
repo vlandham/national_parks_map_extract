@@ -1,4 +1,5 @@
 {
+  "symbol_count": 37, 
   "Name": "Isle Royale", 
   "Recreation Visitors (2014)": "14,560", 
   "Photo": "", 
@@ -33,7 +34,7 @@
             "width": 12
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -43,7 +44,7 @@
             "width": 7
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -53,7 +54,7 @@
             "width": 12
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -63,7 +64,7 @@
             "width": 7
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -73,7 +74,7 @@
             "width": 80
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -83,7 +84,7 @@
             "width": 3
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -93,7 +94,7 @@
             "width": 13
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -163,7 +164,7 @@
             "width": 19
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -173,7 +174,7 @@
             "width": 13
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -183,7 +184,7 @@
             "width": 8
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -193,7 +194,7 @@
             "width": 478
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -203,7 +204,7 @@
             "width": 3
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -213,7 +214,7 @@
             "width": 4
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -233,7 +234,7 @@
             "width": 7
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -293,7 +294,7 @@
             "width": 15
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -303,7 +304,7 @@
             "width": 11
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -313,7 +314,7 @@
             "width": 5
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -323,7 +324,7 @@
             "width": 16
           }, 
           "name": "Quagga mussel\ndecontamination station", 
-          "id": "quagga-mussel\ndecontamination-station"
+          "id": "quagga-mussel-decontamination-station"
         }, 
         {
           "pos": {
@@ -386,27 +387,84 @@
           "id": "store"
         }
       ], 
-      "totals": {
-        "quagga-mussel\ndecontamination-station": 18, 
-        "self-guiding-trail": 3, 
-        "ranger-station": 5, 
-        "showers": 3, 
-        "lodging": 2, 
-        "marina": 3, 
-        "store": 3
-      }
+      "totals": [
+        {
+          "count": 18, 
+          "id": "quagga-mussel-decontamination-station", 
+          "name": "Quagga mussel\ndecontamination station"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "marina", 
+          "name": "Marina"
+        }, 
+        {
+          "count": 3, 
+          "id": "showers", 
+          "name": "Showers"
+        }, 
+        {
+          "count": 3, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }
+      ]
     }
   ], 
   "Location": "Michigan 48\u00b006\u2032N 88\u00b033\u2032W\ufeff / \ufeff48.10\u00b0N 88.55\u00b0W\ufeff / 48.10; -88.55\ufeff (Isle Royale)", 
-  "totals": {
-    "quagga-mussel\ndecontamination-station": 18, 
-    "self-guiding-trail": 3, 
-    "ranger-station": 5, 
-    "showers": 3, 
-    "lodging": 2, 
-    "marina": 3, 
-    "store": 3
-  }, 
+  "totals": [
+    {
+      "count": 18, 
+      "id": "quagga-mussel-decontamination-station", 
+      "name": "Quagga mussel\ndecontamination station"
+    }, 
+    {
+      "count": 5, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 3, 
+      "id": "marina", 
+      "name": "Marina"
+    }, 
+    {
+      "count": 3, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 3, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 2, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }
+  ], 
+  "map_count": 1, 
   "id": "isle-royale", 
   "Description": "The largest island in Lake Superior is a place of isolation and wilderness. Along with its many shipwrecks, waterways, and hiking trails, the park also includes over 400 smaller islands within 4.5 miles (7.2\u00a0km) of its shores. There are only 20 mammal species on the entire island, though the relationship between its wolf and moose populations is especially unique."
 }

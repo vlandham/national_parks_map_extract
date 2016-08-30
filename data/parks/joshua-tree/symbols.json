@@ -1,4 +1,5 @@
 {
+  "symbol_count": 74, 
   "Name": "Joshua Tree", 
   "Recreation Visitors (2014)": "1,589,904", 
   "Photo": "", 
@@ -86,12 +87,28 @@
           "id": "sewer-hookup"
         }
       ], 
-      "totals": {
-        "": 4, 
-        "sewer-hookup": 1, 
-        "bottles": 1, 
-        "wine": 1
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "", 
+          "name": ""
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 1, 
+          "id": "bottles", 
+          "name": "Bottles"
+        }, 
+        {
+          "count": 1, 
+          "id": "wine", 
+          "name": "Wine"
+        }
+      ]
     }, 
     {
       "map": "joshua-tree-pinkham-canyon-road-map", 
@@ -293,13 +310,33 @@
           "id": "sewer-hookup"
         }
       ], 
-      "totals": {
-        "sewer-hookup": 9, 
-        "trash-dumpster": 1, 
-        "birdingnvildlife-viewing": 7, 
-        "entrance-station": 1, 
-        "store": 1
-      }
+      "totals": [
+        {
+          "count": 9, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 7, 
+          "id": "birdingnvildlife-viewing", 
+          "name": "BirdingNVildlife Viewing"
+        }, 
+        {
+          "count": 1, 
+          "id": "trash-dumpster", 
+          "name": "Trash dumpster"
+        }, 
+        {
+          "count": 1, 
+          "id": "entrance-station", 
+          "name": "Entrance station"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }
+      ]
     }, 
     {
       "map": "joshua-tree-map", 
@@ -791,37 +828,134 @@
           "id": "drinking-water"
         }
       ], 
-      "totals": {
-        "sewer-hookup": 2, 
-        "quiet": 1, 
-        "self-guiding-trail": 11, 
-        "ranger-station": 5, 
-        "picnic-area": 8, 
-        "entrance-station": 2, 
-        "campground": 9, 
-        "drinking-water": 7, 
-        "first-aid": 3
-      }
+      "totals": [
+        {
+          "count": 11, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 9, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 8, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 7, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "first-aid", 
+          "name": "First aid"
+        }, 
+        {
+          "count": 2, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 2, 
+          "id": "entrance-station", 
+          "name": "Entrance station"
+        }, 
+        {
+          "count": 1, 
+          "id": "quiet", 
+          "name": "Quiet"
+        }
+      ]
     }
   ], 
   "Location": "California 33\u00b047\u2032N 115\u00b054\u2032W\ufeff / \ufeff33.79\u00b0N 115.90\u00b0W\ufeff / 33.79; -115.90\ufeff (Joshua Tree)", 
-  "totals": {
-    "": 4, 
-    "bottles": 1, 
-    "sewer-hookup": 12, 
-    "quiet": 1, 
-    "first-aid": 3, 
-    "self-guiding-trail": 11, 
-    "ranger-station": 5, 
-    "picnic-area": 8, 
-    "entrance-station": 3, 
-    "campground": 9, 
-    "drinking-water": 7, 
-    "trash-dumpster": 1, 
-    "birdingnvildlife-viewing": 7, 
-    "store": 1, 
-    "wine": 1
-  }, 
+  "totals": [
+    {
+      "count": 12, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 11, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 9, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 7, 
+      "id": "birdingnvildlife-viewing", 
+      "name": "BirdingNVildlife Viewing"
+    }, 
+    {
+      "count": 5, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 4, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 3, 
+      "id": "first-aid", 
+      "name": "First aid"
+    }, 
+    {
+      "count": 3, 
+      "id": "entrance-station", 
+      "name": "Entrance station"
+    }, 
+    {
+      "count": 1, 
+      "id": "bottles", 
+      "name": "Bottles"
+    }, 
+    {
+      "count": 1, 
+      "id": "quiet", 
+      "name": "Quiet"
+    }, 
+    {
+      "count": 1, 
+      "id": "trash-dumpster", 
+      "name": "Trash dumpster"
+    }, 
+    {
+      "count": 1, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 1, 
+      "id": "wine", 
+      "name": "Wine"
+    }
+  ], 
+  "map_count": 3, 
   "id": "joshua-tree", 
   "Description": "Covering large areas of the Colorado and Mojave Deserts and the Little San Bernardino Mountains, this exotic desert landscape is populated by vast stands of the famous Joshua tree. Great changes in elevation reveal starkly contrasting environments including bleached sand dunes, dry lakes, rugged mountains, and maze-like clusters of monzogranite monoliths."
 }

@@ -1,4 +1,5 @@
 {
+  "symbol_count": 71, 
   "Name": "Yosemite", 
   "Recreation Visitors (2014)": "3,882,642", 
   "Photo": "", 
@@ -93,7 +94,7 @@
             "width": 13
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -373,7 +374,7 @@
             "width": 4
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -383,7 +384,7 @@
             "width": 4
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -456,14 +457,38 @@
           "id": "food-service"
         }
       ], 
-      "totals": {
-        "food-service": 8, 
-        "ranger-station": 9, 
-        "picnic-area": 9, 
-        "horseback-riding\n(rental,-guided-tour)": 3, 
-        "campground": 10, 
-        "gas-station": 5
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 9, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 9, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 8, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 5, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 3, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }
+      ]
     }, 
     {
       "map": "yosemite-campground-map", 
@@ -515,10 +540,18 @@
           "id": "wilderness"
         }
       ], 
-      "totals": {
-        "fire-extinguisher": 1, 
-        "wilderness": 3
-      }
+      "totals": [
+        {
+          "count": 3, 
+          "id": "wilderness", 
+          "name": "Wilderness"
+        }, 
+        {
+          "count": 1, 
+          "id": "fire-extinguisher", 
+          "name": "Fire extinguisher"
+        }
+      ]
     }, 
     {
       "map": "yosemite-valley-map", 
@@ -557,7 +590,7 @@
             "width": 4
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -747,7 +780,7 @@
             "width": 9
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -760,28 +793,89 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "food-service": 4, 
-        "restrooms": 7, 
-        "ranger-station": 1, 
-        "picnic-area": 5, 
-        "horseback-riding\n(rental,-guided-tour)": 2, 
-        "campground": 4
-      }
+      "totals": [
+        {
+          "count": 7, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
     }
   ], 
   "Location": "California 37\u00b050\u2032N 119\u00b030\u2032W\ufeff / \ufeff37.83\u00b0N 119.50\u00b0W\ufeff / 37.83; -119.50\ufeff (Yosemite)", 
-  "totals": {
-    "wilderness": 3, 
-    "food-service": 12, 
-    "fire-extinguisher": 1, 
-    "restrooms": 7, 
-    "ranger-station": 10, 
-    "picnic-area": 14, 
-    "horseback-riding\n(rental,-guided-tour)": 5, 
-    "campground": 14, 
-    "gas-station": 5
-  }, 
+  "totals": [
+    {
+      "count": 14, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 14, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 12, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 10, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 7, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 5, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 5, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 3, 
+      "id": "wilderness", 
+      "name": "Wilderness"
+    }, 
+    {
+      "count": 1, 
+      "id": "fire-extinguisher", 
+      "name": "Fire extinguisher"
+    }
+  ], 
+  "map_count": 3, 
   "id": "yosemite", 
   "Description": "Yosemite features towering granite cliffs, dramatic waterfalls, and old-growth forests at a unique intersection of geology and hydrology. Half Dome and El Capitan rise from the park's centerpiece, the glacier-carved Yosemite Valley, and from its vertical walls drop Yosemite Falls, North America's tallest waterfall. Three giant sequoia groves, along with a pristine wilderness in the heart of the Sierra Nevada, are home to an abundance of rare plant and animal species.[65] (WHS)"
 }

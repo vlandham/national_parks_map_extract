@@ -1,2498 +1,4 @@
 {
-  "maps": {
-    "": [
-      {
-        "count": 1, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "joshua-tree-simple-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "voyageurs-map"
-      }
-    ], 
-    "quagga-mussel\ndecontamination-station": [
-      {
-        "count": 18, 
-        "id": "isle-royale-map"
-      }
-    ], 
-    "lockers-storage": [
-      {
-        "count": 3, 
-        "id": "death-valley-printable-map"
-      }
-    ], 
-    "hiking": [
-      {
-        "count": 4, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }
-    ], 
-    "sanitary-disposal-station": [
-      {
-        "count": 4, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 4, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-basin-map"
-      }
-    ], 
-    "wheelchair-accessible": [
-      {
-        "count": 1, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 8, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "glacier-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "hot-springs-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "pinnacles-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "pinnacles-detail-map"
-      }, 
-      {
-        "count": 17, 
-        "id": "redwood-map"
-      }
-    ], 
-    "parking": [
-      {
-        "count": 2, 
-        "id": "acadia-schoodic-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "guadalupe-mountains-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "mammoth-cave-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "theodore-roosevelt-north-unit-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "yellowstone-map"
-      }
-    ], 
-    "telephone": [
-      {
-        "count": 6, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 12, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 3, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 14, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "petrified-forest-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "petrified-forest-map"
-      }
-    ], 
-    "amphitheater": [
-      {
-        "count": 2, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }
-    ], 
-    "restrooms": [
-      {
-        "count": 3, 
-        "id": "acadia-schoodic-map"
-      }, 
-      {
-        "count": 21, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "acadia-isle-au-haut-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "arches-national-park-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "biscayne-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "bryce-canyon-amphitheater-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "canyonlands-national-park-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "channel-islands-map"
-      }, 
-      {
-        "count": 22, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 27, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "grand-canyon-north-rim-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 15, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "hot-springs-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 14, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "mount-rainier-map"
-      }, 
-      {
-        "count": 15, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "petrified-forest-national-park-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "petrified-forest-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "pinnacles-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "pinnacles-detail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "shenandoah-classic-map"
-      }, 
-      {
-        "count": 12, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "yosemite-valley-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "zion-map"
-      }
-    ], 
-    "crosscountry-ski-trail": [
-      {
-        "count": 5, 
-        "id": "cuyahoga-valley-map"
-      }
-    ], 
-    "fishing": [
-      {
-        "count": 9, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "redwood-map"
-      }
-    ], 
-    "showers": [
-      {
-        "count": 2, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "isle-royale-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "virgin-islands-map"
-      }
-    ], 
-    "lodging": [
-      {
-        "count": 1, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 5, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "everglades-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 8, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "isle-royale-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "voyageurs-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "campground": [
-      {
-        "count": 3, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "acadia-isle-au-haut-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "badlands-cedar-pass-detail-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "badlands-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 7, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "bryce-canyon-amphitheater-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "canyonlands-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "capitol-reef-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "death-valley-backcountry-roads-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "denali-entrance-area-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "denali-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "everglades-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "gates-of-the-arctic-map"
-      }, 
-      {
-        "count": 14, 
-        "id": "glacier-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "glacier-bay-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "glacier-bay-detail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-north-rim-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "grand-teton-classic-map"
-      }, 
-      {
-        "count": 14, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-smoky-mountains-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "guadalupe-mountains-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "guadalupe-mountains-regional-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "joshua-tree-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "kenai-fjords-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "sequoia-kings-canyon-park-map"
-      }, 
-      {
-        "count": 22, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "mammoth-cave-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "mount-rainier-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 18, 
-        "id": "north-cascades-map"
-      }, 
-      {
-        "count": 14, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "pinnacles-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "redwood-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "saguaro-map-west"
-      }, 
-      {
-        "count": 2, 
-        "id": "shenandoah-classic-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "theodore-roosevelt-south-unit-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "theodore-roosevelt-north-unit-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "virgin-islands-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "voyageurs-map"
-      }, 
-      {
-        "count": 28, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "yosemite-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "yosemite-valley-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "zion-canyon-detail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "zion-map"
-      }
-    ], 
-    "propane": [
-      {
-        "count": 1, 
-        "id": "glacier-bay-map"
-      }
-    ], 
-    "lookout-tower": [
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-map"
-      }
-    ], 
-    "trash-dumpster": [
-      {
-        "count": 1, 
-        "id": "joshua-tree-pinkham-canyon-road-map"
-      }
-    ], 
-    "deer-viewing": [
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }
-    ], 
-    "information": [
-      {
-        "count": 5, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "grand-canyon-south-rim-detail-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "petrified-forest-national-park-map"
-      }
-    ], 
-    "bottles": [
-      {
-        "count": 2, 
-        "id": "bryce-canyon-backcountry-trail-map-1"
-      }, 
-      {
-        "count": 1, 
-        "id": "joshua-tree-simple-map"
-      }
-    ], 
-    "wilderness": [
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "yosemite-campground-map"
-      }
-    ], 
-    "food-service": [
-      {
-        "count": 2, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 5, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "everglades-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "glacier-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 8, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "petrified-forest-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "petrified-forest-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "virgin-islands-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "voyageurs-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "yosemite-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "yosemite-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "self-guiding-trail": [
-      {
-        "count": 2, 
-        "id": "arches-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 6, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "biscayne-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "canyonlands-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "glacier-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "isle-royale-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "joshua-tree-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "petrified-forest-national-park-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "petrified-forest-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "redwood-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "saguaro-map-west"
-      }, 
-      {
-        "count": 5, 
-        "id": "virgin-islands-map"
-      }, 
-      {
-        "count": 12, 
-        "id": "yellowstone-map"
-      }
-    ], 
-    "safety-caution-alerts": [
-      {
-        "count": 2, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "death-valley-backcountry-roads-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-teton-classic-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "great-smoky-mountains-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "kenai-fjords-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "sequoia-kings-canyon-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mount-rainier-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "north-cascades-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "shenandoah-classic-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "theodore-roosevelt-north-unit-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "airport": [
-      {
-        "count": 1, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "denali-entrance-area-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "denali-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "gates-of-the-arctic-map"
-      }
-    ], 
-    "maps": [
-      {
-        "count": 1, 
-        "id": "badlands-cedar-pass-detail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "badlands-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "great-smoky-mountains-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "ranger-station": [
-      {
-        "count": 10, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "acadia-isle-au-haut-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "biscayne-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "canyonlands-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "capitol-reef-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "channel-islands-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "denali-entrance-area-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "denali-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "gates-of-the-arctic-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "glacier-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-north-rim-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "guadalupe-mountains-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "hot-springs-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "isle-royale-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "joshua-tree-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "lake-clark-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "pinnacles-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "pinnacles-detail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "saguaro-east-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "saguaro-map-west"
-      }, 
-      {
-        "count": 11, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "virgin-islands-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "voyageurs-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "yosemite-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "yosemite-valley-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "zion-map"
-      }
-    ], 
-    "quiet": [
-      {
-        "count": 1, 
-        "id": "joshua-tree-map"
-      }
-    ], 
-    "playground": [
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-teton-classic-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-smoky-mountains-map"
-      }
-    ], 
-    "dam": [
-      {
-        "count": 1, 
-        "id": "biscayne-map"
-      }
-    ], 
-    "photography": [
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }
-    ], 
-    "store": [
-      {
-        "count": 4, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 8, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "isle-royale-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "joshua-tree-pinkham-canyon-road-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 12, 
-        "id": "yellowstone-map"
-      }
-    ], 
-    "gas-station": [
-      {
-        "count": 2, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 5, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "biscayne-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "death-valley-backcountry-roads-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "everglades-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-north-rim-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "guadalupe-mountains-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "guadalupe-mountains-regional-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "petrified-forest-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "petrified-forest-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "voyageurs-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "yosemite-map"
-      }
-    ], 
-    "river-rafting": [
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }
-    ], 
-    "shipwreck": [
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }
-    ], 
-    "shelter": [
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }
-    ], 
-    "sewer-hookup": [
-      {
-        "count": 2, 
-        "id": "arches-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "badlands-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-backcountry-trail-map-1"
-      }, 
-      {
-        "count": 1, 
-        "id": "gates-of-the-arctic-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-teton-classic-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-kahuku-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "joshua-tree-simple-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "joshua-tree-pinkham-canyon-road-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "joshua-tree-map"
-      }
-    ], 
-    "rv-campground": [
-      {
-        "count": 1, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 5, 
-        "id": "big-bend-national-park-map"
-      }
-    ], 
-    "stable": [
-      {
-        "count": 4, 
-        "id": "glacier-map"
-      }
-    ], 
-    "pets-on-leash": [
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "fire-extinguisher": [
-      {
-        "count": 1, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "yosemite-campground-map"
-      }
-    ], 
-    "emergencies": [
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }
-    ], 
-    "picnic-area": [
-      {
-        "count": 1, 
-        "id": "acadia-schoodic-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "arches-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "badlands-cedar-pass-detail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "badlands-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "big-bend-detail-maps"
-      }, 
-      {
-        "count": 7, 
-        "id": "big-bend-national-park-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "biscayne-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "bryce-canyon-amphitheater-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "canyonlands-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "capitol-reef-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "crater-lake-map"
-      }, 
-      {
-        "count": 32, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "denali-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "everglades-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "glacier-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "grand-canyon-north-rim-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "great-smoky-mountains-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "guadalupe-mountains-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "hot-springs-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "joshua-tree-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "mammoth-cave-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "mount-rainier-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "mount-rainier-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "north-cascades-map"
-      }, 
-      {
-        "count": 17, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "petrified-forest-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "petrified-forest-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "pinnacles-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "pinnacles-detail-map"
-      }, 
-      {
-        "count": 21, 
-        "id": "redwood-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "saguaro-east-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "saguaro-map-west"
-      }, 
-      {
-        "count": 3, 
-        "id": "shenandoah-classic-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "theodore-roosevelt-south-unit-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "theodore-roosevelt-north-unit-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "virgin-islands-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "voyageurs-map"
-      }, 
-      {
-        "count": 47, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "yosemite-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "yosemite-valley-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "zion-map"
-      }
-    ], 
-    "recycling": [
-      {
-        "count": 4, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "shenandoah-classic-map"
-      }, 
-      {
-        "count": 10, 
-        "id": "shenandoah-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "yellowstone-map"
-      }
-    ], 
-    "entrance-station": [
-      {
-        "count": 1, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "joshua-tree-pinkham-canyon-road-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "joshua-tree-map"
-      }
-    ], 
-    "trailer-site": [
-      {
-        "count": 1, 
-        "id": "grand-canyon-south-rim-map"
-      }
-    ], 
-    "marina": [
-      {
-        "count": 4, 
-        "id": "biscayne-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "everglades-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "isle-royale-map"
-      }
-    ], 
-    "canoe-access": [
-      {
-        "count": 4, 
-        "id": "congaree-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "voyageurs-map"
-      }
-    ], 
-    "wi-fi": [
-      {
-        "count": 3, 
-        "id": "big-bend-national-park-map"
-      }
-    ], 
-    "electrical-hookup": [
-      {
-        "count": 1, 
-        "id": "grand-canyon-national-park-map"
-      }
-    ], 
-    "first-aid": [
-      {
-        "count": 1, 
-        "id": "grand-canyon-south-rim-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-canyon-south-rim-detail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 3, 
-        "id": "joshua-tree-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "bear-viewing": [
-      {
-        "count": 4, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "katmai-brooks-camp-map"
-      }
-    ], 
-    "audio-tour": [
-      {
-        "count": 2, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-smoky-mountains-map"
-      }
-    ], 
-    "mens-restroom": [
-      {
-        "count": 3, 
-        "id": "guadalupe-mountains-map"
-      }
-    ], 
-    "trucks": [
-      {
-        "count": 3, 
-        "id": "grand-teton-classic-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "great-smoky-mountains-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "hawaii-volcanoes-kahuku-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "hawaii-volcanoes-map"
-      }
-    ], 
-    "calendar-events": [
-      {
-        "count": 2, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }
-    ], 
-    "bus-stop-shuttle-stop": [
-      {
-        "count": 5, 
-        "id": "acadia-schoodic-map"
-      }, 
-      {
-        "count": 17, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "bryce-canyon-amphitheater-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "denali-entrance-area-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "katmai-brooks-camp-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "yellowstone-map"
-      }
-    ], 
-    "boat-tour": [
-      {
-        "count": 1, 
-        "id": "acadia-schoodic-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "acadia-isle-au-haut-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "glacier-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "voyageurs-map"
-      }
-    ], 
-    "boat-launch": [
-      {
-        "count": 7, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "biscayne-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "canyonlands-national-park-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "everglades-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "katmai-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "mammoth-cave-map"
-      }, 
-      {
-        "count": 21, 
-        "id": "olympic-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "redwood-map"
-      }, 
-      {
-        "count": 12, 
-        "id": "voyageurs-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "yellowstone-map"
-      }
-    ], 
-    "bicycle-trail": [
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "souvenir-shop": [
-      {
-        "count": 4, 
-        "id": "mesa-verde-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "petrified-forest-national-park-map"
-      }
-    ], 
-    "sledding": [
-      {
-        "count": 5, 
-        "id": "cuyahoga-valley-map"
-      }
-    ], 
-    "bookstore": [
-      {
-        "count": 3, 
-        "id": "guadalupe-mountains-map"
-      }
-    ], 
-    "wine": [
-      {
-        "count": 1, 
-        "id": "joshua-tree-simple-map"
-      }
-    ], 
-    "horseback-riding\n(rental,-guided-tour)": [
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "yosemite-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "yosemite-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "event-facility": [
-      {
-        "count": 1, 
-        "id": "badlands-cedar-pass-detail-map"
-      }
-    ], 
-    "drinking-water": [
-      {
-        "count": 3, 
-        "id": "arches-national-park-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "canyonlands-national-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-new-furnace-creek-map"
-      }, 
-      {
-        "count": 13, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 3, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "hawaii-volcanoes-kilauea-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "joshua-tree-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "petrified-forest-national-park-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "pinnacles-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "pinnacles-detail-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "zion-canyon-detail-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "zion-map"
-      }
-    ], 
-    "laundromat": [
-      {
-        "count": 2, 
-        "id": "big-bend-detail-maps"
-      }
-    ], 
-    "birdingnvildlife-viewing": [
-      {
-        "count": 1, 
-        "id": "great-basin-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "great-smoky-mountains-map"
-      }, 
-      {
-        "count": 7, 
-        "id": "joshua-tree-pinkham-canyon-road-map"
-      }
-    ], 
-    "kennel": [
-      {
-        "count": 8, 
-        "id": "cuyahoga-valley-map"
-      }
-    ], 
-    "swimming": [
-      {
-        "count": 3, 
-        "id": "acadia-map"
-      }
-    ]
-  }, 
   "parks": {
     "": [
       {
@@ -2514,12 +20,6 @@
       {
         "count": 1, 
         "id": "voyageurs"
-      }
-    ], 
-    "quagga-mussel\ndecontamination-station": [
-      {
-        "count": 18, 
-        "id": "isle-royale"
       }
     ], 
     "lockers-storage": [
@@ -3340,18 +840,42 @@
         "id": "zion"
       }
     ], 
-    "airport": [
+    "horseback-riding-(rental,-guided-tour)": [
       {
-        "count": 16, 
-        "id": "death-valley"
+        "count": 2, 
+        "id": "black-canyon-of-the-gunnison"
       }, 
       {
-        "count": 6, 
-        "id": "denali"
+        "count": 1, 
+        "id": "bryce-canyon"
       }, 
       {
-        "count": 8, 
-        "id": "gates-of-the-arctic"
+        "count": 10, 
+        "id": "cuyahoga-valley"
+      }, 
+      {
+        "count": 4, 
+        "id": "grand-teton"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes"
+      }, 
+      {
+        "count": 4, 
+        "id": "kings-canyon"
+      }, 
+      {
+        "count": 5, 
+        "id": "yellowstone"
+      }, 
+      {
+        "count": 5, 
+        "id": "yosemite"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion"
       }
     ], 
     "maps": [
@@ -3674,6 +1198,20 @@
         "id": "yosemite"
       }
     ], 
+    "airport": [
+      {
+        "count": 16, 
+        "id": "death-valley"
+      }, 
+      {
+        "count": 6, 
+        "id": "denali"
+      }, 
+      {
+        "count": 8, 
+        "id": "gates-of-the-arctic"
+      }
+    ], 
     "river-rafting": [
       {
         "count": 2, 
@@ -3766,6 +1304,12 @@
       {
         "count": 1, 
         "id": "bryce-canyon"
+      }
+    ], 
+    "quagga-mussel-decontamination-station": [
+      {
+        "count": 18, 
+        "id": "isle-royale"
       }
     ], 
     "picnic-area": [
@@ -4184,44 +1728,6 @@
         "id": "joshua-tree"
       }
     ], 
-    "horseback-riding\n(rental,-guided-tour)": [
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon"
-      }, 
-      {
-        "count": 10, 
-        "id": "cuyahoga-valley"
-      }, 
-      {
-        "count": 4, 
-        "id": "grand-teton"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes"
-      }, 
-      {
-        "count": 4, 
-        "id": "kings-canyon"
-      }, 
-      {
-        "count": 5, 
-        "id": "yellowstone"
-      }, 
-      {
-        "count": 5, 
-        "id": "yosemite"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion"
-      }
-    ], 
     "event-facility": [
       {
         "count": 1, 
@@ -4303,78 +1809,366 @@
       }
     ]
   }, 
-  "totals": {
-    "": 9, 
-    "quagga-mussel\ndecontamination-station": 18, 
-    "lockers-storage": 3, 
-    "hiking": 6, 
-    "sanitary-disposal-station": 18, 
-    "wheelchair-accessible": 65, 
-    "parking": 57, 
-    "telephone": 63, 
-    "amphitheater": 6, 
-    "restrooms": 293, 
-    "crosscountry-ski-trail": 5, 
-    "fishing": 20, 
-    "showers": 10, 
-    "lodging": 101, 
-    "campground": 356, 
-    "propane": 1, 
-    "lookout-tower": 1, 
-    "trash-dumpster": 1, 
-    "sledding": 5, 
-    "information": 27, 
-    "bottles": 3, 
-    "wilderness": 4, 
-    "food-service": 141, 
-    "self-guiding-trail": 132, 
-    "safety-caution-alerts": 53, 
-    "maps": 18, 
-    "ranger-station": 184, 
-    "quiet": 1, 
-    "playground": 4, 
-    "dam": 1, 
-    "photography": 1, 
-    "store": 55, 
-    "gas-station": 104, 
-    "river-rafting": 2, 
-    "shipwreck": 1, 
-    "shelter": 1, 
-    "sewer-hookup": 30, 
-    "rv-campground": 6, 
-    "stable": 4, 
-    "pets-on-leash": 1, 
-    "fire-extinguisher": 2, 
-    "emergencies": 1, 
-    "picnic-area": 433, 
-    "recycling": 25, 
-    "entrance-station": 8, 
-    "trailer-site": 1, 
-    "marina": 13, 
-    "canoe-access": 8, 
-    "wi-fi": 3, 
-    "electrical-hookup": 1, 
-    "first-aid": 8, 
-    "bear-viewing": 7, 
-    "audio-tour": 4, 
-    "mens-restroom": 3, 
-    "trucks": 11, 
-    "calendar-events": 2, 
-    "bus-stop-shuttle-stop": 56, 
-    "boat-tour": 17, 
-    "boat-launch": 69, 
-    "bicycle-trail": 1, 
-    "souvenir-shop": 7, 
-    "airport": 30, 
-    "bookstore": 3, 
-    "wine": 1, 
-    "deer-viewing": 2, 
-    "horseback-riding\n(rental,-guided-tour)": 34, 
-    "event-facility": 1, 
-    "drinking-water": 71, 
-    "laundromat": 2, 
-    "birdingnvildlife-viewing": 12, 
-    "kennel": 8, 
-    "swimming": 3
-  }
+  "totals": [
+    {
+      "count": 433, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 356, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 293, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 184, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 141, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 132, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 104, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 101, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 71, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 69, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 65, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 63, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 57, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 56, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 55, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 53, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 34, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 30, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 30, 
+      "id": "airport", 
+      "name": "Airport"
+    }, 
+    {
+      "count": 27, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 25, 
+      "id": "recycling", 
+      "name": "Recycling"
+    }, 
+    {
+      "count": 20, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 18, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 18, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 18, 
+      "id": "quagga-mussel-decontamination-station", 
+      "name": "Quagga mussel\ndecontamination station"
+    }, 
+    {
+      "count": 17, 
+      "id": "boat-tour", 
+      "name": "Boat tour"
+    }, 
+    {
+      "count": 13, 
+      "id": "marina", 
+      "name": "Marina"
+    }, 
+    {
+      "count": 12, 
+      "id": "birdingnvildlife-viewing", 
+      "name": "BirdingNVildlife Viewing"
+    }, 
+    {
+      "count": 11, 
+      "id": "trucks", 
+      "name": "Trucks"
+    }, 
+    {
+      "count": 10, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 9, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 8, 
+      "id": "entrance-station", 
+      "name": "Entrance station"
+    }, 
+    {
+      "count": 8, 
+      "id": "canoe-access", 
+      "name": "Canoe access"
+    }, 
+    {
+      "count": 8, 
+      "id": "first-aid", 
+      "name": "First aid"
+    }, 
+    {
+      "count": 8, 
+      "id": "kennel", 
+      "name": "Kennel"
+    }, 
+    {
+      "count": 7, 
+      "id": "bear-viewing", 
+      "name": "Bear Viewing"
+    }, 
+    {
+      "count": 7, 
+      "id": "souvenir-shop", 
+      "name": "Souvenir shop"
+    }, 
+    {
+      "count": 6, 
+      "id": "hiking", 
+      "name": "Hiking"
+    }, 
+    {
+      "count": 6, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }, 
+    {
+      "count": 6, 
+      "id": "rv-campground", 
+      "name": "RV campground"
+    }, 
+    {
+      "count": 5, 
+      "id": "crosscountry-ski-trail", 
+      "name": "Crosscountry ski trail"
+    }, 
+    {
+      "count": 5, 
+      "id": "sledding", 
+      "name": "Sledding"
+    }, 
+    {
+      "count": 4, 
+      "id": "wilderness", 
+      "name": "Wilderness"
+    }, 
+    {
+      "count": 4, 
+      "id": "playground", 
+      "name": "Playground"
+    }, 
+    {
+      "count": 4, 
+      "id": "stable", 
+      "name": "Stable"
+    }, 
+    {
+      "count": 4, 
+      "id": "audio-tour", 
+      "name": "Audio tour"
+    }, 
+    {
+      "count": 3, 
+      "id": "lockers-storage", 
+      "name": "Lockers/Storage"
+    }, 
+    {
+      "count": 3, 
+      "id": "bottles", 
+      "name": "Bottles"
+    }, 
+    {
+      "count": 3, 
+      "id": "wi-fi", 
+      "name": "Wi-Fi"
+    }, 
+    {
+      "count": 3, 
+      "id": "mens-restroom", 
+      "name": "Mens restroom"
+    }, 
+    {
+      "count": 3, 
+      "id": "bookstore", 
+      "name": "Bookstore"
+    }, 
+    {
+      "count": 3, 
+      "id": "swimming", 
+      "name": "Swimming"
+    }, 
+    {
+      "count": 2, 
+      "id": "river-rafting", 
+      "name": "River rafting"
+    }, 
+    {
+      "count": 2, 
+      "id": "fire-extinguisher", 
+      "name": "Fire extinguisher"
+    }, 
+    {
+      "count": 2, 
+      "id": "calendar-events", 
+      "name": "Calendar/Events"
+    }, 
+    {
+      "count": 2, 
+      "id": "deer-viewing", 
+      "name": "Deer Viewing"
+    }, 
+    {
+      "count": 2, 
+      "id": "laundromat", 
+      "name": "Laundromat"
+    }, 
+    {
+      "count": 1, 
+      "id": "propane", 
+      "name": "Propane"
+    }, 
+    {
+      "count": 1, 
+      "id": "lookout-tower", 
+      "name": "Lookout tower"
+    }, 
+    {
+      "count": 1, 
+      "id": "trash-dumpster", 
+      "name": "Trash dumpster"
+    }, 
+    {
+      "count": 1, 
+      "id": "quiet", 
+      "name": "Quiet"
+    }, 
+    {
+      "count": 1, 
+      "id": "dam", 
+      "name": "Dam"
+    }, 
+    {
+      "count": 1, 
+      "id": "photography", 
+      "name": "Photography"
+    }, 
+    {
+      "count": 1, 
+      "id": "shipwreck", 
+      "name": "Shipwreck"
+    }, 
+    {
+      "count": 1, 
+      "id": "shelter", 
+      "name": "Shelter"
+    }, 
+    {
+      "count": 1, 
+      "id": "pets-on-leash", 
+      "name": "Pets on leash"
+    }, 
+    {
+      "count": 1, 
+      "id": "emergencies", 
+      "name": "Emergencies"
+    }, 
+    {
+      "count": 1, 
+      "id": "trailer-site", 
+      "name": "Trailer site"
+    }, 
+    {
+      "count": 1, 
+      "id": "electrical-hookup", 
+      "name": "Electrical hookup"
+    }, 
+    {
+      "count": 1, 
+      "id": "bicycle-trail", 
+      "name": "Bicycle trail"
+    }, 
+    {
+      "count": 1, 
+      "id": "wine", 
+      "name": "Wine"
+    }, 
+    {
+      "count": 1, 
+      "id": "event-facility", 
+      "name": "Event facility"
+    }
+  ]
 }

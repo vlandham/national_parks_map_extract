@@ -1,4 +1,5 @@
 {
+  "symbol_count": 11, 
   "Name": "Theodore Roosevelt", 
   "Recreation Visitors (2014)": "559,580", 
   "Photo": "", 
@@ -66,10 +67,18 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "campground": 3, 
-        "picnic-area": 2
-      }
+      "totals": [
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }
+      ]
     }, 
     {
       "map": "theodore-roosevelt-north-unit-map", 
@@ -141,21 +150,54 @@
           "id": "parking"
         }
       ], 
-      "totals": {
-        "campground": 2, 
-        "picnic-area": 2, 
-        "parking": 1, 
-        "safety-caution-alerts": 1
-      }
+      "totals": [
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }
   ], 
   "Location": "North Dakota 46\u00b058\u2032N 103\u00b027\u2032W\ufeff / \ufeff46.97\u00b0N 103.45\u00b0W\ufeff / 46.97; -103.45\ufeff (Theodore Roosevelt)", 
-  "totals": {
-    "campground": 5, 
-    "picnic-area": 4, 
-    "parking": 1, 
-    "safety-caution-alerts": 1
-  }, 
+  "totals": [
+    {
+      "count": 5, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 1, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 1, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 2, 
   "id": "theodore-roosevelt", 
   "Description": "This region that enticed and influenced President Theodore Roosevelt consists of a park of three units in the northern badlands. Besides Roosevelt's historic cabin, there are numerous scenic drives and backcountry hiking opportunities. Wildlife includes American bison, pronghorn, bighorn sheep, and wild horses."
 }

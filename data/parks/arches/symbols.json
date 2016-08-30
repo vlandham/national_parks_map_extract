@@ -1,4 +1,5 @@
 {
+  "symbol_count": 20, 
   "Name": "Arches", 
   "Recreation Visitors (2014)": "1,284,767", 
   "Photo": "", 
@@ -216,23 +217,64 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "self-guiding-trail": 2, 
-        "drinking-water": 3, 
-        "picnic-area": 3, 
-        "sewer-hookup": 2, 
-        "restrooms": 10
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 2, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
     }
   ], 
   "Location": "Utah 38\u00b041\u2032N 109\u00b034\u2032W\ufeff / \ufeff38.68\u00b0N 109.57\u00b0W\ufeff / 38.68; -109.57\ufeff (Arches)", 
-  "totals": {
-    "self-guiding-trail": 2, 
-    "drinking-water": 3, 
-    "picnic-area": 3, 
-    "sewer-hookup": 2, 
-    "restrooms": 10
-  }, 
+  "totals": [
+    {
+      "count": 10, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 3, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 3, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 2, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 2, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "map_count": 1, 
   "id": "arches", 
   "Description": "This site features more than 2,000 natural sandstone arches, including the famous Delicate Arch. In a desert climate, millions of years of erosion have led to these structures, and the arid ground has life-sustaining soil crust and potholes, which serve as natural water-collecting basins. Other geologic formations are stone columns, spires, fins, and towers."
 }

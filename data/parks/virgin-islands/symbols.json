@@ -1,4 +1,5 @@
 {
+  "symbol_count": 21, 
   "Name": "Virgin Islands", 
   "Recreation Visitors (2014)": "426,930", 
   "Photo": "", 
@@ -226,25 +227,74 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "food-service": 3, 
-        "self-guiding-trail": 5, 
-        "ranger-station": 2, 
-        "picnic-area": 7, 
-        "showers": 2, 
-        "campground": 2
-      }
+      "totals": [
+        {
+          "count": 7, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 5, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "showers", 
+          "name": "Showers"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
     }
   ], 
   "Location": "United States Virgin Islands 18\u00b020\u2032N 64\u00b044\u2032W\ufeff / \ufeff18.33\u00b0N 64.73\u00b0W\ufeff / 18.33; -64.73\ufeff (Virgin Islands)", 
-  "totals": {
-    "food-service": 3, 
-    "self-guiding-trail": 5, 
-    "ranger-station": 2, 
-    "picnic-area": 7, 
-    "showers": 2, 
-    "campground": 2
-  }, 
+  "totals": [
+    {
+      "count": 7, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 5, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 3, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 2, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "map_count": 1, 
   "id": "virgin-islands", 
   "Description": "The island of Saint John has rich human and natural histories. Ta\u00edno archaeological sites and ruins of sugar plantations from Columbus' time litter the coast. Past the pristine beaches are mangrove forests, seagrass beds, coral reefs, and vast algal plains."
 }

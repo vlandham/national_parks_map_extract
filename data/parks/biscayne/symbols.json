@@ -1,4 +1,5 @@
 {
+  "symbol_count": 38, 
   "Name": "Biscayne", 
   "Recreation Visitors (2014)": "525,745", 
   "Photo": "", 
@@ -396,29 +397,94 @@
           "id": "self-guiding-trail"
         }
       ], 
-      "totals": {
-        "dam": 1, 
-        "boat-launch": 4, 
-        "restrooms": 9, 
-        "self-guiding-trail": 4, 
-        "ranger-station": 3, 
-        "picnic-area": 9, 
-        "marina": 4, 
-        "gas-station": 4
-      }
+      "totals": [
+        {
+          "count": 9, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 9, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 4, 
+          "id": "marina", 
+          "name": "Marina"
+        }, 
+        {
+          "count": 4, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "dam", 
+          "name": "Dam"
+        }
+      ]
     }
   ], 
   "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 
-  "totals": {
-    "dam": 1, 
-    "boat-launch": 4, 
-    "restrooms": 9, 
-    "self-guiding-trail": 4, 
-    "ranger-station": 3, 
-    "picnic-area": 9, 
-    "marina": 4, 
-    "gas-station": 4
-  }, 
+  "totals": [
+    {
+      "count": 9, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 9, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 4, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 4, 
+      "id": "marina", 
+      "name": "Marina"
+    }, 
+    {
+      "count": 4, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 1, 
+      "id": "dam", 
+      "name": "Dam"
+    }
+  ], 
+  "map_count": 1, 
   "id": "biscayne", 
   "Description": "Located in Biscayne Bay, this park at the north end of the Florida Keys has four interrelated marine ecosystems: mangrove forest, the Bay, the Keys, and coral reefs. Threatened animals include the West Indian manatee, American crocodile, various sea turtles, and peregrine falcon."
 }

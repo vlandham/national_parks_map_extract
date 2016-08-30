@@ -1,4 +1,5 @@
 {
+  "symbol_count": 28, 
   "Name": "Denali", 
   "Recreation Visitors (2014)": "531,315", 
   "Photo": "", 
@@ -86,12 +87,28 @@
           "id": "ranger-station"
         }
       ], 
-      "totals": {
-        "campground": 1, 
-        "bus-stop-shuttle-stop": 4, 
-        "airport": 1, 
-        "ranger-station": 1
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
     }, 
     {
       "map": "denali-map", 
@@ -313,22 +330,59 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "campground": 9, 
-        "airport": 5, 
-        "picnic-area": 5, 
-        "ranger-station": 2
-      }
+      "totals": [
+        {
+          "count": 9, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 5, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
     }
   ], 
   "Location": "Alaska 63\u00b020\u2032N 150\u00b030\u2032W\ufeff / \ufeff63.33\u00b0N 150.50\u00b0W\ufeff / 63.33; -150.50\ufeff (Denali)", 
-  "totals": {
-    "campground": 10, 
-    "bus-stop-shuttle-stop": 4, 
-    "airport": 6, 
-    "picnic-area": 5, 
-    "ranger-station": 3
-  }, 
+  "totals": [
+    {
+      "count": 10, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 6, 
+      "id": "airport", 
+      "name": "Airport"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }
+  ], 
+  "map_count": 2, 
   "id": "denali", 
   "Description": "Centered on Denali, the tallest mountain in North America, Denali is serviced by a single road leading to Wonder Lake. Denali and other peaks of the Alaska Range are covered with long glaciers and boreal forest. Wildlife includes grizzly bears, Dall sheep, caribou, and gray wolves."
 }

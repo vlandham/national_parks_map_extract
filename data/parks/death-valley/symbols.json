@@ -1,4 +1,5 @@
 {
+  "symbol_count": 224, 
   "Name": "Death Valley", 
   "Recreation Visitors (2014)": "1,101,312", 
   "Photo": "", 
@@ -196,19 +197,63 @@
           "id": "food-service"
         }
       ], 
-      "totals": {
-        "food-service": 2, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 1, 
-        "ranger-station": 1, 
-        "telephone": 1, 
-        "airport": 1, 
-        "picnic-area": 1, 
-        "lodging": 2, 
-        "campground": 3, 
-        "store": 1, 
-        "gas-station": 1
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 1, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }, 
     {
       "map": "death-valley-new-furnace-creek-map", 
@@ -420,21 +465,73 @@
           "id": "food-service"
         }
       ], 
-      "totals": {
-        "food-service": 2, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 1, 
-        "ranger-station": 1, 
-        "restrooms": 1, 
-        "airport": 1, 
-        "picnic-area": 1, 
-        "telephone": 1, 
-        "lodging": 2, 
-        "campground": 3, 
-        "drinking-water": 1, 
-        "store": 1, 
-        "gas-station": 1
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 1, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }, 
     {
       "map": "death-valley-printable-map", 
@@ -836,16 +933,48 @@
           "id": "airport"
         }
       ], 
-      "totals": {
-        "gas-station": 6, 
-        "lockers-storage": 3, 
-        "restrooms": 10, 
-        "airport": 6, 
-        "picnic-area": 1, 
-        "campground": 7, 
-        "audio-tour": 2, 
-        "safety-caution-alerts": 4
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 7, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 6, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 6, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 4, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 3, 
+          "id": "lockers-storage", 
+          "name": "Lockers/Storage"
+        }, 
+        {
+          "count": 2, 
+          "id": "audio-tour", 
+          "name": "Audio tour"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }
+      ]
     }, 
     {
       "map": "death-valley-national-park-map", 
@@ -2167,22 +2296,78 @@
           "id": "airport"
         }
       ], 
-      "totals": {
-        "airport": 8, 
-        "food-service": 11, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 5, 
-        "telephone": 12, 
-        "restrooms": 27, 
-        "ranger-station": 4, 
-        "picnic-area": 5, 
-        "lodging": 11, 
-        "campground": 11, 
-        "drinking-water": 13, 
-        "gas-station": 11, 
-        "store": 8, 
-        "safety-caution-alerts": 1
-      }
+      "totals": [
+        {
+          "count": 27, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 13, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 12, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 11, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 11, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 11, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 11, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 8, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 8, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 5, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 4, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }, 
     {
       "map": "death-valley-backcountry-roads-map", 
@@ -2354,32 +2539,109 @@
           "id": "gas-station"
         }
       ], 
-      "totals": {
-        "campground": 7, 
-        "safety-caution-alerts": 2, 
-        "gas-station": 7
-      }
+      "totals": [
+        {
+          "count": 7, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 7, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 2, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }
   ], 
   "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
-  "totals": {
-    "audio-tour": 2, 
-    "lockers-storage": 3, 
-    "food-service": 15, 
-    "sanitary-disposal-station": 12, 
-    "wheelchair-accessible": 7, 
-    "safety-caution-alerts": 7, 
-    "ranger-station": 6, 
-    "telephone": 14, 
-    "airport": 16, 
-    "picnic-area": 8, 
-    "lodging": 15, 
-    "campground": 31, 
-    "drinking-water": 14, 
-    "restrooms": 38, 
-    "store": 10, 
-    "gas-station": 26
-  }, 
+  "totals": [
+    {
+      "count": 38, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 31, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 26, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 16, 
+      "id": "airport", 
+      "name": "Airport"
+    }, 
+    {
+      "count": 15, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 15, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 14, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 14, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 12, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 10, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 7, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 6, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "lockers-storage", 
+      "name": "Lockers/Storage"
+    }, 
+    {
+      "count": 2, 
+      "id": "audio-tour", 
+      "name": "Audio tour"
+    }
+  ], 
+  "map_count": 5, 
   "id": "death-valley", 
   "Description": "Death Valley is the hottest, lowest, and driest place in the United States. Daytime temperatures have topped 130\u00a0\u00b0F (54\u00a0\u00b0C) and it is home to Badwater Basin, the lowest elevation in North America. A diversity of colorful canyons, desolate badlands, shifting sand dunes, sprawling mountains, and over 1000 species of plants populate this geologic graben. Additional points of interest include salt flats, historic mines, and springs."
 }

@@ -1,4 +1,5 @@
 {
+  "symbol_count": 4, 
   "Name": "Congaree", 
   "Recreation Visitors (2014)": "120,122", 
   "Photo": "", 
@@ -56,15 +57,24 @@
           "id": "canoe-access"
         }
       ], 
-      "totals": {
-        "canoe-access": 4
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "canoe-access", 
+          "name": "Canoe access"
+        }
+      ]
     }
   ], 
   "Location": "South Carolina 33\u00b047\u2032N 80\u00b047\u2032W\ufeff / \ufeff33.78\u00b0N 80.78\u00b0W\ufeff / 33.78; -80.78\ufeff (Congaree)", 
-  "totals": {
-    "canoe-access": 4
-  }, 
+  "totals": [
+    {
+      "count": 4, 
+      "id": "canoe-access", 
+      "name": "Canoe access"
+    }
+  ], 
+  "map_count": 1, 
   "id": "congaree", 
   "Description": "On the Congaree River, this park is the largest portion of old-growth floodplain forest left in North America. Some of the trees are the tallest in the Eastern US. An elevated walkway called the Boardwalk Loop guides visitors through the swamp."
 }

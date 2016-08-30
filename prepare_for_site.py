@@ -28,11 +28,14 @@ def read_json(filename):
         data = json.load(infile)
     return data
 
+def to_key(string):
+    return string.strip().lower().replace(' ', '-').replace('\n', '-').replace('/', '-')
+
 def get_parks_info():
     parks_info = read_json(PARK_INFO)
     for info in parks_info:
         info['name'] = info['Name']
-        info['id'] = info['name'].strip().lower().replace(' ', '-')
+        info['id'] = to_key(info['name'])
     return parks_info
 
 def get_symbols():
@@ -78,9 +81,16 @@ def get_key():
     for symbol in key:
         k_id = symbol['basename'].split('.')[0]
         symbol['name'] = symbol['label']
-        symbol['id'] = symbol['name'].lower().replace(' ', '-').replace('/', '-').strip()
+        symbol['id'] = to_key(symbol['name'])
         key_dict[k_id] = symbol
     return key_dict
+
+def counter_to_array(counter, name_map):
+    counts = []
+    for key, count in counter.iteritems():
+        count = {'id':key, 'count':count, 'name':name_map[key]}
+        counts.append(count)
+    return sorted(counts, key=lambda x: x['count'], reverse=True)
 
 
 def add_symbols(parks):
@@ -92,6 +102,7 @@ def add_symbols(parks):
     symbol_maps = defaultdict(list)
 
 
+    park_symbols = {}
     for park in parks:
         park_totals = Counter()
         for pmap in park['maps']:
@@ -106,6 +117,7 @@ def add_symbols(parks):
                     symbol['id'] = key['id']
                     symbol['name'] = key['name']
                     pmap['symbols'].append(symbol)
+                    park_symbols[symbol['id']] = symbol['name']
                     map_totals[symbol['id']] += 1
                     park_totals[symbol['id']] += 1
                     symbol_totals[symbol['id']] += 1
@@ -118,20 +130,23 @@ def add_symbols(parks):
                     print('WARNING: ' + icon['match_name'] + ' not valid symbol')
 
             for key, count in map_totals.iteritems():
-                symbol_maps[key].append({'id':pmap['map'], 'count':count})
+                symbol_maps[key].append({'id':pmap['map'], 'count':count, 'name':park_symbols[key]})
             del(pmap['icons'])
-            pmap['totals'] = map_totals
+            pmap['totals'] = counter_to_array(map_totals, park_symbols)
+
             # end map loop
 
         for key, count in park_totals.iteritems():
             symbol_parks[key].append({'id':park['id'], 'count':count})
 
-        park['totals'] = park_totals
+        park['totals'] = counter_to_array(park_totals, park_symbols)
+        park['map_count'] = len(park['maps'])
+        park['symbol_count'] = sum(park_totals.values())
         # end park loop
     symbols = {}
-    symbols['totals'] = symbol_totals
+    symbols['totals'] = counter_to_array(symbol_totals, park_symbols)
     symbols['parks'] = symbol_parks
-    symbols['maps'] = symbol_maps
+    #symbols['maps'] = symbol_maps
     return {'symbols': symbols, 'parks':parks}
 
 
@@ -142,6 +157,17 @@ def output_parks(parks, output_dir):
             os.makedirs(full_path)
         park_filename = os.path.join(full_path, 'symbols.json')
         write_json(park, park_filename)
+
+
+def get_park_ids(parks):
+    ids = {}
+    for park in parks:
+        ids[park['id']] = {'name': park['name'],
+                           'id': park['id'],
+                           'map_count': park['map_count'],
+                           'symbol_count': park['symbol_count']
+                           }
+    return ids
 
 
 def main():
@@ -163,6 +189,11 @@ def main():
 
     output_filename = os.path.join(OUTPUT_DIR, 'all_symbols.json')
     write_json(parks['symbols'], output_filename)
+
+    park_ids = get_park_ids(parks['parks'])
+    output_filename = os.path.join(OUTPUT_DIR, 'park_ids.json')
+    write_json(park_ids, output_filename)
+
 
     output_parks(parks['parks'], OUTPUT_DIR)
 

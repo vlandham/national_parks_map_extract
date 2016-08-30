@@ -1,4 +1,5 @@
 {
+  "symbol_count": 77, 
   "Name": "Mount Rainier", 
   "Recreation Visitors (2014)": "1,264,259", 
   "Photo": "", 
@@ -206,12 +207,28 @@
           "id": "restrooms"
         }
       ], 
-      "totals": {
-        "campground": 5, 
-        "picnic-area": 7, 
-        "safety-caution-alerts": 2, 
-        "restrooms": 5
-      }
+      "totals": [
+        {
+          "count": 7, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 2, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }, 
     {
       "map": "mount-rainier-national-park-map", 
@@ -803,30 +820,99 @@
           "id": "restrooms"
         }
       ], 
-      "totals": {
-        "food-service": 4, 
-        "restrooms": 15, 
-        "self-guiding-trail": 9, 
-        "ranger-station": 8, 
-        "picnic-area": 13, 
-        "lodging": 2, 
-        "campground": 5, 
-        "store": 2
-      }
+      "totals": [
+        {
+          "count": 15, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 13, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 9, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 8, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 4, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "store", 
+          "name": "Store"
+        }
+      ]
     }
   ], 
   "Location": "Washington 46\u00b051\u2032N 121\u00b045\u2032W\ufeff / \ufeff46.85\u00b0N 121.75\u00b0W\ufeff / 46.85; -121.75\ufeff (Mount Rainier)", 
-  "totals": {
-    "food-service": 4, 
-    "restrooms": 20, 
-    "self-guiding-trail": 9, 
-    "ranger-station": 8, 
-    "picnic-area": 20, 
-    "lodging": 2, 
-    "campground": 10, 
-    "store": 2, 
-    "safety-caution-alerts": 2
-  }, 
+  "totals": [
+    {
+      "count": 20, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 20, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 10, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 9, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 8, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 4, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 2, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 2, 
   "id": "mount-rainier", 
   "Description": "Mount Rainier, an active stratovolcano, is the most prominent peak in the Cascades, and is covered by 26 named glaciers including Carbon Glacier and Emmons Glacier, the largest in the contiguous United States. The mountain is popular for climbing, and more than half of the park is covered by subalpine and alpine forests and meadows seasonally in bloom with wildflowers. Paradise on the south slope is one of the snowiest places in the world, and the Longmire visitor center is the start of the Wonderland Trail, which encircles the mountain."
 }

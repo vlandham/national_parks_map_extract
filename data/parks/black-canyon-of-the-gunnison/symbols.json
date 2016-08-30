@@ -1,4 +1,5 @@
 {
+  "symbol_count": 42, 
   "Name": "Black Canyon of the Gunnison", 
   "Recreation Visitors (2014)": "183,045", 
   "Photo": "", 
@@ -163,7 +164,7 @@
             "width": 2
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -433,22 +434,66 @@
             "width": 9
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }
       ], 
-      "totals": {
-        "": 2, 
-        "hiking": 4, 
-        "wheelchair-accessible": 8, 
-        "river-rafting": 2, 
-        "amphitheater": 2, 
-        "restrooms": 6, 
-        "self-guiding-trail": 4, 
-        "ranger-station": 3, 
-        "picnic-area": 5, 
-        "horseback-riding\n(rental,-guided-tour)": 2, 
-        "campground": 4
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 6, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "hiking", 
+          "name": "Hiking"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "", 
+          "name": ""
+        }, 
+        {
+          "count": 2, 
+          "id": "river-rafting", 
+          "name": "River rafting"
+        }, 
+        {
+          "count": 2, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 2, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
+        }
+      ]
     }, 
     {
       "map": "black-canyon-of-the-gunnison-regional-map", 
@@ -459,23 +504,68 @@
       "park": "black-canyon-of-the-gunnison", 
       "filename": "black-canyon-of-the-gunnison-regional-map.jpg", 
       "symbols": [], 
-      "totals": {}
+      "totals": []
     }
   ], 
   "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 
-  "totals": {
-    "": 2, 
-    "hiking": 4, 
-    "wheelchair-accessible": 8, 
-    "river-rafting": 2, 
-    "amphitheater": 2, 
-    "restrooms": 6, 
-    "self-guiding-trail": 4, 
-    "ranger-station": 3, 
-    "picnic-area": 5, 
-    "horseback-riding\n(rental,-guided-tour)": 2, 
-    "campground": 4
-  }, 
+  "totals": [
+    {
+      "count": 8, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 6, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "hiking", 
+      "name": "Hiking"
+    }, 
+    {
+      "count": 4, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 2, 
+      "id": "river-rafting", 
+      "name": "River rafting"
+    }, 
+    {
+      "count": 2, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 2, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }
+  ], 
+  "map_count": 2, 
   "id": "black-canyon-of-the-gunnison", 
   "Description": "The park protects a quarter of the Gunnison River, which slices sheer canyon walls from dark Precambrian-era rock. The canyon features incredibly steep descents, and is a popular site for river rafting and rock climbing. The deep, narrow canyon, made of gneiss and schist, is often in shadow and therefore appears black."
 }

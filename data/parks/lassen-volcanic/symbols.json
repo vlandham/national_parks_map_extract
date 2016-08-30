@@ -1,4 +1,5 @@
 {
+  "symbol_count": 38, 
   "Name": "Lassen Volcanic", 
   "Recreation Visitors (2014)": "432,977", 
   "Photo": "", 
@@ -396,29 +397,94 @@
           "id": "food-service"
         }
       ], 
-      "totals": {
-        "information": 6, 
-        "food-service": 3, 
-        "wheelchair-accessible": 6, 
-        "self-guiding-trail": 4, 
-        "ranger-station": 6, 
-        "picnic-area": 5, 
-        "campground": 7, 
-        "safety-caution-alerts": 1
-      }
+      "totals": [
+        {
+          "count": 7, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 6, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 6, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 6, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }
   ], 
   "Location": "California 40\u00b029\u2032N 121\u00b031\u2032W\ufeff / \ufeff40.49\u00b0N 121.51\u00b0W\ufeff / 40.49; -121.51\ufeff (Lassen Volcanic)", 
-  "totals": {
-    "information": 6, 
-    "food-service": 3, 
-    "wheelchair-accessible": 6, 
-    "self-guiding-trail": 4, 
-    "ranger-station": 6, 
-    "picnic-area": 5, 
-    "campground": 7, 
-    "safety-caution-alerts": 1
-  }, 
+  "totals": [
+    {
+      "count": 7, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 6, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 6, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 6, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 3, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 1, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 1, 
   "id": "lassen-volcanic", 
   "Description": "Lassen Peak, the largest plug dome volcano in the world, is joined by all three other types of volcanoes in this park: shield, cinder dome, and composite. Though Lassen itself last erupted in 1915, most of the rest of the park is continuously active: numerous hydrothermal features, including fumaroles, boiling pools, and bubbling mud pots, are heated by molten rock from beneath the peak."
 }

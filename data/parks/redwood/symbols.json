@@ -1,4 +1,5 @@
 {
+  "symbol_count": 72, 
   "Name": "Redwood", 
   "Recreation Visitors (2014)": "429,166", 
   "Photo": "", 
@@ -736,14 +737,38 @@
           "id": "boat-launch"
         }
       ], 
-      "totals": {
-        "wheelchair-accessible": 17, 
-        "boat-launch": 4, 
-        "self-guiding-trail": 9, 
-        "picnic-area": 21, 
-        "fishing": 8, 
-        "campground": 13
-      }
+      "totals": [
+        {
+          "count": 21, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 17, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 13, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 9, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 8, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }, 
+        {
+          "count": 4, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }
+      ]
     }, 
     {
       "map": "redwood-range-map", 
@@ -754,18 +779,43 @@
       "park": "redwood", 
       "filename": "redwood-range-map.jpg", 
       "symbols": [], 
-      "totals": {}
+      "totals": []
     }
   ], 
   "Location": "California 41\u00b018\u2032N 124\u00b000\u2032W\ufeff / \ufeff41.30\u00b0N 124.00\u00b0W\ufeff / 41.30; -124.00\ufeff (Redwood)", 
-  "totals": {
-    "wheelchair-accessible": 17, 
-    "boat-launch": 4, 
-    "self-guiding-trail": 9, 
-    "picnic-area": 21, 
-    "fishing": 8, 
-    "campground": 13
-  }, 
+  "totals": [
+    {
+      "count": 21, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 17, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 13, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 9, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 8, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 4, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }
+  ], 
+  "map_count": 2, 
   "id": "redwood", 
   "Description": "This park and the co-managed state parks protect almost half of all remaining coastal redwoods, the tallest trees on earth. There are three large river systems in this very seismically active area, and 37 miles (60\u00a0km) of protected coastline reveal tide pools and seastacks. The prairie, estuary, coast, river, and forest ecosystems contain a huge variety of animal and plant species.[54] (WHS)"
 }

@@ -1,4 +1,5 @@
 {
+  "symbol_count": 105, 
   "Name": "Bryce Canyon", 
   "Recreation Visitors (2014)": "1,435,741", 
   "Photo": "", 
@@ -176,13 +177,33 @@
           "id": "bus-stop-shuttle-stop"
         }
       ], 
-      "totals": {
-        "campground": 2, 
-        "bus-stop-shuttle-stop": 8, 
-        "picnic-area": 3, 
-        "amphitheater": 1, 
-        "restrooms": 2
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
+        }
+      ]
     }, 
     {
       "map": "bryce-canyon-backcountry-trail-map-1", 
@@ -224,10 +245,18 @@
           "id": "bottles"
         }
       ], 
-      "totals": {
-        "sewer-hookup": 1, 
-        "bottles": 2
-      }
+      "totals": [
+        {
+          "count": 2, 
+          "id": "bottles", 
+          "name": "Bottles"
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
     }, 
     {
       "map": "bryce-canyon-amphitheater-alternate-map", 
@@ -456,7 +485,7 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -509,21 +538,73 @@
           "id": "recycling"
         }
       ], 
-      "totals": {
-        "shipwreck": 1, 
-        "calendar-events": 2, 
-        "photography": 1, 
-        "recycling": 4, 
-        "telephone": 6, 
-        "restrooms": 1, 
-        "emergencies": 1, 
-        "maps": 3, 
-        "picnic-area": 2, 
-        "playground": 1, 
-        "parking": 2, 
-        "horseback-riding\n(rental,-guided-tour)": 1, 
-        "safety-caution-alerts": 2
-      }
+      "totals": [
+        {
+          "count": 6, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 4, 
+          "id": "recycling", 
+          "name": "Recycling"
+        }, 
+        {
+          "count": 3, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 2, 
+          "id": "calendar-events", 
+          "name": "Calendar/Events"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 2, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 1, 
+          "id": "shipwreck", 
+          "name": "Shipwreck"
+        }, 
+        {
+          "count": 1, 
+          "id": "photography", 
+          "name": "Photography"
+        }, 
+        {
+          "count": 1, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "emergencies", 
+          "name": "Emergencies"
+        }, 
+        {
+          "count": 1, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
+          "id": "playground", 
+          "name": "Playground"
+        }
+      ]
     }, 
     {
       "map": "bryce-canyon-national-park-detail-map", 
@@ -905,16 +986,48 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "bus-stop-shuttle-stop": 8, 
-        "telephone": 4, 
-        "amphitheater": 1, 
-        "restrooms": 7, 
-        "ranger-station": 2, 
-        "picnic-area": 4, 
-        "campground": 3, 
-        "drinking-water": 8
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 8, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 7, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 4, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
+        }
+      ]
     }, 
     {
       "map": "bryce-canyon-national-park-map", 
@@ -1146,40 +1259,149 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "bus-stop-shuttle-stop": 9, 
-        "telephone": 1, 
-        "restrooms": 4, 
-        "ranger-station": 1, 
-        "picnic-area": 3, 
-        "campground": 3, 
-        "drinking-water": 1
-      }
+      "totals": [
+        {
+          "count": 9, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 4, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }
+      ]
     }
   ], 
   "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
-  "totals": {
-    "recycling": 4, 
-    "bottles": 2, 
-    "shipwreck": 1, 
-    "calendar-events": 2, 
-    "bus-stop-shuttle-stop": 25, 
-    "photography": 1, 
-    "parking": 2, 
-    "telephone": 11, 
-    "amphitheater": 2, 
-    "restrooms": 14, 
-    "emergencies": 1, 
-    "maps": 3, 
-    "ranger-station": 3, 
-    "picnic-area": 12, 
-    "playground": 1, 
-    "sewer-hookup": 1, 
-    "campground": 8, 
-    "drinking-water": 9, 
-    "horseback-riding\n(rental,-guided-tour)": 1, 
-    "safety-caution-alerts": 2
-  }, 
+  "totals": [
+    {
+      "count": 25, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 14, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 12, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 11, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 9, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 8, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "recycling", 
+      "name": "Recycling"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 2, 
+      "id": "bottles", 
+      "name": "Bottles"
+    }, 
+    {
+      "count": 2, 
+      "id": "calendar-events", 
+      "name": "Calendar/Events"
+    }, 
+    {
+      "count": 2, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 2, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }, 
+    {
+      "count": 2, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 1, 
+      "id": "shipwreck", 
+      "name": "Shipwreck"
+    }, 
+    {
+      "count": 1, 
+      "id": "photography", 
+      "name": "Photography"
+    }, 
+    {
+      "count": 1, 
+      "id": "emergencies", 
+      "name": "Emergencies"
+    }, 
+    {
+      "count": 1, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 1, 
+      "id": "playground", 
+      "name": "Playground"
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "map_count": 5, 
   "id": "bryce-canyon", 
   "Description": "Bryce Canyon is a giant geological amphitheater on the Paunsaugunt Plateau. The unique area has hundreds of tall sandstone hoodoos formed by erosion. The region was originally settled by Native Americans and later by Mormon pioneers."
 }

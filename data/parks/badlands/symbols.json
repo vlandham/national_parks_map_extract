@@ -1,4 +1,5 @@
 {
+  "symbol_count": 14, 
   "Name": "Badlands", 
   "Recreation Visitors (2014)": "868,094", 
   "Photo": "", 
@@ -56,12 +57,28 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "event-facility": 1, 
-        "maps": 1, 
-        "picnic-area": 1, 
-        "campground": 1
-      }
+      "totals": [
+        {
+          "count": 1, 
+          "id": "event-facility", 
+          "name": "Event facility"
+        }, 
+        {
+          "count": 1, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
     }, 
     {
       "map": "badlands-map", 
@@ -173,22 +190,59 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "campground": 4, 
-        "maps": 2, 
-        "picnic-area": 3, 
-        "sewer-hookup": 1
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
     }
   ], 
   "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 
-  "totals": {
-    "event-facility": 1, 
-    "maps": 3, 
-    "picnic-area": 4, 
-    "campground": 5, 
-    "sewer-hookup": 1
-  }, 
+  "totals": [
+    {
+      "count": 5, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 1, 
+      "id": "event-facility", 
+      "name": "Event facility"
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "map_count": 2, 
   "id": "badlands", 
   "Description": "The Badlands are a collection of buttes, pinnacles, spires, and grass prairies. It has the world's richest fossil beds from the Oligocene epoch, and the wildlife includes bison, bighorn sheep, black-footed ferrets, and swift foxes."
 }

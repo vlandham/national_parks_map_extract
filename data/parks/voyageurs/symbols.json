@@ -1,4 +1,5 @@
 {
+  "symbol_count": 40, 
   "Name": "Voyageurs", 
   "Recreation Visitors (2014)": "239,160", 
   "Photo": "", 
@@ -416,33 +417,114 @@
           "id": "boat-launch"
         }
       ], 
-      "totals": {
-        "": 1, 
-        "food-service": 2, 
-        "boat-tour": 3, 
-        "boat-launch": 12, 
-        "ranger-station": 2, 
-        "picnic-area": 9, 
-        "lodging": 2, 
-        "campground": 3, 
-        "canoe-access": 4, 
-        "gas-station": 2
-      }
+      "totals": [
+        {
+          "count": 12, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 9, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "canoe-access", 
+          "name": "Canoe access"
+        }, 
+        {
+          "count": 3, 
+          "id": "boat-tour", 
+          "name": "Boat tour"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 1, 
+          "id": "", 
+          "name": ""
+        }
+      ]
     }
   ], 
   "Location": "Minnesota 48\u00b030\u2032N 92\u00b053\u2032W\ufeff / \ufeff48.50\u00b0N 92.88\u00b0W\ufeff / 48.50; -92.88\ufeff (Voyageurs)", 
-  "totals": {
-    "": 1, 
-    "food-service": 2, 
-    "boat-tour": 3, 
-    "boat-launch": 12, 
-    "ranger-station": 2, 
-    "picnic-area": 9, 
-    "lodging": 2, 
-    "campground": 3, 
-    "canoe-access": 4, 
-    "gas-station": 2
-  }, 
+  "totals": [
+    {
+      "count": 12, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 9, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "canoe-access", 
+      "name": "Canoe access"
+    }, 
+    {
+      "count": 3, 
+      "id": "boat-tour", 
+      "name": "Boat tour"
+    }, 
+    {
+      "count": 3, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 1, 
+      "id": "", 
+      "name": ""
+    }
+  ], 
+  "map_count": 1, 
   "id": "voyageurs", 
   "Description": "This park protecting four lakes near the Canada\u2013US border is a site for canoeing, kayaking, and fishing, and preserves a history populated by Ojibwe Native Americans, French fur traders called voyageurs, and ambitious gold-miners. Formed by glaciers, the region features tall bluffs, rock gardens, scenic islands and bays, and several historic buildings."
 }

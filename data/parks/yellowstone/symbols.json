@@ -1,4 +1,5 @@
 {
+  "symbol_count": 161, 
   "Name": "Yellowstone", 
   "Recreation Visitors (2014)": "3,513,484", 
   "Photo": "", 
@@ -223,7 +224,7 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -633,7 +634,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -653,7 +654,7 @@
             "width": 23
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -993,7 +994,7 @@
             "width": 10
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }, 
         {
           "pos": {
@@ -1623,46 +1624,167 @@
             "width": 11
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
+          "id": "horseback-riding-(rental,-guided-tour)"
         }
       ], 
-      "totals": {
-        "safety-caution-alerts": 1, 
-        "food-service": 13, 
-        "maps": 1, 
-        "bus-stop-shuttle-stop": 2, 
-        "recycling": 8, 
-        "boat-launch": 4, 
-        "self-guiding-trail": 12, 
-        "ranger-station": 7, 
-        "picnic-area": 47, 
-        "lodging": 11, 
-        "campground": 28, 
-        "horseback-riding\n(rental,-guided-tour)": 5, 
-        "parking": 1, 
-        "store": 12, 
-        "gas-station": 9
-      }
+      "totals": [
+        {
+          "count": 47, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 28, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 13, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 12, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 12, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 11, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 9, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 8, 
+          "id": "recycling", 
+          "name": "Recycling"
+        }, 
+        {
+          "count": 7, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 4, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 2, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 1, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 1, 
+          "id": "parking", 
+          "name": "Parking"
+        }
+      ]
     }
   ], 
   "Location": "Wyoming, Montana, Idaho 44\u00b036\u2032N 110\u00b030\u2032W\ufeff / \ufeff44.60\u00b0N 110.50\u00b0W\ufeff / 44.60; -110.50\ufeff (Yellowstone)", 
-  "totals": {
-    "safety-caution-alerts": 1, 
-    "food-service": 13, 
-    "maps": 1, 
-    "bus-stop-shuttle-stop": 2, 
-    "recycling": 8, 
-    "boat-launch": 4, 
-    "self-guiding-trail": 12, 
-    "ranger-station": 7, 
-    "picnic-area": 47, 
-    "lodging": 11, 
-    "campground": 28, 
-    "horseback-riding\n(rental,-guided-tour)": 5, 
-    "parking": 1, 
-    "store": 12, 
-    "gas-station": 9
-  }, 
+  "totals": [
+    {
+      "count": 47, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 28, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 13, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 12, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 12, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 11, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 9, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 8, 
+      "id": "recycling", 
+      "name": "Recycling"
+    }, 
+    {
+      "count": 7, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 5, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 4, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 2, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 1, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 1, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 1, 
+      "id": "parking", 
+      "name": "Parking"
+    }
+  ], 
+  "map_count": 1, 
   "id": "yellowstone", 
   "Description": "Situated on the Yellowstone Caldera, the park has an expansive network of geothermal areas including vividly colored hot springs, boiling mud pots, and regularly erupting geysers, the best-known being Old Faithful and Grand Prismatic Spring. The yellow-hued Grand Canyon of the Yellowstone River has a number of scenic waterfalls, and four mountain ranges run through the park. More than 60 mammal species including gray wolves, grizzly bears, lynxes, bison, and elk, make this park one of the best wildlife viewing spots in the country.[64] (WHS)"
 }

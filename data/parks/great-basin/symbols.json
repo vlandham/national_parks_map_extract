@@ -1,4 +1,5 @@
 {
+  "symbol_count": 40, 
   "Name": "Great Basin", 
   "Recreation Visitors (2014)": "107,526", 
   "Photo": "", 
@@ -416,37 +417,134 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "information": 2, 
-        "food-service": 4, 
-        "sanitary-disposal-station": 2, 
-        "telephone": 3, 
-        "restrooms": 2, 
-        "self-guiding-trail": 4, 
-        "ranger-station": 3, 
-        "picnic-area": 5, 
-        "fishing": 2, 
-        "lodging": 3, 
-        "campground": 9, 
-        "birdingnvildlife-viewing": 1
-      }
+      "totals": [
+        {
+          "count": 9, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 2, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 2, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }, 
+        {
+          "count": 1, 
+          "id": "birdingnvildlife-viewing", 
+          "name": "BirdingNVildlife Viewing"
+        }
+      ]
     }
   ], 
   "Location": "Nevada 38\u00b059\u2032N 114\u00b018\u2032W\ufeff / \ufeff38.98\u00b0N 114.30\u00b0W\ufeff / 38.98; -114.30\ufeff (Great Basin)", 
-  "totals": {
-    "information": 2, 
-    "food-service": 4, 
-    "sanitary-disposal-station": 2, 
-    "telephone": 3, 
-    "restrooms": 2, 
-    "self-guiding-trail": 4, 
-    "ranger-station": 3, 
-    "picnic-area": 5, 
-    "fishing": 2, 
-    "lodging": 3, 
-    "campground": 9, 
-    "birdingnvildlife-viewing": 1
-  }, 
+  "totals": [
+    {
+      "count": 9, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 3, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 2, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 2, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 2, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 1, 
+      "id": "birdingnvildlife-viewing", 
+      "name": "BirdingNVildlife Viewing"
+    }
+  ], 
+  "map_count": 1, 
   "id": "great-basin", 
   "Description": "Based around Nevada's second tallest mountain, Wheeler Peak, Great Basin National Park contains 5,000-year-old bristlecone pines, a rock glacier, and the limestone Lehman Caves. It also enjoys some of the country's darkest night skies. Animals which call the park home include Townsend's big-eared bat, pronghorn, and Bonneville cutthroat trout."
 }

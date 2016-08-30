@@ -1,4 +1,5 @@
 {
+  "symbol_count": 12, 
   "Name": "Saguaro", 
   "Recreation Visitors (2014)": "673,572", 
   "Photo": "", 
@@ -56,10 +57,18 @@
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "ranger-station": 2, 
-        "picnic-area": 2
-      }
+      "totals": [
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }
+      ]
     }, 
     {
       "map": "saguaro-map-west", 
@@ -151,21 +160,54 @@
           "id": "campground"
         }
       ], 
-      "totals": {
-        "campground": 1, 
-        "self-guiding-trail": 2, 
-        "ranger-station": 1, 
-        "picnic-area": 4
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
     }
   ], 
   "Location": "Arizona 32\u00b015\u2032N 110\u00b030\u2032W\ufeff / \ufeff32.25\u00b0N 110.50\u00b0W\ufeff / 32.25; -110.50\ufeff (Saguaro)", 
-  "totals": {
-    "campground": 1, 
-    "self-guiding-trail": 2, 
-    "ranger-station": 3, 
-    "picnic-area": 6
-  }, 
+  "totals": [
+    {
+      "count": 6, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 1, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "map_count": 2, 
   "id": "saguaro", 
   "Description": "Split into the separate Rincon Mountain and Tucson Mountain districts, this park is evidence that the dry Sonoran Desert is still home to a great variety of life spanning six biotic communities. Beyond the namesake giant saguaro cacti, there are barrel cacti, chollas, and prickly pears, as well as lesser long-nosed bats, spotted owls, and javelinas."
 }
