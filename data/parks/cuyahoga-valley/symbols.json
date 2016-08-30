@@ -13,7 +13,7 @@
         "height": 6569
       }, 
       "park": "cuyahoga-valley", 
-      "filename": "./data/npmaps_jpg/cuyahoga-valley-map.jpg", 
+      "filename": "cuyahoga-valley-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -1007,7 +1007,7 @@
         "height": 3235
       }, 
       "park": "cuyahoga-valley", 
-      "filename": "./data/npmaps_jpg/cuyahoga-valley-south-buckeye-trail-map.jpg", 
+      "filename": "cuyahoga-valley-south-buckeye-trail-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -1267,7 +1267,7 @@
         "height": 3246
       }, 
       "park": "cuyahoga-valley", 
-      "filename": "./data/npmaps_jpg/cuyahoga-valley-hunt-farm-trail-map.jpg", 
+      "filename": "cuyahoga-valley-hunt-farm-trail-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -1497,7 +1497,7 @@
         "height": 3263
       }, 
       "park": "cuyahoga-valley", 
-      "filename": "./data/npmaps_jpg/cuyahoga-valley-north-buckeye-trail-map.jpg", 
+      "filename": "cuyahoga-valley-north-buckeye-trail-map.jpg", 
       "symbols": [
         {
           "pos": {

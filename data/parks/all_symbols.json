@@ -28,6 +28,12 @@
         "id": "isle-royale-map"
       }
     ], 
+    "lockers-storage": [
+      {
+        "count": 3, 
+        "id": "death-valley-printable-map"
+      }
+    ], 
     "hiking": [
       {
         "count": 4, 
@@ -398,82 +404,10 @@
         "id": "zion-map"
       }
     ], 
-    "safety/caution/alerts": [
-      {
-        "count": 2, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "death-valley-printable-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "death-valley-national-park-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "death-valley-backcountry-roads-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "grand-canyon-classic-map"
-      }, 
+    "crosscountry-ski-trail": [
       {
         "count": 5, 
-        "id": "grand-canyon-hiking-map-0"
-      }, 
-      {
-        "count": 6, 
-        "id": "grand-teton-classic-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "great-smoky-mountains-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "kenai-fjords-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "sequoia-kings-canyon-park-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "lassen-volcanic-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "mount-rainier-map"
-      }, 
-      {
-        "count": 11, 
-        "id": "north-cascades-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "shenandoah-classic-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "theodore-roosevelt-north-unit-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
+        "id": "cuyahoga-valley-map"
       }
     ], 
     "fishing": [
@@ -1190,6 +1124,84 @@
         "id": "yellowstone-map"
       }
     ], 
+    "safety-caution-alerts": [
+      {
+        "count": 2, 
+        "id": "bryce-canyon-amphitheater-alternate-map"
+      }, 
+      {
+        "count": 4, 
+        "id": "death-valley-printable-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "death-valley-national-park-map"
+      }, 
+      {
+        "count": 2, 
+        "id": "death-valley-backcountry-roads-map"
+      }, 
+      {
+        "count": 3, 
+        "id": "grand-canyon-classic-map"
+      }, 
+      {
+        "count": 5, 
+        "id": "grand-canyon-hiking-map-0"
+      }, 
+      {
+        "count": 6, 
+        "id": "grand-teton-classic-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "grand-teton-map"
+      }, 
+      {
+        "count": 8, 
+        "id": "great-smoky-mountains-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "kenai-fjords-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "sequoia-kings-canyon-park-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "sequoia-kings-canyon-detail-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "lassen-volcanic-map"
+      }, 
+      {
+        "count": 2, 
+        "id": "mount-rainier-map"
+      }, 
+      {
+        "count": 11, 
+        "id": "north-cascades-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "shenandoah-classic-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "theodore-roosevelt-north-unit-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "yellowstone-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion-canyon-detail-map"
+      }
+    ], 
     "airport": [
       {
         "count": 1, 
@@ -1474,18 +1486,6 @@
         "id": "biscayne-map"
       }
     ], 
-    "stable": [
-      {
-        "count": 4, 
-        "id": "glacier-map"
-      }
-    ], 
-    "bookstore": [
-      {
-        "count": 3, 
-        "id": "guadalupe-mountains-map"
-      }
-    ], 
     "photography": [
       {
         "count": 1, 
@@ -1750,82 +1750,16 @@
         "id": "big-bend-national-park-map"
       }
     ], 
-    "horseback-riding\n(rental,-guided-tour)": [
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
-      }, 
-      {
-        "count": 6, 
-        "id": "cuyahoga-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-south-buckeye-trail-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "cuyahoga-valley-hunt-farm-trail-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "cuyahoga-valley-north-buckeye-trail-map"
-      }, 
+    "stable": [
       {
         "count": 4, 
-        "id": "grand-teton-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "sequoia-kings-canyon-detail-map"
-      }, 
-      {
-        "count": 5, 
-        "id": "yellowstone-map"
-      }, 
-      {
-        "count": 3, 
-        "id": "yosemite-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "yosemite-valley-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion-canyon-detail-map"
+        "id": "glacier-map"
       }
     ], 
     "pets-on-leash": [
       {
         "count": 1, 
         "id": "zion-canyon-detail-map"
-      }
-    ], 
-    "entrance-station": [
-      {
-        "count": 1, 
-        "id": "grand-canyon-classic-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "hawaii-volcanoes-map"
-      }, 
-      {
-        "count": 1, 
-        "id": "joshua-tree-pinkham-canyon-road-map"
-      }, 
-      {
-        "count": 2, 
-        "id": "joshua-tree-map"
       }
     ], 
     "fire-extinguisher": [
@@ -2132,10 +2066,22 @@
         "id": "yellowstone-map"
       }
     ], 
-    "calendar/events": [
+    "entrance-station": [
+      {
+        "count": 1, 
+        "id": "grand-canyon-classic-map"
+      }, 
+      {
+        "count": 4, 
+        "id": "hawaii-volcanoes-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "joshua-tree-pinkham-canyon-road-map"
+      }, 
       {
         "count": 2, 
-        "id": "bryce-canyon-amphitheater-alternate-map"
+        "id": "joshua-tree-map"
       }
     ], 
     "trailer-site": [
@@ -2250,6 +2196,50 @@
         "id": "hawaii-volcanoes-map"
       }
     ], 
+    "calendar-events": [
+      {
+        "count": 2, 
+        "id": "bryce-canyon-amphitheater-alternate-map"
+      }
+    ], 
+    "bus-stop-shuttle-stop": [
+      {
+        "count": 5, 
+        "id": "acadia-schoodic-map"
+      }, 
+      {
+        "count": 17, 
+        "id": "acadia-map"
+      }, 
+      {
+        "count": 8, 
+        "id": "bryce-canyon-amphitheater-map"
+      }, 
+      {
+        "count": 8, 
+        "id": "bryce-canyon-national-park-detail-map"
+      }, 
+      {
+        "count": 9, 
+        "id": "bryce-canyon-national-park-map"
+      }, 
+      {
+        "count": 4, 
+        "id": "denali-entrance-area-map"
+      }, 
+      {
+        "count": 2, 
+        "id": "katmai-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "katmai-brooks-camp-map"
+      }, 
+      {
+        "count": 2, 
+        "id": "yellowstone-map"
+      }
+    ], 
     "boat-tour": [
       {
         "count": 1, 
@@ -2336,10 +2326,10 @@
         "id": "cuyahoga-valley-map"
       }
     ], 
-    "crosscountry-ski-trail": [
+    "bookstore": [
       {
-        "count": 5, 
-        "id": "cuyahoga-valley-map"
+        "count": 3, 
+        "id": "guadalupe-mountains-map"
       }
     ], 
     "wine": [
@@ -2348,42 +2338,58 @@
         "id": "joshua-tree-simple-map"
       }
     ], 
-    "bus-stop/shuttle-stop": [
-      {
-        "count": 5, 
-        "id": "acadia-schoodic-map"
-      }, 
-      {
-        "count": 17, 
-        "id": "acadia-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "bryce-canyon-amphitheater-map"
-      }, 
-      {
-        "count": 8, 
-        "id": "bryce-canyon-national-park-detail-map"
-      }, 
-      {
-        "count": 9, 
-        "id": "bryce-canyon-national-park-map"
-      }, 
-      {
-        "count": 4, 
-        "id": "denali-entrance-area-map"
-      }, 
+    "horseback-riding\n(rental,-guided-tour)": [
       {
         "count": 2, 
-        "id": "katmai-map"
+        "id": "black-canyon-of-the-gunnison-map"
       }, 
       {
         "count": 1, 
-        "id": "katmai-brooks-camp-map"
+        "id": "bryce-canyon-amphitheater-alternate-map"
+      }, 
+      {
+        "count": 6, 
+        "id": "cuyahoga-valley-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "cuyahoga-valley-south-buckeye-trail-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "cuyahoga-valley-hunt-farm-trail-map"
       }, 
       {
         "count": 2, 
+        "id": "cuyahoga-valley-north-buckeye-trail-map"
+      }, 
+      {
+        "count": 4, 
+        "id": "grand-teton-map"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes-map"
+      }, 
+      {
+        "count": 4, 
+        "id": "sequoia-kings-canyon-detail-map"
+      }, 
+      {
+        "count": 5, 
         "id": "yellowstone-map"
+      }, 
+      {
+        "count": 3, 
+        "id": "yosemite-map"
+      }, 
+      {
+        "count": 2, 
+        "id": "yosemite-valley-map"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion-canyon-detail-map"
       }
     ], 
     "event-facility": [
@@ -2480,12 +2486,6 @@
         "id": "cuyahoga-valley-map"
       }
     ], 
-    "lockers/storage": [
-      {
-        "count": 3, 
-        "id": "death-valley-printable-map"
-      }
-    ], 
     "swimming": [
       {
         "count": 3, 
@@ -2520,6 +2520,12 @@
       {
         "count": 18, 
         "id": "isle-royale"
+      }
+    ], 
+    "lockers-storage": [
+      {
+        "count": 3, 
+        "id": "death-valley"
       }
     ], 
     "hiking": [
@@ -2752,62 +2758,10 @@
         "id": "zion"
       }
     ], 
-    "safety/caution/alerts": [
+    "crosscountry-ski-trail": [
       {
-        "count": 2, 
-        "id": "bryce-canyon"
-      }, 
-      {
-        "count": 7, 
-        "id": "death-valley"
-      }, 
-      {
-        "count": 8, 
-        "id": "grand-canyon"
-      }, 
-      {
-        "count": 7, 
-        "id": "grand-teton"
-      }, 
-      {
-        "count": 8, 
-        "id": "great-smoky-mountains"
-      }, 
-      {
-        "count": 1, 
-        "id": "kenai-fjords"
-      }, 
-      {
-        "count": 2, 
-        "id": "kings-canyon"
-      }, 
-      {
-        "count": 1, 
-        "id": "lassen-volcanic"
-      }, 
-      {
-        "count": 2, 
-        "id": "mount-rainier"
-      }, 
-      {
-        "count": 11, 
-        "id": "north-cascades"
-      }, 
-      {
-        "count": 1, 
-        "id": "shenandoah"
-      }, 
-      {
-        "count": 1, 
-        "id": "theodore-roosevelt"
-      }, 
-      {
-        "count": 1, 
-        "id": "yellowstone"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion"
+        "count": 5, 
+        "id": "cuyahoga-valley"
       }
     ], 
     "fishing": [
@@ -3328,6 +3282,64 @@
         "id": "yellowstone"
       }
     ], 
+    "safety-caution-alerts": [
+      {
+        "count": 2, 
+        "id": "bryce-canyon"
+      }, 
+      {
+        "count": 7, 
+        "id": "death-valley"
+      }, 
+      {
+        "count": 8, 
+        "id": "grand-canyon"
+      }, 
+      {
+        "count": 7, 
+        "id": "grand-teton"
+      }, 
+      {
+        "count": 8, 
+        "id": "great-smoky-mountains"
+      }, 
+      {
+        "count": 1, 
+        "id": "kenai-fjords"
+      }, 
+      {
+        "count": 2, 
+        "id": "kings-canyon"
+      }, 
+      {
+        "count": 1, 
+        "id": "lassen-volcanic"
+      }, 
+      {
+        "count": 2, 
+        "id": "mount-rainier"
+      }, 
+      {
+        "count": 11, 
+        "id": "north-cascades"
+      }, 
+      {
+        "count": 1, 
+        "id": "shenandoah"
+      }, 
+      {
+        "count": 1, 
+        "id": "theodore-roosevelt"
+      }, 
+      {
+        "count": 1, 
+        "id": "yellowstone"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion"
+      }
+    ], 
     "airport": [
       {
         "count": 16, 
@@ -3536,18 +3548,6 @@
         "id": "biscayne"
       }
     ], 
-    "stable": [
-      {
-        "count": 4, 
-        "id": "glacier"
-      }
-    ], 
-    "bookstore": [
-      {
-        "count": 3, 
-        "id": "guadalupe-mountains"
-      }
-    ], 
     "photography": [
       {
         "count": 1, 
@@ -3740,62 +3740,16 @@
         "id": "big-bend"
       }
     ], 
-    "horseback-riding\n(rental,-guided-tour)": [
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison"
-      }, 
-      {
-        "count": 1, 
-        "id": "bryce-canyon"
-      }, 
-      {
-        "count": 10, 
-        "id": "cuyahoga-valley"
-      }, 
+    "stable": [
       {
         "count": 4, 
-        "id": "grand-teton"
-      }, 
-      {
-        "count": 2, 
-        "id": "great-sand-dunes"
-      }, 
-      {
-        "count": 4, 
-        "id": "kings-canyon"
-      }, 
-      {
-        "count": 5, 
-        "id": "yellowstone"
-      }, 
-      {
-        "count": 5, 
-        "id": "yosemite"
-      }, 
-      {
-        "count": 1, 
-        "id": "zion"
+        "id": "glacier"
       }
     ], 
     "pets-on-leash": [
       {
         "count": 1, 
         "id": "zion"
-      }
-    ], 
-    "entrance-station": [
-      {
-        "count": 1, 
-        "id": "grand-canyon"
-      }, 
-      {
-        "count": 4, 
-        "id": "hawaii-volcanoes"
-      }, 
-      {
-        "count": 3, 
-        "id": "joshua-tree"
       }
     ], 
     "fire-extinguisher": [
@@ -4002,10 +3956,18 @@
         "id": "yellowstone"
       }
     ], 
-    "calendar/events": [
+    "entrance-station": [
       {
-        "count": 2, 
-        "id": "bryce-canyon"
+        "count": 1, 
+        "id": "grand-canyon"
+      }, 
+      {
+        "count": 4, 
+        "id": "hawaii-volcanoes"
+      }, 
+      {
+        "count": 3, 
+        "id": "joshua-tree"
       }
     ], 
     "trailer-site": [
@@ -4104,6 +4066,34 @@
         "id": "hawaii-volcanoes"
       }
     ], 
+    "calendar-events": [
+      {
+        "count": 2, 
+        "id": "bryce-canyon"
+      }
+    ], 
+    "bus-stop-shuttle-stop": [
+      {
+        "count": 22, 
+        "id": "acadia"
+      }, 
+      {
+        "count": 25, 
+        "id": "bryce-canyon"
+      }, 
+      {
+        "count": 4, 
+        "id": "denali"
+      }, 
+      {
+        "count": 3, 
+        "id": "katmai"
+      }, 
+      {
+        "count": 2, 
+        "id": "yellowstone"
+      }
+    ], 
     "boat-tour": [
       {
         "count": 7, 
@@ -4182,10 +4172,10 @@
         "id": "cuyahoga-valley"
       }
     ], 
-    "crosscountry-ski-trail": [
+    "bookstore": [
       {
-        "count": 5, 
-        "id": "cuyahoga-valley"
+        "count": 3, 
+        "id": "guadalupe-mountains"
       }
     ], 
     "wine": [
@@ -4194,26 +4184,42 @@
         "id": "joshua-tree"
       }
     ], 
-    "bus-stop/shuttle-stop": [
+    "horseback-riding\n(rental,-guided-tour)": [
       {
-        "count": 22, 
-        "id": "acadia"
+        "count": 2, 
+        "id": "black-canyon-of-the-gunnison"
       }, 
       {
-        "count": 25, 
+        "count": 1, 
         "id": "bryce-canyon"
       }, 
       {
-        "count": 4, 
-        "id": "denali"
+        "count": 10, 
+        "id": "cuyahoga-valley"
       }, 
       {
-        "count": 3, 
-        "id": "katmai"
+        "count": 4, 
+        "id": "grand-teton"
       }, 
       {
         "count": 2, 
+        "id": "great-sand-dunes"
+      }, 
+      {
+        "count": 4, 
+        "id": "kings-canyon"
+      }, 
+      {
+        "count": 5, 
         "id": "yellowstone"
+      }, 
+      {
+        "count": 5, 
+        "id": "yosemite"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion"
       }
     ], 
     "event-facility": [
@@ -4290,12 +4296,6 @@
         "id": "cuyahoga-valley"
       }
     ], 
-    "lockers/storage": [
-      {
-        "count": 3, 
-        "id": "death-valley"
-      }
-    ], 
     "swimming": [
       {
         "count": 3, 
@@ -4306,6 +4306,7 @@
   "totals": {
     "": 9, 
     "quagga-mussel\ndecontamination-station": 18, 
+    "lockers-storage": 3, 
     "hiking": 6, 
     "sanitary-disposal-station": 18, 
     "wheelchair-accessible": 65, 
@@ -4313,7 +4314,7 @@
     "telephone": 63, 
     "amphitheater": 6, 
     "restrooms": 293, 
-    "safety/caution/alerts": 53, 
+    "crosscountry-ski-trail": 5, 
     "fishing": 20, 
     "showers": 10, 
     "lodging": 101, 
@@ -4327,13 +4328,12 @@
     "wilderness": 4, 
     "food-service": 141, 
     "self-guiding-trail": 132, 
+    "safety-caution-alerts": 53, 
     "maps": 18, 
     "ranger-station": 184, 
     "quiet": 1, 
     "playground": 4, 
     "dam": 1, 
-    "stable": 4, 
-    "bookstore": 3, 
     "photography": 1, 
     "store": 55, 
     "gas-station": 104, 
@@ -4342,14 +4342,13 @@
     "shelter": 1, 
     "sewer-hookup": 30, 
     "rv-campground": 6, 
-    "horseback-riding\n(rental,-guided-tour)": 34, 
+    "stable": 4, 
     "pets-on-leash": 1, 
-    "entrance-station": 8, 
     "fire-extinguisher": 2, 
     "emergencies": 1, 
     "picnic-area": 433, 
     "recycling": 25, 
-    "calendar/events": 2, 
+    "entrance-station": 8, 
     "trailer-site": 1, 
     "marina": 13, 
     "canoe-access": 8, 
@@ -4360,21 +4359,22 @@
     "audio-tour": 4, 
     "mens-restroom": 3, 
     "trucks": 11, 
+    "calendar-events": 2, 
+    "bus-stop-shuttle-stop": 56, 
     "boat-tour": 17, 
     "boat-launch": 69, 
     "bicycle-trail": 1, 
     "souvenir-shop": 7, 
     "airport": 30, 
-    "crosscountry-ski-trail": 5, 
+    "bookstore": 3, 
     "wine": 1, 
     "deer-viewing": 2, 
-    "bus-stop/shuttle-stop": 56, 
+    "horseback-riding\n(rental,-guided-tour)": 34, 
     "event-facility": 1, 
     "drinking-water": 71, 
     "laundromat": 2, 
     "birdingnvildlife-viewing": 12, 
     "kennel": 8, 
-    "lockers/storage": 3, 
     "swimming": 3
   }
 }

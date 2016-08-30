@@ -13,7 +13,7 @@
         "height": 5748
       }, 
       "park": "crater-lake", 
-      "filename": "./data/npmaps_jpg/crater-lake-map.jpg", 
+      "filename": "crater-lake-map.jpg", 
       "symbols": [
         {
           "pos": {

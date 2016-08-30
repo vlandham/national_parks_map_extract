@@ -14,7 +14,7 @@
           "height": 1169
         }, 
         "park": "acadia", 
-        "filename": "./data/npmaps_jpg/acadia-schoodic-map.jpg", 
+        "filename": "acadia-schoodic-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -34,7 +34,7 @@
               "width": 4
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -44,7 +44,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -54,7 +54,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -94,7 +94,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -114,7 +114,7 @@
               "width": 4
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -138,11 +138,11 @@
           }
         ], 
         "totals": {
-          "restrooms": 3, 
+          "parking": 2, 
+          "bus-stop-shuttle-stop": 5, 
           "picnic-area": 1, 
           "boat-tour": 1, 
-          "parking": 2, 
-          "bus-stop/shuttle-stop": 5
+          "restrooms": 3
         }
       }, 
       {
@@ -152,7 +152,7 @@
           "height": 4562
         }, 
         "park": "acadia", 
-        "filename": "./data/npmaps_jpg/acadia-map.jpg", 
+        "filename": "acadia-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -232,7 +232,7 @@
               "width": 12
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -312,7 +312,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -362,7 +362,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -402,7 +402,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -452,7 +452,7 @@
               "width": 5
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -502,7 +502,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -592,7 +592,7 @@
               "width": 7
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -652,7 +652,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -672,7 +672,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -702,7 +702,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -732,7 +732,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -772,7 +772,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -802,7 +802,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -832,7 +832,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -872,7 +872,7 @@
               "width": 4
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -902,7 +902,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -952,7 +952,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -1007,7 +1007,7 @@
         ], 
         "totals": {
           "food-service": 2, 
-          "bus-stop/shuttle-stop": 17, 
+          "bus-stop-shuttle-stop": 17, 
           "boat-tour": 5, 
           "boat-launch": 7, 
           "restrooms": 21, 
@@ -1025,7 +1025,7 @@
           "height": 1168
         }, 
         "park": "acadia", 
-        "filename": "./data/npmaps_jpg/acadia-isle-au-haut-map.jpg", 
+        "filename": "acadia-isle-au-haut-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -1089,7 +1089,7 @@
     "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
     "totals": {
       "food-service": 2, 
-      "bus-stop/shuttle-stop": 22, 
+      "bus-stop-shuttle-stop": 22, 
       "boat-tour": 7, 
       "boat-launch": 7, 
       "restrooms": 26, 
@@ -1117,7 +1117,7 @@
           "height": 1712
         }, 
         "park": "american-samoa", 
-        "filename": "./data/npmaps_jpg/american-samoa-map.jpg", 
+        "filename": "american-samoa-map.jpg", 
         "symbols": [], 
         "totals": {}
       }
@@ -1142,7 +1142,7 @@
           "height": 4450
         }, 
         "park": "arches", 
-        "filename": "./data/npmaps_jpg/arches-national-park-map.jpg", 
+        "filename": "arches-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -1380,7 +1380,7 @@
           "height": 740
         }, 
         "park": "badlands", 
-        "filename": "./data/npmaps_jpg/badlands-cedar-pass-detail-map.jpg", 
+        "filename": "badlands-cedar-pass-detail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -1437,7 +1437,7 @@
           "height": 3465
         }, 
         "park": "badlands", 
-        "filename": "./data/npmaps_jpg/badlands-map.jpg", 
+        "filename": "badlands-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -1574,7 +1574,7 @@
           "height": 3040
         }, 
         "park": "big-bend", 
-        "filename": "./data/npmaps_jpg/big-bend-detail-maps.jpg", 
+        "filename": "big-bend-detail-maps.jpg", 
         "symbols": [
           {
             "pos": {
@@ -1879,7 +1879,7 @@
           "height": 4437
         }, 
         "park": "big-bend", 
-        "filename": "./data/npmaps_jpg/big-bend-national-park-map.jpg", 
+        "filename": "big-bend-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -2535,7 +2535,7 @@
           "height": 5775
         }, 
         "park": "biscayne", 
-        "filename": "./data/npmaps_jpg/biscayne-map.jpg", 
+        "filename": "biscayne-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -2959,7 +2959,7 @@
           "height": 4984
         }, 
         "park": "black-canyon-of-the-gunnison", 
-        "filename": "./data/npmaps_jpg/black-canyon-of-the-gunnison-map.jpg", 
+        "filename": "black-canyon-of-the-gunnison-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -3403,7 +3403,7 @@
           "height": 906
         }, 
         "park": "black-canyon-of-the-gunnison", 
-        "filename": "./data/npmaps_jpg/black-canyon-of-the-gunnison-regional-map.jpg", 
+        "filename": "black-canyon-of-the-gunnison-regional-map.jpg", 
         "symbols": [], 
         "totals": {}
       }
@@ -3440,7 +3440,7 @@
           "height": 1621
         }, 
         "park": "bryce-canyon", 
-        "filename": "./data/npmaps_jpg/bryce-canyon-amphitheater-map.jpg", 
+        "filename": "bryce-canyon-amphitheater-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -3450,7 +3450,7 @@
               "width": 1148
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -3460,7 +3460,7 @@
               "width": 18
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -3500,7 +3500,7 @@
               "width": 8
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -3520,7 +3520,7 @@
               "width": 19
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -3530,7 +3530,7 @@
               "width": 15
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -3560,7 +3560,7 @@
               "width": 16
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -3580,7 +3580,7 @@
               "width": 19
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -3600,15 +3600,15 @@
               "width": 19
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }
         ], 
         "totals": {
           "campground": 2, 
+          "bus-stop-shuttle-stop": 8, 
           "picnic-area": 3, 
-          "restrooms": 2, 
           "amphitheater": 1, 
-          "bus-stop/shuttle-stop": 8
+          "restrooms": 2
         }
       }, 
       {
@@ -3618,7 +3618,7 @@
           "height": 4952
         }, 
         "park": "bryce-canyon", 
-        "filename": "./data/npmaps_jpg/bryce-canyon-backcountry-trail-map-1.jpg", 
+        "filename": "bryce-canyon-backcountry-trail-map-1.jpg", 
         "symbols": [
           {
             "pos": {
@@ -3663,7 +3663,7 @@
           "height": 3000
         }, 
         "park": "bryce-canyon", 
-        "filename": "./data/npmaps_jpg/bryce-canyon-amphitheater-alternate-map.jpg", 
+        "filename": "bryce-canyon-amphitheater-alternate-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -3683,7 +3683,7 @@
               "width": 20
             }, 
             "name": "Calendar/Events", 
-            "id": "calendar/events"
+            "id": "calendar-events"
           }, 
           {
             "pos": {
@@ -3733,7 +3733,7 @@
               "width": 23
             }, 
             "name": "Calendar/Events", 
-            "id": "calendar/events"
+            "id": "calendar-events"
           }, 
           {
             "pos": {
@@ -3783,7 +3783,7 @@
               "width": 17
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -3873,7 +3873,7 @@
               "width": 4
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -3937,8 +3937,8 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 2, 
           "shipwreck": 1, 
+          "calendar-events": 2, 
           "photography": 1, 
           "recycling": 4, 
           "telephone": 6, 
@@ -3949,7 +3949,7 @@
           "playground": 1, 
           "parking": 2, 
           "horseback-riding\n(rental,-guided-tour)": 1, 
-          "calendar/events": 2
+          "safety-caution-alerts": 2
         }
       }, 
       {
@@ -3959,7 +3959,7 @@
           "height": 3764
         }, 
         "park": "bryce-canyon", 
-        "filename": "./data/npmaps_jpg/bryce-canyon-national-park-detail-map.jpg", 
+        "filename": "bryce-canyon-national-park-detail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -4009,7 +4009,7 @@
               "width": 12
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4099,7 +4099,7 @@
               "width": 19
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4109,7 +4109,7 @@
               "width": 18
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4199,7 +4199,7 @@
               "width": 12
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4209,7 +4209,7 @@
               "width": 12
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4219,7 +4219,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4249,7 +4249,7 @@
               "width": 8
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4309,7 +4309,7 @@
               "width": 17
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4333,12 +4333,12 @@
           }
         ], 
         "totals": {
+          "bus-stop-shuttle-stop": 8, 
           "telephone": 4, 
           "amphitheater": 1, 
           "restrooms": 7, 
           "ranger-station": 2, 
           "picnic-area": 4, 
-          "bus-stop/shuttle-stop": 8, 
           "campground": 3, 
           "drinking-water": 8
         }
@@ -4350,7 +4350,7 @@
           "height": 4704
         }, 
         "park": "bryce-canyon", 
-        "filename": "./data/npmaps_jpg/bryce-canyon-national-park-map.jpg", 
+        "filename": "bryce-canyon-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -4370,7 +4370,7 @@
               "width": 18
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4380,7 +4380,7 @@
               "width": 12
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4390,7 +4390,7 @@
               "width": 12
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4400,7 +4400,7 @@
               "width": 5
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4460,7 +4460,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4470,7 +4470,7 @@
               "width": 4
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4480,7 +4480,7 @@
               "width": 9
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4500,7 +4500,7 @@
               "width": 13
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4510,7 +4510,7 @@
               "width": 13
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -4574,11 +4574,11 @@
           }
         ], 
         "totals": {
+          "bus-stop-shuttle-stop": 9, 
           "telephone": 1, 
           "restrooms": 4, 
           "ranger-station": 1, 
           "picnic-area": 3, 
-          "bus-stop/shuttle-stop": 9, 
           "campground": 3, 
           "drinking-water": 1
         }
@@ -4586,10 +4586,11 @@
     ], 
     "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
     "totals": {
-      "safety/caution/alerts": 2, 
+      "recycling": 4, 
       "bottles": 2, 
       "shipwreck": 1, 
-      "sewer-hookup": 1, 
+      "calendar-events": 2, 
+      "bus-stop-shuttle-stop": 25, 
       "photography": 1, 
       "parking": 2, 
       "telephone": 11, 
@@ -4599,13 +4600,12 @@
       "maps": 3, 
       "ranger-station": 3, 
       "picnic-area": 12, 
-      "recycling": 4, 
-      "calendar/events": 2, 
-      "bus-stop/shuttle-stop": 25, 
+      "playground": 1, 
+      "sewer-hookup": 1, 
       "campground": 8, 
       "drinking-water": 9, 
       "horseback-riding\n(rental,-guided-tour)": 1, 
-      "playground": 1
+      "safety-caution-alerts": 2
     }, 
     "id": "bryce-canyon", 
     "Description": "Bryce Canyon is a giant geological amphitheater on the Paunsaugunt Plateau. The unique area has hundreds of tall sandstone hoodoos formed by erosion. The region was originally settled by Native Americans and later by Mormon pioneers."
@@ -4625,7 +4625,7 @@
           "height": 6806
         }, 
         "park": "canyonlands", 
-        "filename": "./data/npmaps_jpg/canyonlands-national-park-map.jpg", 
+        "filename": "canyonlands-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -5067,7 +5067,7 @@
           "height": 4583
         }, 
         "park": "capitol-reef", 
-        "filename": "./data/npmaps_jpg/capitol-reef-map.jpg", 
+        "filename": "capitol-reef-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -5201,7 +5201,7 @@
           "height": 971
         }, 
         "park": "carlsbad-caverns", 
-        "filename": "./data/npmaps_jpg/carlsbad-caverns-map.jpg", 
+        "filename": "carlsbad-caverns-map.jpg", 
         "symbols": [], 
         "totals": {}
       }
@@ -5226,7 +5226,7 @@
           "height": 3821
         }, 
         "park": "channel-islands", 
-        "filename": "./data/npmaps_jpg/channel-islands-map.jpg", 
+        "filename": "channel-islands-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -5408,7 +5408,7 @@
           "height": 1910
         }, 
         "park": "congaree", 
-        "filename": "./data/npmaps_jpg/congaree-map.jpg", 
+        "filename": "congaree-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -5478,7 +5478,7 @@
           "height": 5748
         }, 
         "park": "crater-lake", 
-        "filename": "./data/npmaps_jpg/crater-lake-map.jpg", 
+        "filename": "crater-lake-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -5802,7 +5802,7 @@
           "height": 6569
         }, 
         "park": "cuyahoga-valley", 
-        "filename": "./data/npmaps_jpg/cuyahoga-valley-map.jpg", 
+        "filename": "cuyahoga-valley-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -6796,7 +6796,7 @@
           "height": 3235
         }, 
         "park": "cuyahoga-valley", 
-        "filename": "./data/npmaps_jpg/cuyahoga-valley-south-buckeye-trail-map.jpg", 
+        "filename": "cuyahoga-valley-south-buckeye-trail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -7056,7 +7056,7 @@
           "height": 3246
         }, 
         "park": "cuyahoga-valley", 
-        "filename": "./data/npmaps_jpg/cuyahoga-valley-hunt-farm-trail-map.jpg", 
+        "filename": "cuyahoga-valley-hunt-farm-trail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -7286,7 +7286,7 @@
           "height": 3263
         }, 
         "park": "cuyahoga-valley", 
-        "filename": "./data/npmaps_jpg/cuyahoga-valley-north-buckeye-trail-map.jpg", 
+        "filename": "cuyahoga-valley-north-buckeye-trail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -7536,7 +7536,7 @@
           "height": 715
         }, 
         "park": "death-valley", 
-        "filename": "./data/npmaps_jpg/death-valley-furnace-creek-map.jpg", 
+        "filename": "death-valley-furnace-creek-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -7740,7 +7740,7 @@
           "height": 1126
         }, 
         "park": "death-valley", 
-        "filename": "./data/npmaps_jpg/death-valley-new-furnace-creek-map.jpg", 
+        "filename": "death-valley-new-furnace-creek-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -7966,7 +7966,7 @@
           "height": 6733
         }, 
         "park": "death-valley", 
-        "filename": "./data/npmaps_jpg/death-valley-printable-map.jpg", 
+        "filename": "death-valley-printable-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -7976,7 +7976,7 @@
               "width": 5055
             }, 
             "name": "Lockers/Storage", 
-            "id": "lockers/storage"
+            "id": "lockers-storage"
           }, 
           {
             "pos": {
@@ -8006,7 +8006,7 @@
               "width": 12
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -8056,7 +8056,7 @@
               "width": 2
             }, 
             "name": "Lockers/Storage", 
-            "id": "lockers/storage"
+            "id": "lockers-storage"
           }, 
           {
             "pos": {
@@ -8096,7 +8096,7 @@
               "width": 7
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -8176,7 +8176,7 @@
               "width": 3
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -8296,7 +8296,7 @@
               "width": 2
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -8306,7 +8306,7 @@
               "width": 3
             }, 
             "name": "Lockers/Storage", 
-            "id": "lockers/storage"
+            "id": "lockers-storage"
           }, 
           {
             "pos": {
@@ -8360,14 +8360,14 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 4, 
+          "gas-station": 6, 
+          "lockers-storage": 3, 
           "restrooms": 10, 
           "airport": 6, 
           "picnic-area": 1, 
           "campground": 7, 
           "audio-tour": 2, 
-          "lockers/storage": 3, 
-          "gas-station": 6
+          "safety-caution-alerts": 4
         }
       }, 
       {
@@ -8377,7 +8377,7 @@
           "height": 6719
         }, 
         "park": "death-valley", 
-        "filename": "./data/npmaps_jpg/death-valley-national-park-map.jpg", 
+        "filename": "death-valley-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -8387,7 +8387,7 @@
               "width": 9
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -9692,7 +9692,6 @@
         ], 
         "totals": {
           "airport": 8, 
-          "safety/caution/alerts": 1, 
           "food-service": 11, 
           "sanitary-disposal-station": 4, 
           "wheelchair-accessible": 5, 
@@ -9703,8 +9702,9 @@
           "lodging": 11, 
           "campground": 11, 
           "drinking-water": 13, 
+          "gas-station": 11, 
           "store": 8, 
-          "gas-station": 11
+          "safety-caution-alerts": 1
         }
       }, 
       {
@@ -9714,7 +9714,7 @@
           "height": 7090
         }, 
         "park": "death-valley", 
-        "filename": "./data/npmaps_jpg/death-valley-backcountry-roads-map.jpg", 
+        "filename": "death-valley-backcountry-roads-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -9744,7 +9744,7 @@
               "width": 6
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -9864,7 +9864,7 @@
               "width": 4
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -9879,23 +9879,23 @@
         ], 
         "totals": {
           "campground": 7, 
-          "safety/caution/alerts": 2, 
+          "safety-caution-alerts": 2, 
           "gas-station": 7
         }
       }
     ], 
     "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
     "totals": {
-      "safety/caution/alerts": 7, 
-      "food-service": 15, 
       "audio-tour": 2, 
+      "lockers-storage": 3, 
+      "food-service": 15, 
       "sanitary-disposal-station": 12, 
       "wheelchair-accessible": 7, 
+      "safety-caution-alerts": 7, 
       "ranger-station": 6, 
       "telephone": 14, 
       "airport": 16, 
       "picnic-area": 8, 
-      "lockers/storage": 3, 
       "lodging": 15, 
       "campground": 31, 
       "drinking-water": 14, 
@@ -9921,7 +9921,7 @@
           "height": 1187
         }, 
         "park": "denali", 
-        "filename": "./data/npmaps_jpg/denali-entrance-area-map.jpg", 
+        "filename": "denali-entrance-area-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -9931,7 +9931,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -9941,7 +9941,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -9961,7 +9961,7 @@
               "width": 2
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -9971,7 +9971,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -9996,9 +9996,9 @@
         ], 
         "totals": {
           "campground": 1, 
+          "bus-stop-shuttle-stop": 4, 
           "airport": 1, 
-          "ranger-station": 1, 
-          "bus-stop/shuttle-stop": 4
+          "ranger-station": 1
         }
       }, 
       {
@@ -10008,7 +10008,7 @@
           "height": 4942
         }, 
         "park": "denali", 
-        "filename": "./data/npmaps_jpg/denali-map.jpg", 
+        "filename": "denali-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -10232,10 +10232,10 @@
     "Location": "Alaska 63\u00b020\u2032N 150\u00b030\u2032W\ufeff / \ufeff63.33\u00b0N 150.50\u00b0W\ufeff / 63.33; -150.50\ufeff (Denali)", 
     "totals": {
       "campground": 10, 
+      "bus-stop-shuttle-stop": 4, 
       "airport": 6, 
       "picnic-area": 5, 
-      "ranger-station": 3, 
-      "bus-stop/shuttle-stop": 4
+      "ranger-station": 3
     }, 
     "id": "denali", 
     "Description": "Centered on Denali, the tallest mountain in North America, Denali is serviced by a single road leading to Wonder Lake. Denali and other peaks of the Alaska Range are covered with long glaciers and boreal forest. Wildlife includes grizzly bears, Dall sheep, caribou, and gray wolves."
@@ -10268,7 +10268,7 @@
           "height": 4685
         }, 
         "park": "everglades", 
-        "filename": "./data/npmaps_jpg/everglades-map.jpg", 
+        "filename": "everglades-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -10710,7 +10710,7 @@
           "height": 4238
         }, 
         "park": "gates-of-the-arctic", 
-        "filename": "./data/npmaps_jpg/gates-of-the-arctic-map.jpg", 
+        "filename": "gates-of-the-arctic-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -10906,7 +10906,7 @@
           "height": 3271
         }, 
         "park": "glacier", 
-        "filename": "./data/npmaps_jpg/glacier-lake-mcdonald-map.jpg", 
+        "filename": "glacier-lake-mcdonald-map.jpg", 
         "symbols": [], 
         "totals": {}
       }, 
@@ -10917,7 +10917,7 @@
           "height": 5433
         }, 
         "park": "glacier", 
-        "filename": "./data/npmaps_jpg/glacier-map.jpg", 
+        "filename": "glacier-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -11668,7 +11668,7 @@
           "height": 2554
         }, 
         "park": "glacier", 
-        "filename": "./data/npmaps_jpg/glacier-two-medicine-map.jpg", 
+        "filename": "glacier-two-medicine-map.jpg", 
         "symbols": [], 
         "totals": {}
       }, 
@@ -11679,7 +11679,7 @@
           "height": 3690
         }, 
         "park": "glacier", 
-        "filename": "./data/npmaps_jpg/glacier-bay-map.jpg", 
+        "filename": "glacier-bay-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -11724,7 +11724,7 @@
           "height": 2521
         }, 
         "park": "glacier", 
-        "filename": "./data/npmaps_jpg/glacier-st-mary-map.jpg", 
+        "filename": "glacier-st-mary-map.jpg", 
         "symbols": [], 
         "totals": {}
       }, 
@@ -11735,7 +11735,7 @@
           "height": 3271
         }, 
         "park": "glacier", 
-        "filename": "./data/npmaps_jpg/glacier-many-glacier-map.jpg", 
+        "filename": "glacier-many-glacier-map.jpg", 
         "symbols": [], 
         "totals": {}
       }, 
@@ -11746,7 +11746,7 @@
           "height": 5431
         }, 
         "park": "glacier", 
-        "filename": "./data/npmaps_jpg/glacier-bay-detail-map.jpg", 
+        "filename": "glacier-bay-detail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -11817,7 +11817,7 @@
           "height": 2951
         }, 
         "park": "grand-canyon", 
-        "filename": "./data/npmaps_jpg/grand-canyon-south-rim-map.jpg", 
+        "filename": "grand-canyon-south-rim-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -12069,7 +12069,7 @@
           "height": 1186
         }, 
         "park": "grand-canyon", 
-        "filename": "./data/npmaps_jpg/grand-canyon-south-rim-detail-map.jpg", 
+        "filename": "grand-canyon-south-rim-detail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -12124,7 +12124,7 @@
           "height": 5018
         }, 
         "park": "grand-canyon", 
-        "filename": "./data/npmaps_jpg/grand-canyon-national-park-map.jpg", 
+        "filename": "grand-canyon-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -12626,7 +12626,7 @@
           "height": 1278
         }, 
         "park": "grand-canyon", 
-        "filename": "./data/npmaps_jpg/grand-canyon-north-rim-map.jpg", 
+        "filename": "grand-canyon-north-rim-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -12734,7 +12734,7 @@
           "height": 2846
         }, 
         "park": "grand-canyon", 
-        "filename": "./data/npmaps_jpg/grand-canyon-classic-map.jpg", 
+        "filename": "grand-canyon-classic-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -12794,7 +12794,7 @@
               "width": 9
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -12804,7 +12804,7 @@
               "width": 11
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -12964,7 +12964,7 @@
               "width": 2
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -12978,13 +12978,13 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 3, 
           "fire-extinguisher": 1, 
           "restrooms": 5, 
           "picnic-area": 6, 
           "entrance-station": 1, 
           "campground": 5, 
-          "gas-station": 3
+          "gas-station": 3, 
+          "safety-caution-alerts": 3
         }
       }, 
       {
@@ -12994,7 +12994,7 @@
           "height": 3150
         }, 
         "park": "grand-canyon", 
-        "filename": "./data/npmaps_jpg/grand-canyon-hiking-map-0.jpg", 
+        "filename": "grand-canyon-hiking-map-0.jpg", 
         "symbols": [
           {
             "pos": {
@@ -13064,7 +13064,7 @@
               "width": 15
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13094,7 +13094,7 @@
               "width": 14
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13124,7 +13124,7 @@
               "width": 12
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13214,7 +13214,7 @@
               "width": 12
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13394,7 +13394,7 @@
               "width": 14
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13408,7 +13408,6 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 5, 
           "food-service": 2, 
           "telephone": 5, 
           "restrooms": 15, 
@@ -13416,18 +13415,18 @@
           "first-aid": 2, 
           "lodging": 2, 
           "drinking-water": 6, 
-          "store": 2
+          "store": 2, 
+          "safety-caution-alerts": 5
         }
       }
     ], 
     "Location": "Arizona 36\u00b004\u2032N 112\u00b008\u2032W\ufeff / \ufeff36.06\u00b0N 112.14\u00b0W\ufeff / 36.06; -112.14\ufeff (Grand Canyon)", 
     "totals": {
       "information": 16, 
-      "safety/caution/alerts": 8, 
+      "store": 2, 
       "food-service": 15, 
       "sewer-hookup": 1, 
       "trailer-site": 1, 
-      "store": 2, 
       "fire-extinguisher": 1, 
       "restrooms": 23, 
       "ranger-station": 5, 
@@ -13437,6 +13436,7 @@
       "lodging": 11, 
       "campground": 19, 
       "drinking-water": 6, 
+      "safety-caution-alerts": 8, 
       "electrical-hookup": 1, 
       "first-aid": 4, 
       "gas-station": 14
@@ -13459,7 +13459,7 @@
           "height": 3643
         }, 
         "park": "grand-teton", 
-        "filename": "./data/npmaps_jpg/grand-teton-classic-map.jpg", 
+        "filename": "grand-teton-classic-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -13469,7 +13469,7 @@
               "width": 18
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13509,7 +13509,7 @@
               "width": 18
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13519,7 +13519,7 @@
               "width": 16
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13539,7 +13539,7 @@
               "width": 18
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13599,7 +13599,7 @@
               "width": 13
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13609,7 +13609,7 @@
               "width": 14
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -13645,9 +13645,9 @@
         "totals": {
           "campground": 7, 
           "sewer-hookup": 1, 
-          "safety/caution/alerts": 6, 
           "playground": 1, 
-          "trucks": 3
+          "trucks": 3, 
+          "safety-caution-alerts": 6
         }
       }, 
       {
@@ -13657,7 +13657,7 @@
           "height": 5758
         }, 
         "park": "grand-teton", 
-        "filename": "./data/npmaps_jpg/grand-teton-map.jpg", 
+        "filename": "grand-teton-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -14077,7 +14077,7 @@
               "width": 4
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -14421,7 +14421,6 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 1, 
           "food-service": 8, 
           "self-guiding-trail": 6, 
           "horseback-riding\n(rental,-guided-tour)": 4, 
@@ -14430,6 +14429,7 @@
           "picnic-area": 13, 
           "lodging": 8, 
           "campground": 14, 
+          "safety-caution-alerts": 1, 
           "store": 6, 
           "gas-station": 6
         }
@@ -14437,7 +14437,6 @@
     ], 
     "Location": "Wyoming 43\u00b044\u2032N 110\u00b048\u2032W\ufeff / \ufeff43.73\u00b0N 110.80\u00b0W\ufeff / 43.73; -110.80\ufeff (Grand Teton)", 
     "totals": {
-      "safety/caution/alerts": 7, 
       "food-service": 8, 
       "trucks": 3, 
       "self-guiding-trail": 6, 
@@ -14449,8 +14448,9 @@
       "playground": 1, 
       "lodging": 8, 
       "campground": 21, 
+      "gas-station": 6, 
       "store": 6, 
-      "gas-station": 6
+      "safety-caution-alerts": 7
     }, 
     "id": "grand-teton", 
     "Description": "Grand Teton is the tallest mountain in the Teton Range. The park's historic Jackson Hole and reflective piedmont lakes teem with unique wildlife and contrast with the dramatic mountains, which rise abruptly from the sage-covered valley below."
@@ -14470,7 +14470,7 @@
           "height": 4691
         }, 
         "park": "great-basin", 
-        "filename": "./data/npmaps_jpg/great-basin-map.jpg", 
+        "filename": "great-basin-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -14922,7 +14922,7 @@
           "height": 5869
         }, 
         "park": "great-sand-dunes", 
-        "filename": "./data/npmaps_jpg/great-sand-dunes-map.jpg", 
+        "filename": "great-sand-dunes-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -15200,7 +15200,7 @@
           "height": 2719
         }, 
         "park": "great-smoky-mountains", 
-        "filename": "./data/npmaps_jpg/great-smoky-mountains-map.jpg", 
+        "filename": "great-smoky-mountains-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -15220,7 +15220,7 @@
               "width": 3
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15260,7 +15260,7 @@
               "width": 6
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15340,7 +15340,7 @@
               "width": 3
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15360,7 +15360,7 @@
               "width": 3
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15420,7 +15420,7 @@
               "width": 8
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15490,7 +15490,7 @@
               "width": 7
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15510,7 +15510,7 @@
               "width": 8
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15550,7 +15550,7 @@
               "width": 7
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -15574,27 +15574,27 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 8, 
           "trucks": 5, 
           "maps": 3, 
           "picnic-area": 11, 
           "playground": 2, 
           "campground": 2, 
           "audio-tour": 2, 
-          "birdingnvildlife-viewing": 4
+          "birdingnvildlife-viewing": 4, 
+          "safety-caution-alerts": 8
         }
       }
     ], 
     "Location": "Tennessee, North Carolina 35\u00b041\u2032N 83\u00b032\u2032W\ufeff / \ufeff35.68\u00b0N 83.53\u00b0W\ufeff / 35.68; -83.53\ufeff (Great Smoky Mountains)", 
     "totals": {
-      "safety/caution/alerts": 8, 
       "trucks": 5, 
       "maps": 3, 
       "picnic-area": 11, 
       "playground": 2, 
       "campground": 2, 
       "audio-tour": 2, 
-      "birdingnvildlife-viewing": 4
+      "birdingnvildlife-viewing": 4, 
+      "safety-caution-alerts": 8
     }, 
     "id": "great-smoky-mountains", 
     "Description": "The Great Smoky Mountains, part of the Appalachian Mountains, span a wide range of elevations, making them home to over 400 vertebrate species, 100 tree species, and 5000 plant species. Hiking is the park's main attraction, with over 800 miles (1,300\u00a0km) of trails, including 70 miles (110\u00a0km) of the Appalachian Trail. Other activities include fishing, horseback riding, and touring nearly 80 historic structures.[34] (WHS)"
@@ -15614,7 +15614,7 @@
           "height": 3452
         }, 
         "park": "guadalupe-mountains", 
-        "filename": "./data/npmaps_jpg/guadalupe-mountains-map.jpg", 
+        "filename": "guadalupe-mountains-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -15854,7 +15854,7 @@
           "height": 980
         }, 
         "park": "guadalupe-mountains", 
-        "filename": "./data/npmaps_jpg/guadalupe-mountains-regional-map.jpg", 
+        "filename": "guadalupe-mountains-regional-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -15974,7 +15974,7 @@
           "height": 1679
         }, 
         "park": "hawaii-volcanoes", 
-        "filename": "./data/npmaps_jpg/hawaii-volcanoes-kahuku-map.jpg", 
+        "filename": "hawaii-volcanoes-kahuku-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -16009,7 +16009,7 @@
           "height": 3853
         }, 
         "park": "hawaii-volcanoes", 
-        "filename": "./data/npmaps_jpg/hawaii-volcanoes-map.jpg", 
+        "filename": "hawaii-volcanoes-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -16596,7 +16596,7 @@
           "height": 1987
         }, 
         "park": "hawaii-volcanoes", 
-        "filename": "./data/npmaps_jpg/hawaii-volcanoes-kilauea-map.jpg", 
+        "filename": "hawaii-volcanoes-kilauea-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -16931,7 +16931,7 @@
           "height": 2592
         }, 
         "park": "hot-springs", 
-        "filename": "./data/npmaps_jpg/hot-springs-map.jpg", 
+        "filename": "hot-springs-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -17087,7 +17087,7 @@
           "height": 2308
         }, 
         "park": "isle-royale", 
-        "filename": "./data/npmaps_jpg/isle-royale-map.jpg", 
+        "filename": "isle-royale-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -17499,7 +17499,7 @@
           "height": 4812
         }, 
         "park": "joshua-tree", 
-        "filename": "./data/npmaps_jpg/joshua-tree-simple-map.jpg", 
+        "filename": "joshua-tree-simple-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -17586,7 +17586,7 @@
           "height": 3716
         }, 
         "park": "joshua-tree", 
-        "filename": "./data/npmaps_jpg/joshua-tree-pinkham-canyon-road-map.jpg", 
+        "filename": "joshua-tree-pinkham-canyon-road-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -17794,7 +17794,7 @@
           "height": 3306
         }, 
         "park": "joshua-tree", 
-        "filename": "./data/npmaps_jpg/joshua-tree-map.jpg", 
+        "filename": "joshua-tree-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -18326,7 +18326,7 @@
           "height": 4569
         }, 
         "park": "katmai", 
-        "filename": "./data/npmaps_jpg/katmai-map.jpg", 
+        "filename": "katmai-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -18396,7 +18396,7 @@
               "width": 109
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -18676,7 +18676,7 @@
               "width": 11
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -18701,7 +18701,7 @@
         ], 
         "totals": {
           "food-service": 3, 
-          "bus-stop/shuttle-stop": 2, 
+          "bus-stop-shuttle-stop": 2, 
           "boat-launch": 2, 
           "restrooms": 5, 
           "bear-viewing": 4, 
@@ -18719,7 +18719,7 @@
           "height": 926
         }, 
         "park": "katmai", 
-        "filename": "./data/npmaps_jpg/katmai-brooks-camp-map.jpg", 
+        "filename": "katmai-brooks-camp-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -18829,7 +18829,7 @@
               "width": 3
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -18854,7 +18854,7 @@
         ], 
         "totals": {
           "food-service": 1, 
-          "bus-stop/shuttle-stop": 1, 
+          "bus-stop-shuttle-stop": 1, 
           "restrooms": 3, 
           "bear-viewing": 3, 
           "ranger-station": 1, 
@@ -18868,7 +18868,7 @@
     "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
     "totals": {
       "food-service": 4, 
-      "bus-stop/shuttle-stop": 3, 
+      "bus-stop-shuttle-stop": 3, 
       "boat-launch": 2, 
       "restrooms": 8, 
       "bear-viewing": 7, 
@@ -18896,7 +18896,7 @@
           "height": 5171
         }, 
         "park": "kenai-fjords", 
-        "filename": "./data/npmaps_jpg/kenai-fjords-map.jpg", 
+        "filename": "kenai-fjords-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -18916,19 +18916,19 @@
               "width": 930
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }
         ], 
         "totals": {
           "campground": 1, 
-          "safety/caution/alerts": 1
+          "safety-caution-alerts": 1
         }
       }
     ], 
     "Location": "Alaska 59\u00b055\u2032N 149\u00b039\u2032W\ufeff / \ufeff59.92\u00b0N 149.65\u00b0W\ufeff / 59.92; -149.65\ufeff (Kenai Fjords)", 
     "totals": {
       "campground": 1, 
-      "safety/caution/alerts": 1
+      "safety-caution-alerts": 1
     }, 
     "id": "kenai-fjords", 
     "Description": "Near Seward on the Kenai Peninsula, this park protects the Harding Icefield and at least 38 glaciers and fjords stemming from it. The only area accessible to the public by road is Exit Glacier; the rest must be viewed or reached from boat tours."
@@ -18948,7 +18948,7 @@
           "height": 5067
         }, 
         "park": "kings-canyon", 
-        "filename": "./data/npmaps_jpg/sequoia-kings-canyon-park-map.jpg", 
+        "filename": "sequoia-kings-canyon-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -18968,7 +18968,7 @@
               "width": 7
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -19043,7 +19043,7 @@
         ], 
         "totals": {
           "campground": 8, 
-          "safety/caution/alerts": 1
+          "safety-caution-alerts": 1
         }
       }, 
       {
@@ -19053,7 +19053,7 @@
           "height": 3799
         }, 
         "park": "kings-canyon", 
-        "filename": "./data/npmaps_jpg/sequoia-kings-canyon-detail-map.jpg", 
+        "filename": "sequoia-kings-canyon-detail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -19333,7 +19333,7 @@
               "width": 12
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -19757,26 +19757,26 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 1, 
           "horseback-riding\n(rental,-guided-tour)": 4, 
           "telephone": 14, 
           "ranger-station": 4, 
           "picnic-area": 13, 
           "lodging": 8, 
           "campground": 22, 
+          "safety-caution-alerts": 1, 
           "gas-station": 4
         }
       }
     ], 
     "Location": "California 36\u00b048\u2032N 118\u00b033\u2032W\ufeff / \ufeff36.80\u00b0N 118.55\u00b0W\ufeff / 36.80; -118.55\ufeff (Kings Canyon)", 
     "totals": {
-      "safety/caution/alerts": 2, 
       "lodging": 8, 
       "telephone": 14, 
       "ranger-station": 4, 
       "picnic-area": 13, 
       "horseback-riding\n(rental,-guided-tour)": 4, 
       "campground": 30, 
+      "safety-caution-alerts": 2, 
       "gas-station": 4
     }, 
     "id": "kings-canyon", 
@@ -19810,7 +19810,7 @@
           "height": 4394
         }, 
         "park": "lake-clark", 
-        "filename": "./data/npmaps_jpg/lake-clark-map.jpg", 
+        "filename": "lake-clark-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -19900,7 +19900,7 @@
           "height": 3414
         }, 
         "park": "lassen-volcanic", 
-        "filename": "./data/npmaps_jpg/lassen-volcanic-map.jpg", 
+        "filename": "lassen-volcanic-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -20220,7 +20220,7 @@
               "width": 25
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -20285,26 +20285,26 @@
         ], 
         "totals": {
           "information": 6, 
-          "safety/caution/alerts": 1, 
           "food-service": 3, 
           "wheelchair-accessible": 6, 
           "self-guiding-trail": 4, 
           "ranger-station": 6, 
           "picnic-area": 5, 
-          "campground": 7
+          "campground": 7, 
+          "safety-caution-alerts": 1
         }
       }
     ], 
     "Location": "California 40\u00b029\u2032N 121\u00b031\u2032W\ufeff / \ufeff40.49\u00b0N 121.51\u00b0W\ufeff / 40.49; -121.51\ufeff (Lassen Volcanic)", 
     "totals": {
       "information": 6, 
-      "safety/caution/alerts": 1, 
       "food-service": 3, 
       "wheelchair-accessible": 6, 
       "self-guiding-trail": 4, 
       "ranger-station": 6, 
       "picnic-area": 5, 
-      "campground": 7
+      "campground": 7, 
+      "safety-caution-alerts": 1
     }, 
     "id": "lassen-volcanic", 
     "Description": "Lassen Peak, the largest plug dome volcano in the world, is joined by all three other types of volcanoes in this park: shield, cinder dome, and composite. Though Lassen itself last erupted in 1915, most of the rest of the park is continuously active: numerous hydrothermal features, including fumaroles, boiling pools, and bubbling mud pots, are heated by molten rock from beneath the peak."
@@ -20324,7 +20324,7 @@
           "height": 3453
         }, 
         "park": "mammoth-cave", 
-        "filename": "./data/npmaps_jpg/mammoth-cave-map.jpg", 
+        "filename": "mammoth-cave-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -20580,7 +20580,7 @@
           "height": 5485
         }, 
         "park": "mesa-verde", 
-        "filename": "./data/npmaps_jpg/mesa-verde-map.jpg", 
+        "filename": "mesa-verde-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -21056,7 +21056,7 @@
           "height": 5056
         }, 
         "park": "mount-rainier", 
-        "filename": "./data/npmaps_jpg/mount-rainier-map.jpg", 
+        "filename": "mount-rainier-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -21176,7 +21176,7 @@
               "width": 8
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -21216,7 +21216,7 @@
               "width": 11
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -21252,7 +21252,7 @@
         "totals": {
           "campground": 5, 
           "picnic-area": 7, 
-          "safety/caution/alerts": 2, 
+          "safety-caution-alerts": 2, 
           "restrooms": 5
         }
       }, 
@@ -21263,7 +21263,7 @@
           "height": 4950
         }, 
         "park": "mount-rainier", 
-        "filename": "./data/npmaps_jpg/mount-rainier-national-park-map.jpg", 
+        "filename": "mount-rainier-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -21860,7 +21860,6 @@
     ], 
     "Location": "Washington 46\u00b051\u2032N 121\u00b045\u2032W\ufeff / \ufeff46.85\u00b0N 121.75\u00b0W\ufeff / 46.85; -121.75\ufeff (Mount Rainier)", 
     "totals": {
-      "safety/caution/alerts": 2, 
       "food-service": 4, 
       "restrooms": 20, 
       "self-guiding-trail": 9, 
@@ -21868,7 +21867,8 @@
       "picnic-area": 20, 
       "lodging": 2, 
       "campground": 10, 
-      "store": 2
+      "store": 2, 
+      "safety-caution-alerts": 2
     }, 
     "id": "mount-rainier", 
     "Description": "Mount Rainier, an active stratovolcano, is the most prominent peak in the Cascades, and is covered by 26 named glaciers including Carbon Glacier and Emmons Glacier, the largest in the contiguous United States. The mountain is popular for climbing, and more than half of the park is covered by subalpine and alpine forests and meadows seasonally in bloom with wildflowers. Paradise on the south slope is one of the snowiest places in the world, and the Longmire visitor center is the start of the Wonderland Trail, which encircles the mountain."
@@ -21888,7 +21888,7 @@
           "height": 3477
         }, 
         "park": "north-cascades", 
-        "filename": "./data/npmaps_jpg/north-cascades-map.jpg", 
+        "filename": "north-cascades-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -21898,7 +21898,7 @@
               "width": 454
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -21908,7 +21908,7 @@
               "width": 12
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -21928,7 +21928,7 @@
               "width": 14
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -21938,7 +21938,7 @@
               "width": 11
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -21978,7 +21978,7 @@
               "width": 3
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -21988,7 +21988,7 @@
               "width": 2
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -22038,7 +22038,7 @@
               "width": 2
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -22078,7 +22078,7 @@
               "width": 7
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -22088,7 +22088,7 @@
               "width": 7
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -22178,7 +22178,7 @@
               "width": 15
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -22198,13 +22198,13 @@
               "width": 15
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }
         ], 
         "totals": {
           "campground": 18, 
           "picnic-area": 2, 
-          "safety/caution/alerts": 11
+          "safety-caution-alerts": 11
         }
       }
     ], 
@@ -22212,7 +22212,7 @@
     "totals": {
       "campground": 18, 
       "picnic-area": 2, 
-      "safety/caution/alerts": 11
+      "safety-caution-alerts": 11
     }, 
     "id": "north-cascades", 
     "Description": "This complex encompasses two units of the national park itself as well as the Ross Lake and Lake Chelan National Recreation Areas. The highly glaciated mountains are spectacular examples of Cascade geology; popular hiking and climbing areas include Cascade Pass, Mount Shuksan, Mount Triumph, and Eldorado Peak."
@@ -22232,7 +22232,7 @@
           "height": 5014
         }, 
         "park": "olympic", 
-        "filename": "./data/npmaps_jpg/olympic-map.jpg", 
+        "filename": "olympic-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -23116,7 +23116,7 @@
           "height": 4027
         }, 
         "park": "petrified-forest", 
-        "filename": "./data/npmaps_jpg/petrified-forest-national-park-map.jpg", 
+        "filename": "petrified-forest-national-park-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -23468,7 +23468,7 @@
           "height": 3178
         }, 
         "park": "petrified-forest", 
-        "filename": "./data/npmaps_jpg/petrified-forest-map.jpg", 
+        "filename": "petrified-forest-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -23741,7 +23741,7 @@
           "height": 4150
         }, 
         "park": "pinnacles", 
-        "filename": "./data/npmaps_jpg/pinnacles-map.jpg", 
+        "filename": "pinnacles-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -23950,7 +23950,7 @@
           "height": 2030
         }, 
         "park": "pinnacles", 
-        "filename": "./data/npmaps_jpg/pinnacles-detail-map.jpg", 
+        "filename": "pinnacles-detail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -24109,7 +24109,7 @@
           "height": 6588
         }, 
         "park": "redwood", 
-        "filename": "./data/npmaps_jpg/redwood-map.jpg", 
+        "filename": "redwood-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -24848,7 +24848,7 @@
           "height": 2552
         }, 
         "park": "redwood", 
-        "filename": "./data/npmaps_jpg/redwood-range-map.jpg", 
+        "filename": "redwood-range-map.jpg", 
         "symbols": [], 
         "totals": {}
       }
@@ -24893,7 +24893,7 @@
           "height": 2325
         }, 
         "park": "saguaro", 
-        "filename": "./data/npmaps_jpg/saguaro-east-map.jpg", 
+        "filename": "saguaro-east-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -24948,7 +24948,7 @@
           "height": 2210
         }, 
         "park": "saguaro", 
-        "filename": "./data/npmaps_jpg/saguaro-map-west.jpg", 
+        "filename": "saguaro-map-west.jpg", 
         "symbols": [
           {
             "pos": {
@@ -25077,7 +25077,7 @@
           "height": 6479
         }, 
         "park": "shenandoah", 
-        "filename": "./data/npmaps_jpg/shenandoah-classic-map.jpg", 
+        "filename": "shenandoah-classic-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -25147,7 +25147,7 @@
               "width": 2
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -25194,7 +25194,7 @@
           "recycling": 3, 
           "campground": 2, 
           "picnic-area": 3, 
-          "safety/caution/alerts": 1, 
+          "safety-caution-alerts": 1, 
           "restrooms": 2
         }
       }, 
@@ -25205,7 +25205,7 @@
           "height": 6876
         }, 
         "park": "shenandoah", 
-        "filename": "./data/npmaps_jpg/shenandoah-map.jpg", 
+        "filename": "shenandoah-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -25792,7 +25792,6 @@
     ], 
     "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
     "totals": {
-      "safety/caution/alerts": 1, 
       "food-service": 5, 
       "recycling": 13, 
       "restrooms": 14, 
@@ -25800,7 +25799,8 @@
       "picnic-area": 11, 
       "lodging": 4, 
       "campground": 7, 
-      "gas-station": 2
+      "gas-station": 2, 
+      "safety-caution-alerts": 1
     }, 
     "id": "shenandoah", 
     "Description": "Shenandoah's Blue Ridge Mountains are covered by sprawling hardwood forests that teem with tens of thousands of animals. The Skyline Drive and Appalachian Trail run the entire length of this narrow park, along with more than 500 miles (800\u00a0km) of hiking trails passing scenic overlooks and cataracts of the Shenandoah River."
@@ -25820,7 +25820,7 @@
           "height": 1636
         }, 
         "park": "theodore-roosevelt", 
-        "filename": "./data/npmaps_jpg/theodore-roosevelt-south-unit-map.jpg", 
+        "filename": "theodore-roosevelt-south-unit-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -25885,7 +25885,7 @@
           "height": 1533
         }, 
         "park": "theodore-roosevelt", 
-        "filename": "./data/npmaps_jpg/theodore-roosevelt-north-unit-map.jpg", 
+        "filename": "theodore-roosevelt-north-unit-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -25895,7 +25895,7 @@
               "width": 12
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -25951,8 +25951,8 @@
         "totals": {
           "campground": 2, 
           "picnic-area": 2, 
-          "safety/caution/alerts": 1, 
-          "parking": 1
+          "parking": 1, 
+          "safety-caution-alerts": 1
         }
       }
     ], 
@@ -25960,8 +25960,8 @@
     "totals": {
       "campground": 5, 
       "picnic-area": 4, 
-      "safety/caution/alerts": 1, 
-      "parking": 1
+      "parking": 1, 
+      "safety-caution-alerts": 1
     }, 
     "id": "theodore-roosevelt", 
     "Description": "This region that enticed and influenced President Theodore Roosevelt consists of a park of three units in the northern badlands. Besides Roosevelt's historic cabin, there are numerous scenic drives and backcountry hiking opportunities. Wildlife includes American bison, pronghorn, bighorn sheep, and wild horses."
@@ -25981,7 +25981,7 @@
           "height": 3180
         }, 
         "park": "virgin-islands", 
-        "filename": "./data/npmaps_jpg/virgin-islands-map.jpg", 
+        "filename": "virgin-islands-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -26231,7 +26231,7 @@
           "height": 5055
         }, 
         "park": "voyageurs", 
-        "filename": "./data/npmaps_jpg/voyageurs-map.jpg", 
+        "filename": "voyageurs-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -26679,7 +26679,7 @@
           "height": 2333
         }, 
         "park": "wind-cave", 
-        "filename": "./data/npmaps_jpg/wind-cave-map.jpg", 
+        "filename": "wind-cave-map.jpg", 
         "symbols": [], 
         "totals": {}
       }
@@ -26717,7 +26717,7 @@
           "height": 6724
         }, 
         "park": "yellowstone", 
-        "filename": "./data/npmaps_jpg/yellowstone-map.jpg", 
+        "filename": "yellowstone-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -27477,7 +27477,7 @@
               "width": 23
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -27517,7 +27517,7 @@
               "width": 22
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -27907,7 +27907,7 @@
               "width": 14
             }, 
             "name": "Bus stop/Shuttle stop", 
-            "id": "bus-stop/shuttle-stop"
+            "id": "bus-stop-shuttle-stop"
           }, 
           {
             "pos": {
@@ -28331,12 +28331,12 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 1, 
+          "safety-caution-alerts": 1, 
           "food-service": 13, 
           "maps": 1, 
+          "bus-stop-shuttle-stop": 2, 
           "recycling": 8, 
           "boat-launch": 4, 
-          "bus-stop/shuttle-stop": 2, 
           "self-guiding-trail": 12, 
           "ranger-station": 7, 
           "picnic-area": 47, 
@@ -28351,12 +28351,12 @@
     ], 
     "Location": "Wyoming, Montana, Idaho 44\u00b036\u2032N 110\u00b030\u2032W\ufeff / \ufeff44.60\u00b0N 110.50\u00b0W\ufeff / 44.60; -110.50\ufeff (Yellowstone)", 
     "totals": {
-      "safety/caution/alerts": 1, 
+      "safety-caution-alerts": 1, 
       "food-service": 13, 
       "maps": 1, 
+      "bus-stop-shuttle-stop": 2, 
       "recycling": 8, 
       "boat-launch": 4, 
-      "bus-stop/shuttle-stop": 2, 
       "self-guiding-trail": 12, 
       "ranger-station": 7, 
       "picnic-area": 47, 
@@ -28385,7 +28385,7 @@
           "height": 5080
         }, 
         "park": "yosemite", 
-        "filename": "./data/npmaps_jpg/yosemite-map.jpg", 
+        "filename": "yosemite-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -28844,7 +28844,7 @@
           "height": 3208
         }, 
         "park": "yosemite", 
-        "filename": "./data/npmaps_jpg/yosemite-campground-map.jpg", 
+        "filename": "yosemite-campground-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -28899,7 +28899,7 @@
           "height": 2044
         }, 
         "park": "yosemite", 
-        "filename": "./data/npmaps_jpg/yosemite-valley-map.jpg", 
+        "filename": "yosemite-valley-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -29172,7 +29172,7 @@
           "height": 3001
         }, 
         "park": "zion", 
-        "filename": "./data/npmaps_jpg/zion-hiking-map-0.jpg", 
+        "filename": "zion-hiking-map-0.jpg", 
         "symbols": [], 
         "totals": {}
       }, 
@@ -29183,7 +29183,7 @@
           "height": 3730
         }, 
         "park": "zion", 
-        "filename": "./data/npmaps_jpg/zion-canyon-detail-map.jpg", 
+        "filename": "zion-canyon-detail-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -29333,7 +29333,7 @@
               "width": 7
             }, 
             "name": "Safety/Caution/Alerts", 
-            "id": "safety/caution/alerts"
+            "id": "safety-caution-alerts"
           }, 
           {
             "pos": {
@@ -29397,7 +29397,6 @@
           }
         ], 
         "totals": {
-          "safety/caution/alerts": 1, 
           "food-service": 1, 
           "lodging": 1, 
           "bicycle-trail": 1, 
@@ -29406,7 +29405,8 @@
           "campground": 2, 
           "drinking-water": 4, 
           "pets-on-leash": 1, 
-          "first-aid": 1
+          "first-aid": 1, 
+          "safety-caution-alerts": 1
         }
       }, 
       {
@@ -29416,7 +29416,7 @@
           "height": 4055
         }, 
         "park": "zion", 
-        "filename": "./data/npmaps_jpg/zion-map.jpg", 
+        "filename": "zion-map.jpg", 
         "symbols": [
           {
             "pos": {
@@ -29700,7 +29700,6 @@
     ], 
     "Location": "Utah 37\u00b018\u2032N 113\u00b003\u2032W\ufeff / \ufeff37.30\u00b0N 113.05\u00b0W\ufeff / 37.30; -113.05\ufeff (Zion)", 
     "totals": {
-      "safety/caution/alerts": 1, 
       "food-service": 1, 
       "lodging": 1, 
       "bicycle-trail": 1, 
@@ -29712,7 +29711,8 @@
       "campground": 4, 
       "drinking-water": 11, 
       "pets-on-leash": 1, 
-      "first-aid": 1
+      "first-aid": 1, 
+      "safety-caution-alerts": 1
     }, 
     "id": "zion", 
     "Description": "Located at the junction of the Colorado Plateau, Great Basin, and Mojave Desert, this geological wonder has colorful sandstone canyons, mountainous mesas, and countless rock towers. Natural arches and exposed plateau formations compose a large wilderness roughly divided into four ecosystems: desert, riparian, woodland, and coniferous forest."

@@ -13,7 +13,7 @@
         "height": 3180
       }, 
       "park": "virgin-islands", 
-      "filename": "./data/npmaps_jpg/virgin-islands-map.jpg", 
+      "filename": "virgin-islands-map.jpg", 
       "symbols": [
         {
           "pos": {

@@ -13,7 +13,7 @@
         "height": 2308
       }, 
       "park": "isle-royale", 
-      "filename": "./data/npmaps_jpg/isle-royale-map.jpg", 
+      "filename": "isle-royale-map.jpg", 
       "symbols": [
         {
           "pos": {

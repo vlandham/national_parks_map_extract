@@ -13,7 +13,7 @@
         "height": 6479
       }, 
       "park": "shenandoah", 
-      "filename": "./data/npmaps_jpg/shenandoah-classic-map.jpg", 
+      "filename": "shenandoah-classic-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -83,7 +83,7 @@
             "width": 2
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -130,7 +130,7 @@
         "recycling": 3, 
         "campground": 2, 
         "picnic-area": 3, 
-        "safety/caution/alerts": 1, 
+        "safety-caution-alerts": 1, 
         "restrooms": 2
       }
     }, 
@@ -141,7 +141,7 @@
         "height": 6876
       }, 
       "park": "shenandoah", 
-      "filename": "./data/npmaps_jpg/shenandoah-map.jpg", 
+      "filename": "shenandoah-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -728,7 +728,6 @@
   ], 
   "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
   "totals": {
-    "safety/caution/alerts": 1, 
     "food-service": 5, 
     "recycling": 13, 
     "restrooms": 14, 
@@ -736,7 +735,8 @@
     "picnic-area": 11, 
     "lodging": 4, 
     "campground": 7, 
-    "gas-station": 2
+    "gas-station": 2, 
+    "safety-caution-alerts": 1
   }, 
   "id": "shenandoah", 
   "Description": "Shenandoah's Blue Ridge Mountains are covered by sprawling hardwood forests that teem with tens of thousands of animals. The Skyline Drive and Appalachian Trail run the entire length of this narrow park, along with more than 500 miles (800\u00a0km) of hiking trails passing scenic overlooks and cataracts of the Shenandoah River."

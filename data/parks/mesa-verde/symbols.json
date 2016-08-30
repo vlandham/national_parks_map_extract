@@ -13,7 +13,7 @@
         "height": 5485
       }, 
       "park": "mesa-verde", 
-      "filename": "./data/npmaps_jpg/mesa-verde-map.jpg", 
+      "filename": "mesa-verde-map.jpg", 
       "symbols": [
         {
           "pos": {

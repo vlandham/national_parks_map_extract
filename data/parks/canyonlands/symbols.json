@@ -13,7 +13,7 @@
         "height": 6806
       }, 
       "park": "canyonlands", 
-      "filename": "./data/npmaps_jpg/canyonlands-national-park-map.jpg", 
+      "filename": "canyonlands-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {

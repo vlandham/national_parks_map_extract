@@ -13,7 +13,7 @@
         "height": 3271
       }, 
       "park": "glacier", 
-      "filename": "./data/npmaps_jpg/glacier-lake-mcdonald-map.jpg", 
+      "filename": "glacier-lake-mcdonald-map.jpg", 
       "symbols": [], 
       "totals": {}
     }, 
@@ -24,7 +24,7 @@
         "height": 5433
       }, 
       "park": "glacier", 
-      "filename": "./data/npmaps_jpg/glacier-map.jpg", 
+      "filename": "glacier-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -775,7 +775,7 @@
         "height": 2554
       }, 
       "park": "glacier", 
-      "filename": "./data/npmaps_jpg/glacier-two-medicine-map.jpg", 
+      "filename": "glacier-two-medicine-map.jpg", 
       "symbols": [], 
       "totals": {}
     }, 
@@ -786,7 +786,7 @@
         "height": 3690
       }, 
       "park": "glacier", 
-      "filename": "./data/npmaps_jpg/glacier-bay-map.jpg", 
+      "filename": "glacier-bay-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -831,7 +831,7 @@
         "height": 2521
       }, 
       "park": "glacier", 
-      "filename": "./data/npmaps_jpg/glacier-st-mary-map.jpg", 
+      "filename": "glacier-st-mary-map.jpg", 
       "symbols": [], 
       "totals": {}
     }, 
@@ -842,7 +842,7 @@
         "height": 3271
       }, 
       "park": "glacier", 
-      "filename": "./data/npmaps_jpg/glacier-many-glacier-map.jpg", 
+      "filename": "glacier-many-glacier-map.jpg", 
       "symbols": [], 
       "totals": {}
     }, 
@@ -853,7 +853,7 @@
         "height": 5431
       }, 
       "park": "glacier", 
-      "filename": "./data/npmaps_jpg/glacier-bay-detail-map.jpg", 
+      "filename": "glacier-bay-detail-map.jpg", 
       "symbols": [
         {
           "pos": {

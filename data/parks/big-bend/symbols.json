@@ -13,7 +13,7 @@
         "height": 3040
       }, 
       "park": "big-bend", 
-      "filename": "./data/npmaps_jpg/big-bend-detail-maps.jpg", 
+      "filename": "big-bend-detail-maps.jpg", 
       "symbols": [
         {
           "pos": {
@@ -318,7 +318,7 @@
         "height": 4437
       }, 
       "park": "big-bend", 
-      "filename": "./data/npmaps_jpg/big-bend-national-park-map.jpg", 
+      "filename": "big-bend-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {

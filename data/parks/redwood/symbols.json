@@ -13,7 +13,7 @@
         "height": 6588
       }, 
       "park": "redwood", 
-      "filename": "./data/npmaps_jpg/redwood-map.jpg", 
+      "filename": "redwood-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -752,7 +752,7 @@
         "height": 2552
       }, 
       "park": "redwood", 
-      "filename": "./data/npmaps_jpg/redwood-range-map.jpg", 
+      "filename": "redwood-range-map.jpg", 
       "symbols": [], 
       "totals": {}
     }

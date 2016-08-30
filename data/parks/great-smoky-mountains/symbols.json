@@ -13,7 +13,7 @@
         "height": 2719
       }, 
       "park": "great-smoky-mountains", 
-      "filename": "./data/npmaps_jpg/great-smoky-mountains-map.jpg", 
+      "filename": "great-smoky-mountains-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -33,7 +33,7 @@
             "width": 3
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -73,7 +73,7 @@
             "width": 6
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -153,7 +153,7 @@
             "width": 3
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -173,7 +173,7 @@
             "width": 3
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -233,7 +233,7 @@
             "width": 8
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -303,7 +303,7 @@
             "width": 7
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -323,7 +323,7 @@
             "width": 8
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -363,7 +363,7 @@
             "width": 7
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -387,27 +387,27 @@
         }
       ], 
       "totals": {
-        "safety/caution/alerts": 8, 
         "trucks": 5, 
         "maps": 3, 
         "picnic-area": 11, 
         "playground": 2, 
         "campground": 2, 
         "audio-tour": 2, 
-        "birdingnvildlife-viewing": 4
+        "birdingnvildlife-viewing": 4, 
+        "safety-caution-alerts": 8
       }
     }
   ], 
   "Location": "Tennessee, North Carolina 35\u00b041\u2032N 83\u00b032\u2032W\ufeff / \ufeff35.68\u00b0N 83.53\u00b0W\ufeff / 35.68; -83.53\ufeff (Great Smoky Mountains)", 
   "totals": {
-    "safety/caution/alerts": 8, 
     "trucks": 5, 
     "maps": 3, 
     "picnic-area": 11, 
     "playground": 2, 
     "campground": 2, 
     "audio-tour": 2, 
-    "birdingnvildlife-viewing": 4
+    "birdingnvildlife-viewing": 4, 
+    "safety-caution-alerts": 8
   }, 
   "id": "great-smoky-mountains", 
   "Description": "The Great Smoky Mountains, part of the Appalachian Mountains, span a wide range of elevations, making them home to over 400 vertebrate species, 100 tree species, and 5000 plant species. Hiking is the park's main attraction, with over 800 miles (1,300\u00a0km) of trails, including 70 miles (110\u00a0km) of the Appalachian Trail. Other activities include fishing, horseback riding, and touring nearly 80 historic structures.[34] (WHS)"

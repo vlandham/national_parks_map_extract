@@ -13,7 +13,7 @@
         "height": 1169
       }, 
       "park": "acadia", 
-      "filename": "./data/npmaps_jpg/acadia-schoodic-map.jpg", 
+      "filename": "acadia-schoodic-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -33,7 +33,7 @@
             "width": 4
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -43,7 +43,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -53,7 +53,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -93,7 +93,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -113,7 +113,7 @@
             "width": 4
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -137,11 +137,11 @@
         }
       ], 
       "totals": {
-        "restrooms": 3, 
+        "parking": 2, 
+        "bus-stop-shuttle-stop": 5, 
         "picnic-area": 1, 
         "boat-tour": 1, 
-        "parking": 2, 
-        "bus-stop/shuttle-stop": 5
+        "restrooms": 3
       }
     }, 
     {
@@ -151,7 +151,7 @@
         "height": 4562
       }, 
       "park": "acadia", 
-      "filename": "./data/npmaps_jpg/acadia-map.jpg", 
+      "filename": "acadia-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -231,7 +231,7 @@
             "width": 12
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -311,7 +311,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -361,7 +361,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -401,7 +401,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -451,7 +451,7 @@
             "width": 5
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -501,7 +501,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -591,7 +591,7 @@
             "width": 7
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -651,7 +651,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -671,7 +671,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -701,7 +701,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -731,7 +731,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -771,7 +771,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -801,7 +801,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -831,7 +831,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -871,7 +871,7 @@
             "width": 4
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -901,7 +901,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -951,7 +951,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1006,7 +1006,7 @@
       ], 
       "totals": {
         "food-service": 2, 
-        "bus-stop/shuttle-stop": 17, 
+        "bus-stop-shuttle-stop": 17, 
         "boat-tour": 5, 
         "boat-launch": 7, 
         "restrooms": 21, 
@@ -1024,7 +1024,7 @@
         "height": 1168
       }, 
       "park": "acadia", 
-      "filename": "./data/npmaps_jpg/acadia-isle-au-haut-map.jpg", 
+      "filename": "acadia-isle-au-haut-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -1088,7 +1088,7 @@
   "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
   "totals": {
     "food-service": 2, 
-    "bus-stop/shuttle-stop": 22, 
+    "bus-stop-shuttle-stop": 22, 
     "boat-tour": 7, 
     "boat-launch": 7, 
     "restrooms": 26, 

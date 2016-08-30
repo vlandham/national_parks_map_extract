@@ -13,7 +13,7 @@
         "height": 2592
       }, 
       "park": "hot-springs", 
-      "filename": "./data/npmaps_jpg/hot-springs-map.jpg", 
+      "filename": "hot-springs-map.jpg", 
       "symbols": [
         {
           "pos": {

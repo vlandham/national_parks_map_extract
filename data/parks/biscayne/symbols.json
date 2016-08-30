@@ -13,7 +13,7 @@
         "height": 5775
       }, 
       "park": "biscayne", 
-      "filename": "./data/npmaps_jpg/biscayne-map.jpg", 
+      "filename": "biscayne-map.jpg", 
       "symbols": [
         {
           "pos": {

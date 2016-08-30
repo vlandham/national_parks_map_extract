@@ -13,7 +13,7 @@
         "height": 3821
       }, 
       "park": "channel-islands", 
-      "filename": "./data/npmaps_jpg/channel-islands-map.jpg", 
+      "filename": "channel-islands-map.jpg", 
       "symbols": [
         {
           "pos": {

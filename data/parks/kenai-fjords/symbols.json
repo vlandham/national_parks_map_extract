@@ -13,7 +13,7 @@
         "height": 5171
       }, 
       "park": "kenai-fjords", 
-      "filename": "./data/npmaps_jpg/kenai-fjords-map.jpg", 
+      "filename": "kenai-fjords-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -33,19 +33,19 @@
             "width": 930
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }
       ], 
       "totals": {
         "campground": 1, 
-        "safety/caution/alerts": 1
+        "safety-caution-alerts": 1
       }
     }
   ], 
   "Location": "Alaska 59\u00b055\u2032N 149\u00b039\u2032W\ufeff / \ufeff59.92\u00b0N 149.65\u00b0W\ufeff / 59.92; -149.65\ufeff (Kenai Fjords)", 
   "totals": {
     "campground": 1, 
-    "safety/caution/alerts": 1
+    "safety-caution-alerts": 1
   }, 
   "id": "kenai-fjords", 
   "Description": "Near Seward on the Kenai Peninsula, this park protects the Harding Icefield and at least 38 glaciers and fjords stemming from it. The only area accessible to the public by road is Exit Glacier; the rest must be viewed or reached from boat tours."

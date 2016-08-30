@@ -13,7 +13,7 @@
         "height": 3453
       }, 
       "park": "mammoth-cave", 
-      "filename": "./data/npmaps_jpg/mammoth-cave-map.jpg", 
+      "filename": "mammoth-cave-map.jpg", 
       "symbols": [
         {
           "pos": {

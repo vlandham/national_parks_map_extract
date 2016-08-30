@@ -13,7 +13,7 @@
         "height": 4150
       }, 
       "park": "pinnacles", 
-      "filename": "./data/npmaps_jpg/pinnacles-map.jpg", 
+      "filename": "pinnacles-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -222,7 +222,7 @@
         "height": 2030
       }, 
       "park": "pinnacles", 
-      "filename": "./data/npmaps_jpg/pinnacles-detail-map.jpg", 
+      "filename": "pinnacles-detail-map.jpg", 
       "symbols": [
         {
           "pos": {

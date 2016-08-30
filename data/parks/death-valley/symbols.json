@@ -13,7 +13,7 @@
         "height": 715
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-furnace-creek-map.jpg", 
+      "filename": "death-valley-furnace-creek-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -217,7 +217,7 @@
         "height": 1126
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-new-furnace-creek-map.jpg", 
+      "filename": "death-valley-new-furnace-creek-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -443,7 +443,7 @@
         "height": 6733
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-printable-map.jpg", 
+      "filename": "death-valley-printable-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -453,7 +453,7 @@
             "width": 5055
           }, 
           "name": "Lockers/Storage", 
-          "id": "lockers/storage"
+          "id": "lockers-storage"
         }, 
         {
           "pos": {
@@ -483,7 +483,7 @@
             "width": 12
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -533,7 +533,7 @@
             "width": 2
           }, 
           "name": "Lockers/Storage", 
-          "id": "lockers/storage"
+          "id": "lockers-storage"
         }, 
         {
           "pos": {
@@ -573,7 +573,7 @@
             "width": 7
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -653,7 +653,7 @@
             "width": 3
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -773,7 +773,7 @@
             "width": 2
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -783,7 +783,7 @@
             "width": 3
           }, 
           "name": "Lockers/Storage", 
-          "id": "lockers/storage"
+          "id": "lockers-storage"
         }, 
         {
           "pos": {
@@ -837,14 +837,14 @@
         }
       ], 
       "totals": {
-        "safety/caution/alerts": 4, 
+        "gas-station": 6, 
+        "lockers-storage": 3, 
         "restrooms": 10, 
         "airport": 6, 
         "picnic-area": 1, 
         "campground": 7, 
         "audio-tour": 2, 
-        "lockers/storage": 3, 
-        "gas-station": 6
+        "safety-caution-alerts": 4
       }
     }, 
     {
@@ -854,7 +854,7 @@
         "height": 6719
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-national-park-map.jpg", 
+      "filename": "death-valley-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -864,7 +864,7 @@
             "width": 9
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -2169,7 +2169,6 @@
       ], 
       "totals": {
         "airport": 8, 
-        "safety/caution/alerts": 1, 
         "food-service": 11, 
         "sanitary-disposal-station": 4, 
         "wheelchair-accessible": 5, 
@@ -2180,8 +2179,9 @@
         "lodging": 11, 
         "campground": 11, 
         "drinking-water": 13, 
+        "gas-station": 11, 
         "store": 8, 
-        "gas-station": 11
+        "safety-caution-alerts": 1
       }
     }, 
     {
@@ -2191,7 +2191,7 @@
         "height": 7090
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-backcountry-roads-map.jpg", 
+      "filename": "death-valley-backcountry-roads-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -2221,7 +2221,7 @@
             "width": 6
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -2341,7 +2341,7 @@
             "width": 4
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -2356,23 +2356,23 @@
       ], 
       "totals": {
         "campground": 7, 
-        "safety/caution/alerts": 2, 
+        "safety-caution-alerts": 2, 
         "gas-station": 7
       }
     }
   ], 
   "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
   "totals": {
-    "safety/caution/alerts": 7, 
-    "food-service": 15, 
     "audio-tour": 2, 
+    "lockers-storage": 3, 
+    "food-service": 15, 
     "sanitary-disposal-station": 12, 
     "wheelchair-accessible": 7, 
+    "safety-caution-alerts": 7, 
     "ranger-station": 6, 
     "telephone": 14, 
     "airport": 16, 
     "picnic-area": 8, 
-    "lockers/storage": 3, 
     "lodging": 15, 
     "campground": 31, 
     "drinking-water": 14, 

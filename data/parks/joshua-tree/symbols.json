@@ -13,7 +13,7 @@
         "height": 4812
       }, 
       "park": "joshua-tree", 
-      "filename": "./data/npmaps_jpg/joshua-tree-simple-map.jpg", 
+      "filename": "joshua-tree-simple-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -100,7 +100,7 @@
         "height": 3716
       }, 
       "park": "joshua-tree", 
-      "filename": "./data/npmaps_jpg/joshua-tree-pinkham-canyon-road-map.jpg", 
+      "filename": "joshua-tree-pinkham-canyon-road-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -308,7 +308,7 @@
         "height": 3306
       }, 
       "park": "joshua-tree", 
-      "filename": "./data/npmaps_jpg/joshua-tree-map.jpg", 
+      "filename": "joshua-tree-map.jpg", 
       "symbols": [
         {
           "pos": {

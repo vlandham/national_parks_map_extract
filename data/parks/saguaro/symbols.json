@@ -13,7 +13,7 @@
         "height": 2325
       }, 
       "park": "saguaro", 
-      "filename": "./data/npmaps_jpg/saguaro-east-map.jpg", 
+      "filename": "saguaro-east-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -68,7 +68,7 @@
         "height": 2210
       }, 
       "park": "saguaro", 
-      "filename": "./data/npmaps_jpg/saguaro-map-west.jpg", 
+      "filename": "saguaro-map-west.jpg", 
       "symbols": [
         {
           "pos": {

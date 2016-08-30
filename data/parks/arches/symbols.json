@@ -13,7 +13,7 @@
         "height": 4450
       }, 
       "park": "arches", 
-      "filename": "./data/npmaps_jpg/arches-national-park-map.jpg", 
+      "filename": "arches-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {

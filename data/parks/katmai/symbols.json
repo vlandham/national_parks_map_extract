@@ -13,7 +13,7 @@
         "height": 4569
       }, 
       "park": "katmai", 
-      "filename": "./data/npmaps_jpg/katmai-map.jpg", 
+      "filename": "katmai-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -83,7 +83,7 @@
             "width": 109
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -363,7 +363,7 @@
             "width": 11
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -388,7 +388,7 @@
       ], 
       "totals": {
         "food-service": 3, 
-        "bus-stop/shuttle-stop": 2, 
+        "bus-stop-shuttle-stop": 2, 
         "boat-launch": 2, 
         "restrooms": 5, 
         "bear-viewing": 4, 
@@ -406,7 +406,7 @@
         "height": 926
       }, 
       "park": "katmai", 
-      "filename": "./data/npmaps_jpg/katmai-brooks-camp-map.jpg", 
+      "filename": "katmai-brooks-camp-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -516,7 +516,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -541,7 +541,7 @@
       ], 
       "totals": {
         "food-service": 1, 
-        "bus-stop/shuttle-stop": 1, 
+        "bus-stop-shuttle-stop": 1, 
         "restrooms": 3, 
         "bear-viewing": 3, 
         "ranger-station": 1, 
@@ -555,7 +555,7 @@
   "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
   "totals": {
     "food-service": 4, 
-    "bus-stop/shuttle-stop": 3, 
+    "bus-stop-shuttle-stop": 3, 
     "boat-launch": 2, 
     "restrooms": 8, 
     "bear-viewing": 7, 

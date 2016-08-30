@@ -13,7 +13,7 @@
         "height": 2951
       }, 
       "park": "grand-canyon", 
-      "filename": "./data/npmaps_jpg/grand-canyon-south-rim-map.jpg", 
+      "filename": "grand-canyon-south-rim-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -265,7 +265,7 @@
         "height": 1186
       }, 
       "park": "grand-canyon", 
-      "filename": "./data/npmaps_jpg/grand-canyon-south-rim-detail-map.jpg", 
+      "filename": "grand-canyon-south-rim-detail-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -320,7 +320,7 @@
         "height": 5018
       }, 
       "park": "grand-canyon", 
-      "filename": "./data/npmaps_jpg/grand-canyon-national-park-map.jpg", 
+      "filename": "grand-canyon-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -822,7 +822,7 @@
         "height": 1278
       }, 
       "park": "grand-canyon", 
-      "filename": "./data/npmaps_jpg/grand-canyon-north-rim-map.jpg", 
+      "filename": "grand-canyon-north-rim-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -930,7 +930,7 @@
         "height": 2846
       }, 
       "park": "grand-canyon", 
-      "filename": "./data/npmaps_jpg/grand-canyon-classic-map.jpg", 
+      "filename": "grand-canyon-classic-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -990,7 +990,7 @@
             "width": 9
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1000,7 +1000,7 @@
             "width": 11
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1160,7 +1160,7 @@
             "width": 2
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1174,13 +1174,13 @@
         }
       ], 
       "totals": {
-        "safety/caution/alerts": 3, 
         "fire-extinguisher": 1, 
         "restrooms": 5, 
         "picnic-area": 6, 
         "entrance-station": 1, 
         "campground": 5, 
-        "gas-station": 3
+        "gas-station": 3, 
+        "safety-caution-alerts": 3
       }
     }, 
     {
@@ -1190,7 +1190,7 @@
         "height": 3150
       }, 
       "park": "grand-canyon", 
-      "filename": "./data/npmaps_jpg/grand-canyon-hiking-map-0.jpg", 
+      "filename": "grand-canyon-hiking-map-0.jpg", 
       "symbols": [
         {
           "pos": {
@@ -1260,7 +1260,7 @@
             "width": 15
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1290,7 +1290,7 @@
             "width": 14
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1320,7 +1320,7 @@
             "width": 12
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1410,7 +1410,7 @@
             "width": 12
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1590,7 +1590,7 @@
             "width": 14
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -1604,7 +1604,6 @@
         }
       ], 
       "totals": {
-        "safety/caution/alerts": 5, 
         "food-service": 2, 
         "telephone": 5, 
         "restrooms": 15, 
@@ -1612,18 +1611,18 @@
         "first-aid": 2, 
         "lodging": 2, 
         "drinking-water": 6, 
-        "store": 2
+        "store": 2, 
+        "safety-caution-alerts": 5
       }
     }
   ], 
   "Location": "Arizona 36\u00b004\u2032N 112\u00b008\u2032W\ufeff / \ufeff36.06\u00b0N 112.14\u00b0W\ufeff / 36.06; -112.14\ufeff (Grand Canyon)", 
   "totals": {
     "information": 16, 
-    "safety/caution/alerts": 8, 
+    "store": 2, 
     "food-service": 15, 
     "sewer-hookup": 1, 
     "trailer-site": 1, 
-    "store": 2, 
     "fire-extinguisher": 1, 
     "restrooms": 23, 
     "ranger-station": 5, 
@@ -1633,6 +1632,7 @@
     "lodging": 11, 
     "campground": 19, 
     "drinking-water": 6, 
+    "safety-caution-alerts": 8, 
     "electrical-hookup": 1, 
     "first-aid": 4, 
     "gas-station": 14

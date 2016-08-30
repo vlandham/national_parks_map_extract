@@ -13,7 +13,7 @@
         "height": 4691
       }, 
       "park": "great-basin", 
-      "filename": "./data/npmaps_jpg/great-basin-map.jpg", 
+      "filename": "great-basin-map.jpg", 
       "symbols": [
         {
           "pos": {

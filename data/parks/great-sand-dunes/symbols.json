@@ -13,7 +13,7 @@
         "height": 5869
       }, 
       "park": "great-sand-dunes", 
-      "filename": "./data/npmaps_jpg/great-sand-dunes-map.jpg", 
+      "filename": "great-sand-dunes-map.jpg", 
       "symbols": [
         {
           "pos": {

@@ -13,7 +13,7 @@
         "height": 3414
       }, 
       "park": "lassen-volcanic", 
-      "filename": "./data/npmaps_jpg/lassen-volcanic-map.jpg", 
+      "filename": "lassen-volcanic-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -333,7 +333,7 @@
             "width": 25
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -398,26 +398,26 @@
       ], 
       "totals": {
         "information": 6, 
-        "safety/caution/alerts": 1, 
         "food-service": 3, 
         "wheelchair-accessible": 6, 
         "self-guiding-trail": 4, 
         "ranger-station": 6, 
         "picnic-area": 5, 
-        "campground": 7
+        "campground": 7, 
+        "safety-caution-alerts": 1
       }
     }
   ], 
   "Location": "California 40\u00b029\u2032N 121\u00b031\u2032W\ufeff / \ufeff40.49\u00b0N 121.51\u00b0W\ufeff / 40.49; -121.51\ufeff (Lassen Volcanic)", 
   "totals": {
     "information": 6, 
-    "safety/caution/alerts": 1, 
     "food-service": 3, 
     "wheelchair-accessible": 6, 
     "self-guiding-trail": 4, 
     "ranger-station": 6, 
     "picnic-area": 5, 
-    "campground": 7
+    "campground": 7, 
+    "safety-caution-alerts": 1
   }, 
   "id": "lassen-volcanic", 
   "Description": "Lassen Peak, the largest plug dome volcano in the world, is joined by all three other types of volcanoes in this park: shield, cinder dome, and composite. Though Lassen itself last erupted in 1915, most of the rest of the park is continuously active: numerous hydrothermal features, including fumaroles, boiling pools, and bubbling mud pots, are heated by molten rock from beneath the peak."

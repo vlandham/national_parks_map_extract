@@ -13,7 +13,7 @@
         "height": 1910
       }, 
       "park": "congaree", 
-      "filename": "./data/npmaps_jpg/congaree-map.jpg", 
+      "filename": "congaree-map.jpg", 
       "symbols": [
         {
           "pos": {

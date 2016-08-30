@@ -13,7 +13,7 @@
         "height": 1187
       }, 
       "park": "denali", 
-      "filename": "./data/npmaps_jpg/denali-entrance-area-map.jpg", 
+      "filename": "denali-entrance-area-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -23,7 +23,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -33,7 +33,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -53,7 +53,7 @@
             "width": 2
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -63,7 +63,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -88,9 +88,9 @@
       ], 
       "totals": {
         "campground": 1, 
+        "bus-stop-shuttle-stop": 4, 
         "airport": 1, 
-        "ranger-station": 1, 
-        "bus-stop/shuttle-stop": 4
+        "ranger-station": 1
       }
     }, 
     {
@@ -100,7 +100,7 @@
         "height": 4942
       }, 
       "park": "denali", 
-      "filename": "./data/npmaps_jpg/denali-map.jpg", 
+      "filename": "denali-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -324,10 +324,10 @@
   "Location": "Alaska 63\u00b020\u2032N 150\u00b030\u2032W\ufeff / \ufeff63.33\u00b0N 150.50\u00b0W\ufeff / 63.33; -150.50\ufeff (Denali)", 
   "totals": {
     "campground": 10, 
+    "bus-stop-shuttle-stop": 4, 
     "airport": 6, 
     "picnic-area": 5, 
-    "ranger-station": 3, 
-    "bus-stop/shuttle-stop": 4
+    "ranger-station": 3
   }, 
   "id": "denali", 
   "Description": "Centered on Denali, the tallest mountain in North America, Denali is serviced by a single road leading to Wonder Lake. Denali and other peaks of the Alaska Range are covered with long glaciers and boreal forest. Wildlife includes grizzly bears, Dall sheep, caribou, and gray wolves."

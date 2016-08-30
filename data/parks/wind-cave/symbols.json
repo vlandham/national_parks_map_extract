@@ -13,7 +13,7 @@
         "height": 2333
       }, 
       "park": "wind-cave", 
-      "filename": "./data/npmaps_jpg/wind-cave-map.jpg", 
+      "filename": "wind-cave-map.jpg", 
       "symbols": [], 
       "totals": {}
     }

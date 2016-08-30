@@ -78,7 +78,7 @@ def get_key():
     for symbol in key:
         k_id = symbol['basename'].split('.')[0]
         symbol['name'] = symbol['label']
-        symbol['id'] = symbol['name'].lower().replace(' ', '-').strip()
+        symbol['id'] = symbol['name'].lower().replace(' ', '-').replace('/', '-').strip()
         key_dict[k_id] = symbol
     return key_dict
 
@@ -96,6 +96,7 @@ def add_symbols(parks):
         park_totals = Counter()
         for pmap in park['maps']:
             pmap['symbols'] = []
+            pmap['filename'] = pmap['filename'].split('/')[-1]
             map_totals = Counter()
             for icon in pmap['icons']:
                 if icon['match_name'] in keys:

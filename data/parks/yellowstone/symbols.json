@@ -13,7 +13,7 @@
         "height": 6724
       }, 
       "park": "yellowstone", 
-      "filename": "./data/npmaps_jpg/yellowstone-map.jpg", 
+      "filename": "yellowstone-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -773,7 +773,7 @@
             "width": 23
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -813,7 +813,7 @@
             "width": 22
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1203,7 +1203,7 @@
             "width": 14
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1627,12 +1627,12 @@
         }
       ], 
       "totals": {
-        "safety/caution/alerts": 1, 
+        "safety-caution-alerts": 1, 
         "food-service": 13, 
         "maps": 1, 
+        "bus-stop-shuttle-stop": 2, 
         "recycling": 8, 
         "boat-launch": 4, 
-        "bus-stop/shuttle-stop": 2, 
         "self-guiding-trail": 12, 
         "ranger-station": 7, 
         "picnic-area": 47, 
@@ -1647,12 +1647,12 @@
   ], 
   "Location": "Wyoming, Montana, Idaho 44\u00b036\u2032N 110\u00b030\u2032W\ufeff / \ufeff44.60\u00b0N 110.50\u00b0W\ufeff / 44.60; -110.50\ufeff (Yellowstone)", 
   "totals": {
-    "safety/caution/alerts": 1, 
+    "safety-caution-alerts": 1, 
     "food-service": 13, 
     "maps": 1, 
+    "bus-stop-shuttle-stop": 2, 
     "recycling": 8, 
     "boat-launch": 4, 
-    "bus-stop/shuttle-stop": 2, 
     "self-guiding-trail": 12, 
     "ranger-station": 7, 
     "picnic-area": 47, 

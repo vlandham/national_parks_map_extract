@@ -13,7 +13,7 @@
         "height": 3452
       }, 
       "park": "guadalupe-mountains", 
-      "filename": "./data/npmaps_jpg/guadalupe-mountains-map.jpg", 
+      "filename": "guadalupe-mountains-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -253,7 +253,7 @@
         "height": 980
       }, 
       "park": "guadalupe-mountains", 
-      "filename": "./data/npmaps_jpg/guadalupe-mountains-regional-map.jpg", 
+      "filename": "guadalupe-mountains-regional-map.jpg", 
       "symbols": [
         {
           "pos": {

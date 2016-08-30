@@ -13,7 +13,7 @@
         "height": 4685
       }, 
       "park": "everglades", 
-      "filename": "./data/npmaps_jpg/everglades-map.jpg", 
+      "filename": "everglades-map.jpg", 
       "symbols": [
         {
           "pos": {

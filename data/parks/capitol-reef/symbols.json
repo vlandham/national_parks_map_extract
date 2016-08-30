@@ -13,7 +13,7 @@
         "height": 4583
       }, 
       "park": "capitol-reef", 
-      "filename": "./data/npmaps_jpg/capitol-reef-map.jpg", 
+      "filename": "capitol-reef-map.jpg", 
       "symbols": [
         {
           "pos": {

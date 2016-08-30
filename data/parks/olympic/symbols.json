@@ -13,7 +13,7 @@
         "height": 5014
       }, 
       "park": "olympic", 
-      "filename": "./data/npmaps_jpg/olympic-map.jpg", 
+      "filename": "olympic-map.jpg", 
       "symbols": [
         {
           "pos": {

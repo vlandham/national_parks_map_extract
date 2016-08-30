@@ -13,7 +13,7 @@
         "height": 4984
       }, 
       "park": "black-canyon-of-the-gunnison", 
-      "filename": "./data/npmaps_jpg/black-canyon-of-the-gunnison-map.jpg", 
+      "filename": "black-canyon-of-the-gunnison-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -457,7 +457,7 @@
         "height": 906
       }, 
       "park": "black-canyon-of-the-gunnison", 
-      "filename": "./data/npmaps_jpg/black-canyon-of-the-gunnison-regional-map.jpg", 
+      "filename": "black-canyon-of-the-gunnison-regional-map.jpg", 
       "symbols": [], 
       "totals": {}
     }

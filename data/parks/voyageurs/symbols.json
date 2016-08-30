@@ -13,7 +13,7 @@
         "height": 5055
       }, 
       "park": "voyageurs", 
-      "filename": "./data/npmaps_jpg/voyageurs-map.jpg", 
+      "filename": "voyageurs-map.jpg", 
       "symbols": [
         {
           "pos": {

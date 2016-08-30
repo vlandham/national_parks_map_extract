@@ -13,7 +13,7 @@
         "height": 971
       }, 
       "park": "carlsbad-caverns", 
-      "filename": "./data/npmaps_jpg/carlsbad-caverns-map.jpg", 
+      "filename": "carlsbad-caverns-map.jpg", 
       "symbols": [], 
       "totals": {}
     }

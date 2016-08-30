@@ -13,7 +13,7 @@
         "height": 4027
       }, 
       "park": "petrified-forest", 
-      "filename": "./data/npmaps_jpg/petrified-forest-national-park-map.jpg", 
+      "filename": "petrified-forest-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -365,7 +365,7 @@
         "height": 3178
       }, 
       "park": "petrified-forest", 
-      "filename": "./data/npmaps_jpg/petrified-forest-map.jpg", 
+      "filename": "petrified-forest-map.jpg", 
       "symbols": [
         {
           "pos": {

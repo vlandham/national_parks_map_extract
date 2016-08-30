@@ -13,7 +13,7 @@
         "height": 5080
       }, 
       "park": "yosemite", 
-      "filename": "./data/npmaps_jpg/yosemite-map.jpg", 
+      "filename": "yosemite-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -472,7 +472,7 @@
         "height": 3208
       }, 
       "park": "yosemite", 
-      "filename": "./data/npmaps_jpg/yosemite-campground-map.jpg", 
+      "filename": "yosemite-campground-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -527,7 +527,7 @@
         "height": 2044
       }, 
       "park": "yosemite", 
-      "filename": "./data/npmaps_jpg/yosemite-valley-map.jpg", 
+      "filename": "yosemite-valley-map.jpg", 
       "symbols": [
         {
           "pos": {

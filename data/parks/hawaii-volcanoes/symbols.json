@@ -13,7 +13,7 @@
         "height": 1679
       }, 
       "park": "hawaii-volcanoes", 
-      "filename": "./data/npmaps_jpg/hawaii-volcanoes-kahuku-map.jpg", 
+      "filename": "hawaii-volcanoes-kahuku-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -48,7 +48,7 @@
         "height": 3853
       }, 
       "park": "hawaii-volcanoes", 
-      "filename": "./data/npmaps_jpg/hawaii-volcanoes-map.jpg", 
+      "filename": "hawaii-volcanoes-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -635,7 +635,7 @@
         "height": 1987
       }, 
       "park": "hawaii-volcanoes", 
-      "filename": "./data/npmaps_jpg/hawaii-volcanoes-kilauea-map.jpg", 
+      "filename": "hawaii-volcanoes-kilauea-map.jpg", 
       "symbols": [
         {
           "pos": {

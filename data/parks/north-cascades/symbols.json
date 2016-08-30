@@ -13,7 +13,7 @@
         "height": 3477
       }, 
       "park": "north-cascades", 
-      "filename": "./data/npmaps_jpg/north-cascades-map.jpg", 
+      "filename": "north-cascades-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -23,7 +23,7 @@
             "width": 454
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -33,7 +33,7 @@
             "width": 12
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -53,7 +53,7 @@
             "width": 14
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -63,7 +63,7 @@
             "width": 11
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -103,7 +103,7 @@
             "width": 3
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -113,7 +113,7 @@
             "width": 2
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -163,7 +163,7 @@
             "width": 2
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -203,7 +203,7 @@
             "width": 7
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -213,7 +213,7 @@
             "width": 7
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -303,7 +303,7 @@
             "width": 15
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -323,13 +323,13 @@
             "width": 15
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }
       ], 
       "totals": {
         "campground": 18, 
         "picnic-area": 2, 
-        "safety/caution/alerts": 11
+        "safety-caution-alerts": 11
       }
     }
   ], 
@@ -337,7 +337,7 @@
   "totals": {
     "campground": 18, 
     "picnic-area": 2, 
-    "safety/caution/alerts": 11
+    "safety-caution-alerts": 11
   }, 
   "id": "north-cascades", 
   "Description": "This complex encompasses two units of the national park itself as well as the Ross Lake and Lake Chelan National Recreation Areas. The highly glaciated mountains are spectacular examples of Cascade geology; popular hiking and climbing areas include Cascade Pass, Mount Shuksan, Mount Triumph, and Eldorado Peak."

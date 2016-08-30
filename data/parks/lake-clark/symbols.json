@@ -13,7 +13,7 @@
         "height": 4394
       }, 
       "park": "lake-clark", 
-      "filename": "./data/npmaps_jpg/lake-clark-map.jpg", 
+      "filename": "lake-clark-map.jpg", 
       "symbols": [
         {
           "pos": {

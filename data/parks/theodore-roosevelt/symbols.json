@@ -13,7 +13,7 @@
         "height": 1636
       }, 
       "park": "theodore-roosevelt", 
-      "filename": "./data/npmaps_jpg/theodore-roosevelt-south-unit-map.jpg", 
+      "filename": "theodore-roosevelt-south-unit-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -78,7 +78,7 @@
         "height": 1533
       }, 
       "park": "theodore-roosevelt", 
-      "filename": "./data/npmaps_jpg/theodore-roosevelt-north-unit-map.jpg", 
+      "filename": "theodore-roosevelt-north-unit-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -88,7 +88,7 @@
             "width": 12
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -144,8 +144,8 @@
       "totals": {
         "campground": 2, 
         "picnic-area": 2, 
-        "safety/caution/alerts": 1, 
-        "parking": 1
+        "parking": 1, 
+        "safety-caution-alerts": 1
       }
     }
   ], 
@@ -153,8 +153,8 @@
   "totals": {
     "campground": 5, 
     "picnic-area": 4, 
-    "safety/caution/alerts": 1, 
-    "parking": 1
+    "parking": 1, 
+    "safety-caution-alerts": 1
   }, 
   "id": "theodore-roosevelt", 
   "Description": "This region that enticed and influenced President Theodore Roosevelt consists of a park of three units in the northern badlands. Besides Roosevelt's historic cabin, there are numerous scenic drives and backcountry hiking opportunities. Wildlife includes American bison, pronghorn, bighorn sheep, and wild horses."

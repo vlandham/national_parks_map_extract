@@ -13,7 +13,7 @@
         "height": 1621
       }, 
       "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-amphitheater-map.jpg", 
+      "filename": "bryce-canyon-amphitheater-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -23,7 +23,7 @@
             "width": 1148
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -33,7 +33,7 @@
             "width": 18
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -73,7 +73,7 @@
             "width": 8
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -93,7 +93,7 @@
             "width": 19
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -103,7 +103,7 @@
             "width": 15
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -133,7 +133,7 @@
             "width": 16
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -153,7 +153,7 @@
             "width": 19
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -173,15 +173,15 @@
             "width": 19
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }
       ], 
       "totals": {
         "campground": 2, 
+        "bus-stop-shuttle-stop": 8, 
         "picnic-area": 3, 
-        "restrooms": 2, 
         "amphitheater": 1, 
-        "bus-stop/shuttle-stop": 8
+        "restrooms": 2
       }
     }, 
     {
@@ -191,7 +191,7 @@
         "height": 4952
       }, 
       "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-backcountry-trail-map-1.jpg", 
+      "filename": "bryce-canyon-backcountry-trail-map-1.jpg", 
       "symbols": [
         {
           "pos": {
@@ -236,7 +236,7 @@
         "height": 3000
       }, 
       "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-amphitheater-alternate-map.jpg", 
+      "filename": "bryce-canyon-amphitheater-alternate-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -256,7 +256,7 @@
             "width": 20
           }, 
           "name": "Calendar/Events", 
-          "id": "calendar/events"
+          "id": "calendar-events"
         }, 
         {
           "pos": {
@@ -306,7 +306,7 @@
             "width": 23
           }, 
           "name": "Calendar/Events", 
-          "id": "calendar/events"
+          "id": "calendar-events"
         }, 
         {
           "pos": {
@@ -356,7 +356,7 @@
             "width": 17
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -446,7 +446,7 @@
             "width": 4
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
@@ -510,8 +510,8 @@
         }
       ], 
       "totals": {
-        "safety/caution/alerts": 2, 
         "shipwreck": 1, 
+        "calendar-events": 2, 
         "photography": 1, 
         "recycling": 4, 
         "telephone": 6, 
@@ -522,7 +522,7 @@
         "playground": 1, 
         "parking": 2, 
         "horseback-riding\n(rental,-guided-tour)": 1, 
-        "calendar/events": 2
+        "safety-caution-alerts": 2
       }
     }, 
     {
@@ -532,7 +532,7 @@
         "height": 3764
       }, 
       "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-national-park-detail-map.jpg", 
+      "filename": "bryce-canyon-national-park-detail-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -582,7 +582,7 @@
             "width": 12
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -672,7 +672,7 @@
             "width": 19
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -682,7 +682,7 @@
             "width": 18
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -772,7 +772,7 @@
             "width": 12
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -782,7 +782,7 @@
             "width": 12
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -792,7 +792,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -822,7 +822,7 @@
             "width": 8
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -882,7 +882,7 @@
             "width": 17
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -906,12 +906,12 @@
         }
       ], 
       "totals": {
+        "bus-stop-shuttle-stop": 8, 
         "telephone": 4, 
         "amphitheater": 1, 
         "restrooms": 7, 
         "ranger-station": 2, 
         "picnic-area": 4, 
-        "bus-stop/shuttle-stop": 8, 
         "campground": 3, 
         "drinking-water": 8
       }
@@ -923,7 +923,7 @@
         "height": 4704
       }, 
       "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-national-park-map.jpg", 
+      "filename": "bryce-canyon-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {
@@ -943,7 +943,7 @@
             "width": 18
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -953,7 +953,7 @@
             "width": 12
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -963,7 +963,7 @@
             "width": 12
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -973,7 +973,7 @@
             "width": 5
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1033,7 +1033,7 @@
             "width": 3
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1043,7 +1043,7 @@
             "width": 4
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1053,7 +1053,7 @@
             "width": 9
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1073,7 +1073,7 @@
             "width": 13
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1083,7 +1083,7 @@
             "width": 13
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
@@ -1147,11 +1147,11 @@
         }
       ], 
       "totals": {
+        "bus-stop-shuttle-stop": 9, 
         "telephone": 1, 
         "restrooms": 4, 
         "ranger-station": 1, 
         "picnic-area": 3, 
-        "bus-stop/shuttle-stop": 9, 
         "campground": 3, 
         "drinking-water": 1
       }
@@ -1159,10 +1159,11 @@
   ], 
   "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
   "totals": {
-    "safety/caution/alerts": 2, 
+    "recycling": 4, 
     "bottles": 2, 
     "shipwreck": 1, 
-    "sewer-hookup": 1, 
+    "calendar-events": 2, 
+    "bus-stop-shuttle-stop": 25, 
     "photography": 1, 
     "parking": 2, 
     "telephone": 11, 
@@ -1172,13 +1173,12 @@
     "maps": 3, 
     "ranger-station": 3, 
     "picnic-area": 12, 
-    "recycling": 4, 
-    "calendar/events": 2, 
-    "bus-stop/shuttle-stop": 25, 
+    "playground": 1, 
+    "sewer-hookup": 1, 
     "campground": 8, 
     "drinking-water": 9, 
     "horseback-riding\n(rental,-guided-tour)": 1, 
-    "playground": 1
+    "safety-caution-alerts": 2
   }, 
   "id": "bryce-canyon", 
   "Description": "Bryce Canyon is a giant geological amphitheater on the Paunsaugunt Plateau. The unique area has hundreds of tall sandstone hoodoos formed by erosion. The region was originally settled by Native Americans and later by Mormon pioneers."
