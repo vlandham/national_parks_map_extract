@@ -114,9 +114,12 @@ def add_symbols(parks):
             for icon in pmap['icons']:
                 if icon['match_name'] in keys:
                     key = keys[icon['match_name']]
+                    if len(key['id']) == 0:
+                        continue
                     symbol = {}
                     symbol['pos'] = icon['position']
                     symbol['id'] = key['id']
+
                     symbol['name'] = key['name']
                     pmap['symbols'].append(symbol)
                     park_symbols[symbol['id']] = symbol['name']
