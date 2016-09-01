@@ -103,8 +103,10 @@ def add_symbols(parks):
 
 
     park_symbols = {}
+    park_names = {}
     for park in parks:
         park_totals = Counter()
+        park_names[park['id']] = park['name']
         for pmap in park['maps']:
             pmap['symbols'] = []
             pmap['filename'] = pmap['filename'].split('/')[-1]
@@ -130,14 +132,14 @@ def add_symbols(parks):
                     print('WARNING: ' + icon['match_name'] + ' not valid symbol')
 
             for key, count in map_totals.iteritems():
-                symbol_maps[key].append({'id':pmap['map'], 'count':count, 'name':park_symbols[key]})
+                symbol_maps[key].append({'id':pmap['map'], 'count':count, 'name': park_symbols[key]})
             del(pmap['icons'])
             pmap['totals'] = counter_to_array(map_totals, park_symbols)
 
             # end map loop
 
         for key, count in park_totals.iteritems():
-            symbol_parks[key].append({'id':park['id'], 'count':count})
+            symbol_parks[key].append({'id':park['id'], 'count':count, 'name': park_names[park['id']]})
 
         park['totals'] = counter_to_array(park_totals, park_symbols)
         park['map_count'] = len(park['maps'])
