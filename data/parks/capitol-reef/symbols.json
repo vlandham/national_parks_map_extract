@@ -5,6 +5,10 @@
   "Photo": "", 
   "Date established as park": "December 18, 1971", 
   "Area": "241,904.26 acres (979.0\u00a0km2)", 
+  "pos": [
+    38.2, 
+    -111.16666666666667
+  ], 
   "name": "Capitol Reef", 
   "maps": [
     {
@@ -136,7 +140,6 @@
       ]
     }
   ], 
-  "Location": "Utah 38\u00b012\u2032N 111\u00b010\u2032W\ufeff / \ufeff38.20\u00b0N 111.17\u00b0W\ufeff / 38.20; -111.17\ufeff (Capitol Reef)", 
   "totals": [
     {
       "count": 4, 
@@ -154,6 +157,9 @@
       "name": "Ranger station"
     }
   ], 
+  "Location": "Utah 38\u00b012\u2032N 111\u00b010\u2032W\ufeff / \ufeff38.20\u00b0N 111.17\u00b0W\ufeff / 38.20; -111.17\ufeff (Capitol Reef)", 
+  "date": 1971, 
+  "acres": 241904.26, 
   "map_count": 1, 
   "id": "capitol-reef", 
   "Description": "The park's Waterpocket Fold is a 100-mile (160\u00a0km) monocline that exhibits the earth's diverse geologic layers. Other natural features are monoliths, sandstone domes, and cliffs shaped like the United States Capitol."

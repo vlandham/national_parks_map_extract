@@ -5,6 +5,10 @@
   "Photo": "", 
   "Date established as park": "February 26, 1919", 
   "Area": "47,389.67 acres (191.8\u00a0km2)", 
+  "pos": [
+    44.35, 
+    -68.21666666666667
+  ], 
   "name": "Acadia", 
   "maps": [
     {
@@ -1162,7 +1166,6 @@
       ]
     }
   ], 
-  "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
   "totals": [
     {
       "count": 26, 
@@ -1215,6 +1218,9 @@
       "name": "Food service"
     }
   ], 
+  "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
+  "date": 1919, 
+  "acres": 47389.67, 
   "map_count": 3, 
   "id": "acadia", 
   "Description": "Covering most of Mount Desert Island and other coastal islands, Acadia features the tallest mountain on the Atlantic coast of the United States, granite peaks, ocean shoreline, woodlands, and lakes. There are freshwater, estuary, forest, and intertidal habitats."

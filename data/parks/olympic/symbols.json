@@ -5,6 +5,10 @@
   "Photo": "", 
   "Date established as park": "June 29, 1938", 
   "Area": "922,650.86 acres (3,733.8\u00a0km2)", 
+  "pos": [
+    47.96666666666667, 
+    -123.5
+  ], 
   "name": "Olympic", 
   "maps": [
     {
@@ -901,7 +905,6 @@
       ]
     }
   ], 
-  "Location": "Washington 47\u00b058\u2032N 123\u00b030\u2032W\ufeff / \ufeff47.97\u00b0N 123.50\u00b0W\ufeff / 47.97; -123.50\ufeff (Olympic)", 
   "totals": [
     {
       "count": 21, 
@@ -944,6 +947,9 @@
       "name": "Lodging"
     }
   ], 
+  "Location": "Washington 47\u00b058\u2032N 123\u00b030\u2032W\ufeff / \ufeff47.97\u00b0N 123.50\u00b0W\ufeff / 47.97; -123.50\ufeff (Olympic)", 
+  "date": 1938, 
+  "acres": 922650.86, 
   "map_count": 1, 
   "id": "olympic", 
   "Description": "Situated on the Olympic Peninsula, this park straddles a diversity of ecosystems from Pacific shoreline to temperate rainforests to the alpine slopes of Mount Olympus. The scenic Olympic Mountains overlook the Hoh Rain Forest and Quinault Rain Forest, the wettest area in the continental United States.[51] (WHS)"

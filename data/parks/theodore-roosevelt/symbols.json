@@ -5,6 +5,10 @@
   "Photo": "", 
   "Date established as park": "November 10, 1978", 
   "Area": "70,446.89 acres (285.1\u00a0km2)", 
+  "pos": [
+    46.96666666666667, 
+    -103.45
+  ], 
   "name": "Theodore Roosevelt", 
   "maps": [
     {
@@ -174,7 +178,6 @@
       ]
     }
   ], 
-  "Location": "North Dakota 46\u00b058\u2032N 103\u00b027\u2032W\ufeff / \ufeff46.97\u00b0N 103.45\u00b0W\ufeff / 46.97; -103.45\ufeff (Theodore Roosevelt)", 
   "totals": [
     {
       "count": 5, 
@@ -197,6 +200,9 @@
       "name": "Safety/Caution/Alerts"
     }
   ], 
+  "Location": "North Dakota 46\u00b058\u2032N 103\u00b027\u2032W\ufeff / \ufeff46.97\u00b0N 103.45\u00b0W\ufeff / 46.97; -103.45\ufeff (Theodore Roosevelt)", 
+  "date": 1978, 
+  "acres": 70446.89, 
   "map_count": 2, 
   "id": "theodore-roosevelt", 
   "Description": "This region that enticed and influenced President Theodore Roosevelt consists of a park of three units in the northern badlands. Besides Roosevelt's historic cabin, there are numerous scenic drives and backcountry hiking opportunities. Wildlife includes American bison, pronghorn, bighorn sheep, and wild horses."

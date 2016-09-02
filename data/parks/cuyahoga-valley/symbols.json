@@ -5,6 +5,10 @@
   "Photo": "", 
   "Date established as park": "October 11, 2000", 
   "Area": "32,950 acres (133.3\u00a0km2)", 
+  "pos": [
+    41.233333333333334, 
+    -81.55
+  ], 
   "name": "Cuyahoga Valley", 
   "maps": [
     {
@@ -1840,7 +1844,6 @@
       ]
     }
   ], 
-  "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
   "totals": [
     {
       "count": 40, 
@@ -1918,6 +1921,9 @@
       "name": "Campground"
     }
   ], 
+  "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
+  "date": 2000, 
+  "acres": 32950.0, 
   "map_count": 4, 
   "id": "cuyahoga-valley", 
   "Description": "This park along the Cuyahoga River has waterfalls, hills, trails, and exhibits on early rural living. The Ohio and Erie Canal Towpath Trail follows the Ohio and Erie Canal, where mules towed canal boats. The park has numerous historic homes, bridges, and structures,[21] and also offers a scenic train ride."
