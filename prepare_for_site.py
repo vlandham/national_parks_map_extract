@@ -2,6 +2,7 @@
 import json
 import glob
 import os
+import re
 from collections import Counter, defaultdict
 
 INPUT_DIR = './data/out'
@@ -36,6 +37,20 @@ def get_parks_info():
     for info in parks_info:
         info['name'] = info['Name']
         info['id'] = to_key(info['name'])
+        info['date'] = int(info["Date established as park"].split(',')[-1].strip())
+        info['acres'] = float(info["Area"].split("acres")[0].replace(",",""))
+        loc = re.sub(r"^\D+", "", info['Location'])
+        loc_fields = loc.split(' ')
+        pos = loc_fields[0] + " " + loc_fields[1]
+        #pos = pos.replace('N', ' N')
+
+        #print(pos)
+        converted_loc = parse_dms(pos)
+        converted_loc = [round(it, 3) for it in converted_loc]
+        info['loc'] = converted_loc
+
+
+
     return parks_info
 
 def get_symbols():
@@ -103,8 +118,10 @@ def add_symbols(parks):
 
 
     park_symbols = {}
+    park_names = {}
     for park in parks:
         park_totals = Counter()
+        park_names[park['id']] = park['name']
         for pmap in park['maps']:
             pmap['symbols'] = []
             pmap['filename'] = pmap['filename'].split('/')[-1]
@@ -112,9 +129,12 @@ def add_symbols(parks):
             for icon in pmap['icons']:
                 if icon['match_name'] in keys:
                     key = keys[icon['match_name']]
+                    if len(key['id']) == 0:
+                        continue
                     symbol = {}
                     symbol['pos'] = icon['position']
                     symbol['id'] = key['id']
+
                     symbol['name'] = key['name']
                     pmap['symbols'].append(symbol)
                     park_symbols[symbol['id']] = symbol['name']
@@ -130,14 +150,14 @@ def add_symbols(parks):
                     print('WARNING: ' + icon['match_name'] + ' not valid symbol')
 
             for key, count in map_totals.iteritems():
-                symbol_maps[key].append({'id':pmap['map'], 'count':count, 'name':park_symbols[key]})
+                symbol_maps[key].append({'id':pmap['map'], 'count':count, 'name': park_symbols[key]})
             del(pmap['icons'])
             pmap['totals'] = counter_to_array(map_totals, park_symbols)
 
             # end map loop
 
         for key, count in park_totals.iteritems():
-            symbol_parks[key].append({'id':park['id'], 'count':count})
+            symbol_parks[key].append({'id':park['id'], 'count':count, 'name': park_names[park['id']]})
 
         park['totals'] = counter_to_array(park_totals, park_symbols)
         park['map_count'] = len(park['maps'])
@@ -165,10 +185,33 @@ def get_park_ids(parks):
         ids[park['id']] = {'name': park['name'],
                            'id': park['id'],
                            'map_count': park['map_count'],
-                           'symbol_count': park['symbol_count']
+                           'symbol_count': park['symbol_count'],
+                           'loc': park['loc'],
+                           'acres': park['acres'],
+                           'date': park['date'],
                            }
     return ids
 
+def dms2dd(degrees, minutes, direction):
+    dd = float(degrees) + float(minutes)/60 #+ float(seconds)/(60*60);
+    if direction == 'S' or direction == 'W':
+        dd *= -1
+    return dd;
+
+def dd2dms(deg):
+    d = int(deg)
+    md = abs(deg - d) * 60
+    m = int(md)
+    sd = (md - m) * 60
+    return [d, m, sd]
+
+def parse_dms(dms):
+    parts = re.split('[^\d\w]+', dms)
+    #print(parts)
+    lat = dms2dd(parts[0], parts[1], parts[2] )
+    lng = dms2dd(parts[3], parts[4], parts[5])
+
+    return (lat, lng)
 
 def main():
     parks_info = get_parks_info()

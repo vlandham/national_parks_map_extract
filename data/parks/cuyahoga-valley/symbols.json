@@ -1,4 +1,8 @@
 {
+  "loc": [
+    41.233, 
+    -81.55
+  ], 
   "symbol_count": 162, 
   "Name": "Cuyahoga Valley", 
   "Recreation Visitors (2014)": "2,189,849", 
@@ -94,7 +98,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -214,7 +218,7 @@
             "width": 20
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -264,7 +268,7 @@
             "width": 4
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -344,7 +348,7 @@
             "width": 12
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -774,7 +778,7 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -944,7 +948,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1010,7 +1014,7 @@
         }, 
         {
           "count": 6, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
+          "id": "horseback-riding-rental,-guided-tour", 
           "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
@@ -1222,7 +1226,7 @@
             "width": 27
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1323,13 +1327,13 @@
         }, 
         {
           "count": 1, 
-          "id": "ranger-station", 
-          "name": "Ranger station"
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
           "count": 1, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
-          "name": "Horseback riding\n(rental, guided tour)"
+          "id": "ranger-station", 
+          "name": "Ranger station"
         }
       ]
     }, 
@@ -1360,7 +1364,7 @@
             "width": 15
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1576,13 +1580,13 @@
         }, 
         {
           "count": 1, 
-          "id": "ranger-station", 
-          "name": "Ranger station"
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
           "count": 1, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
-          "name": "Horseback riding\n(rental, guided tour)"
+          "id": "ranger-station", 
+          "name": "Ranger station"
         }, 
         {
           "count": 1, 
@@ -1718,7 +1722,7 @@
             "width": 11
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1788,7 +1792,7 @@
             "width": 26
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1814,7 +1818,7 @@
         }, 
         {
           "count": 2, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
+          "id": "horseback-riding-rental,-guided-tour", 
           "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
@@ -1840,7 +1844,6 @@
       ]
     }
   ], 
-  "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
   "totals": [
     {
       "count": 40, 
@@ -1859,7 +1862,7 @@
     }, 
     {
       "count": 10, 
-      "id": "horseback-riding-(rental,-guided-tour)", 
+      "id": "horseback-riding-rental,-guided-tour", 
       "name": "Horseback riding\n(rental, guided tour)"
     }, 
     {
@@ -1918,6 +1921,9 @@
       "name": "Campground"
     }
   ], 
+  "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
+  "date": 2000, 
+  "acres": 32950.0, 
   "map_count": 4, 
   "id": "cuyahoga-valley", 
   "Description": "This park along the Cuyahoga River has waterfalls, hills, trails, and exhibits on early rural living. The Ohio and Erie Canal Towpath Trail follows the Ohio and Erie Canal, where mules towed canal boats. The park has numerous historic homes, bridges, and structures,[21] and also offers a scenic train ride."

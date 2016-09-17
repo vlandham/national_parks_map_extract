@@ -1,4 +1,8 @@
 {
+  "loc": [
+    44.6, 
+    -110.5
+  ], 
   "symbol_count": 161, 
   "Name": "Yellowstone", 
   "Recreation Visitors (2014)": "3,513,484", 
@@ -224,7 +228,7 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -634,7 +638,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -654,7 +658,7 @@
             "width": 23
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -994,7 +998,7 @@
             "width": 10
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1624,7 +1628,7 @@
             "width": 11
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }
       ], 
       "totals": [
@@ -1675,7 +1679,7 @@
         }, 
         {
           "count": 5, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
+          "id": "horseback-riding-rental,-guided-tour", 
           "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
@@ -1695,18 +1699,17 @@
         }, 
         {
           "count": 1, 
-          "id": "safety-caution-alerts", 
-          "name": "Safety/Caution/Alerts"
+          "id": "parking", 
+          "name": "Parking"
         }, 
         {
           "count": 1, 
-          "id": "parking", 
-          "name": "Parking"
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
         }
       ]
     }
   ], 
-  "Location": "Wyoming, Montana, Idaho 44\u00b036\u2032N 110\u00b030\u2032W\ufeff / \ufeff44.60\u00b0N 110.50\u00b0W\ufeff / 44.60; -110.50\ufeff (Yellowstone)", 
   "totals": [
     {
       "count": 47, 
@@ -1755,7 +1758,7 @@
     }, 
     {
       "count": 5, 
-      "id": "horseback-riding-(rental,-guided-tour)", 
+      "id": "horseback-riding-rental,-guided-tour", 
       "name": "Horseback riding\n(rental, guided tour)"
     }, 
     {
@@ -1775,15 +1778,18 @@
     }, 
     {
       "count": 1, 
-      "id": "safety-caution-alerts", 
-      "name": "Safety/Caution/Alerts"
+      "id": "parking", 
+      "name": "Parking"
     }, 
     {
       "count": 1, 
-      "id": "parking", 
-      "name": "Parking"
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
     }
   ], 
+  "Location": "Wyoming, Montana, Idaho 44\u00b036\u2032N 110\u00b030\u2032W\ufeff / \ufeff44.60\u00b0N 110.50\u00b0W\ufeff / 44.60; -110.50\ufeff (Yellowstone)", 
+  "date": 1872, 
+  "acres": 2219790.71, 
   "map_count": 1, 
   "id": "yellowstone", 
   "Description": "Situated on the Yellowstone Caldera, the park has an expansive network of geothermal areas including vividly colored hot springs, boiling mud pots, and regularly erupting geysers, the best-known being Old Faithful and Grand Prismatic Spring. The yellow-hued Grand Canyon of the Yellowstone River has a number of scenic waterfalls, and four mountain ranges run through the park. More than 60 mammal species including gray wolves, grizzly bears, lynxes, bison, and elk, make this park one of the best wildlife viewing spots in the country.[64] (WHS)"
