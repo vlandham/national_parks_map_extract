@@ -376,7 +376,7 @@ def extract_icons(filename, keys):
     match_names = [keys[match_ind]['name'] for match_ind in matches_ind]
     output = []
     for ind, icon in enumerate(icons):
-        bbox = bboxes[ind]
+        bbox = bboxes_filter[ind]
         out = {"icon_name": img_prefixs[ind],
                 "filename": img_names[ind],
                 "match_score": match_scores[ind],
