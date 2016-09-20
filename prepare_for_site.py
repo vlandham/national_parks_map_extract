@@ -13,6 +13,8 @@ OUTPUT_DIR = './data/parks'
 
 SPECIAL_IDS = {'cuyahoga-valley': ['cuyahoga']}
 
+EXCLUDE_IDS = ['joshua-tree-pinkham-canyon-road-map', 'joshua-tree-map', 'mount-rainier-map']
+
 def write_json(data, filename):
     '''
     Output data dict to json file
@@ -62,6 +64,9 @@ def get_symbols():
     return symbols
 
 def get_id_for(map_name, park_ids):
+    if map_name in EXCLUDE_IDS:
+        print('excluding: {0}'.format(map_name))
+        return None
     for pid in park_ids:
         if pid in map_name:
             return pid
