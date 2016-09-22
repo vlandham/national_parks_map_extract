@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import argparse
 import matplotlib.pyplot as plt
 from operator import itemgetter
 from skimage import data, io, filters
@@ -242,16 +243,15 @@ def convert_to_bw(img):
     return fimg_bw
 
 
-def extract_key(output_dir):
+def extract_key(key_filename, output_dir, bw = True):
     '''
     Extracts key icons and text from symbols image
     '''
 
-    filename = "./data/map_symbols.jpg"
-    img = io.imread(filename, as_grey=False)
+    img = io.imread(key_filename, as_grey=False)
     fimg_bw = convert_to_bw(img)
 
-    fimg_bw_one = fimg_bw[:,:,1]
+    fimg_bw_one = fimg_bw[:, :, 1]
     fimg_bw_one_invert = 1 - fimg_bw_one
 
     labels, numobjects = ndimage.label(fimg_bw_one_invert)
@@ -260,14 +260,18 @@ def extract_key(output_dir):
     bboxes = slice_to_bbox(slices)
 
     bboxes = remove_dups(bboxes)
-    print(len(bboxes))
+    print("Original bboxes: {0}".format(str(len(bboxes))))
 
     # limit to squares
     bboxes_filter = find_squares(bboxes)
-    len(bboxes_filter)
+    print("Filtered bboxes: {0}".format(str(len(bboxes_filter))))
 
     # extract icon images
-    icons = [b.extract(img) for b in bboxes_filter]
+
+    if bw:
+        icons = [b.extract(fimg_bw) for b in bboxes_filter]
+    else:
+        icons = [b.extract(img) for b in bboxes_filter]
 
     # extract labels of icons
     label_width = 400
@@ -275,6 +279,7 @@ def extract_key(output_dir):
     tlabels = []
     for bbox in bboxes_filter:
         label_box = BBox(bbox.x2, bbox.y1, bbox.x2 + label_width, bbox.y1 + label_height)
+
         tlabels.append(label_box.extract(img))
     print(len(tlabels))
 
@@ -400,15 +405,43 @@ def extract_icons(filename, keys):
     save_loc_image(bboxes_filter, fimg_bw, output_dir)
 
 
-key_dir = "./data/icon_key"
-# extract_key(key_dir)
 
-keys = load_keys(key_dir)
-print(len(keys))
 
-#input_filename = './data/npmaps_jpg/death-valley-furnace-creek-map.jpg'
-#extract_icons(input_filename, keys)
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
-input_filenames = glob.glob('./data/npmaps_jpg/*.jpg')
-for input_filename in input_filenames:
-   extract_icons(input_filename, keys)
+    parser.add_argument(
+        '--key',
+        help='Extract symbols from the key image',
+        action='store_true',
+        dest='key')
+
+    parser.add_argument(
+        '--no-key',
+        help='Only extract symbols from the maps',
+        action='store_false',
+        dest='key')
+
+    parser.set_defaults(key=False)
+    args = parser.parse_args()
+
+    key_dir = "./data/icon_key"
+
+    if args.key:
+
+        input_key_filename = "./data/map_symbols.jpg"
+
+        print("Extracting the key from: {0}".format(input_key_filename))
+
+        extract_key(input_key_filename, key_dir)
+    else:
+        print("Loading Symbol Keys")
+        all_keys = load_keys(key_dir)
+        print("Loaded {0} Symbol Keys".format(str(len(all_keys))))
+
+        input_filenames = glob.glob('./data/npmaps_jpg/*.jpg')
+        print("Extracting symbols from: {0} maps".format(str(len(input_filenames))))
+        for input_filename in input_filenames:
+            extract_icons(input_filename, all_keys)
